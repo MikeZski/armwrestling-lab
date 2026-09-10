@@ -1,0 +1,81 @@
+{
+  "name": "Armwrestling LAB",
+  "version": "1.0.0",
+  "default_language": "en",
+  "published_languages": [
+    "pl",
+    "en"
+  ],
+  "site_url": "",
+  "channel_url": "https://www.youtube.com/results?search_query=Armwrestling+LAB",
+  "channel_url_is_search": true,
+  "featured_article": "train-rfd",
+  "build_date": "2026-09-09",
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "status": "published"
+    },
+    {
+      "code": "es",
+      "name": "Español",
+      "status": "planned"
+    },
+    {
+      "code": "fil",
+      "name": "Filipino",
+      "status": "planned"
+    },
+    {
+      "code": "fr",
+      "name": "Français",
+      "status": "planned"
+    },
+    {
+      "code": "ja",
+      "name": "日本語",
+      "status": "planned"
+    },
+    {
+      "code": "ko",
+      "name": "한국어",
+      "status": "planned"
+    },
+    {
+      "code": "pl",
+      "name": "Polski",
+      "status": "published"
+    },
+    {
+      "code": "ru",
+      "name": "Русский",
+      "status": "planned"
+    },
+    {
+      "code": "th",
+      "name": "ไทย",
+      "status": "planned"
+    },
+    {
+      "code": "vi",
+      "name": "Tiếng Việt",
+      "status": "planned"
+    },
+    {
+      "code": "zh",
+      "name": "中文",
+      "status": "planned"
+    },
+    {
+      "code": "tr",
+      "name": "Türkçe",
+      "status": "planned"
+    },
+    {
+      "code": "ka",
+      "name": "ქართული",
+      "status": "planned"
+    }
+  ]
+}

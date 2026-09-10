@@ -1,0 +1,44 @@
+{
+  "article": "enhanced-games",
+  "language": "pl",
+  "figure": {
+    "title": "Szybszy czas — nie wyizolowany efekt środka",
+    "caption": "Historyczne porównanie 50 m stylem dowolnym ze strony 5 poprawionego raportu: 20,81 s na zawodach wobec 20,88 s użytego rekordu odniesienia. Różnica: 0,07 s. To nie ratyfikacja i nie kontrola zasad, sprzętu, doboru zawodników ani ekspozycji na substancje.",
+    "labels": [
+      "Wynik na zawodach",
+      "Odniesienie z raportu",
+      "Różnica"
+    ],
+    "unit": "s"
+  },
+  "data": {
+    "kind": "numbers",
+    "origin": "reported",
+    "source": "enhanced-corrected",
+    "pages": [
+      5
+    ],
+    "values": [
+      20.81,
+      20.88,
+      0.07
+    ],
+    "precision": 2
+  },
+  "references": [
+    {
+      "authors": "Armwrestling LAB.",
+      "year": 2026,
+      "title": "Enhanced Games 2026 — corrected report",
+      "journal": "Supplied editorial research report. Sources as of 30 June 2026; pages 5, 10, 14–15.",
+      "file": "downloads/reports/enhanced-games-corrected-en.pdf"
+    },
+    {
+      "authors": "Bhasin S, et al.",
+      "year": 1996,
+      "title": "The effects of supraphysiologic doses of testosterone on muscle size and strength in normal men",
+      "journal": "New England Journal of Medicine. 335:1–7.",
+      "url": "https://doi.org/10.1056/NEJM199607043350101"
+    }
+  ]
+}

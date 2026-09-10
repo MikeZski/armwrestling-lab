@@ -1,0 +1,45 @@
+{
+  "article": "tendon-stiffness",
+  "language": "pl",
+  "figure": {
+    "title": "Cztery pytania o trening ścięgien",
+    "caption": "Redakcyjna lista kontrolna na podstawie cytowanych przeglądów. To schemat pojęciowy, a nie dane eksperymentalne ani ocena bezpieczeństwa.",
+    "labels": [
+      "Obciążenie",
+      "Ile siły i względem jakiego maksimum?",
+      "Odkształcenie",
+      "Jaka deformacja dociera do ścięgna?",
+      "Intencja",
+      "Szybki wzrost siły czy utrzymywany wysiłek?",
+      "Efekt",
+      "Czy adaptację ścięgna rzeczywiście zmierzono?"
+    ]
+  },
+  "data": {
+    "kind": "concept",
+    "origin": "editorial"
+  },
+  "references": [
+    {
+      "authors": "Lazarczuk SL, et al.",
+      "year": 2022,
+      "title": "Mechanical, Material and Morphological Adaptations of Healthy Lower Limb Tendons to Mechanical Loading: A Systematic Review and Meta-Analysis",
+      "journal": "Sports Medicine. 52:2405–2429.",
+      "url": "https://doi.org/10.1007/s40279-022-01695-y"
+    },
+    {
+      "authors": "Oranchuk DJ, Storey AG, Nelson AR, Cronin JB.",
+      "year": 2019,
+      "title": "Isometric training and long-term adaptations: Effects of muscle length, intensity, and intent: A systematic review",
+      "journal": "Scandinavian Journal of Medicine & Science in Sports. 29:484–503.",
+      "url": "https://doi.org/10.1111/sms.13375"
+    },
+    {
+      "authors": "Maffiuletti NA, Aagaard P, Blazevich AJ, Folland J, Tillin N, Duchateau J.",
+      "year": 2016,
+      "title": "Rate of force development: physiological and methodological considerations",
+      "journal": "European Journal of Applied Physiology. 116:1091–1116.",
+      "url": "https://doi.org/10.1007/s00421-016-3346-6"
+    }
+  ]
+}

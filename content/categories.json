@@ -1,0 +1,62 @@
+[
+  {
+    "id": "strength",
+    "code": "01",
+    "title": {
+      "en": "Strength & RFD",
+      "pl": "Siła i RFD"
+    },
+    "description": {
+      "en": "Maximum force, explosive strength and the profile behind performance.",
+      "pl": "Siła maksymalna, eksplozywność i profil zdolności zawodnika."
+    }
+  },
+  {
+    "id": "tendons",
+    "code": "02",
+    "title": {
+      "en": "Tendons & mechanics",
+      "pl": "Ścięgna i biomechanika"
+    },
+    "description": {
+      "en": "Loading, isometrics and the mechanics of force transmission.",
+      "pl": "Obciążanie, izometria i mechanika przenoszenia siły."
+    }
+  },
+  {
+    "id": "training",
+    "code": "03",
+    "title": {
+      "en": "Training & recovery",
+      "pl": "Trening i regeneracja"
+    },
+    "description": {
+      "en": "Better measurement, repeatable progress and the cost of training.",
+      "pl": "Lepszy pomiar, powtarzalne postępy i koszt treningu."
+    }
+  },
+  {
+    "id": "nutrition",
+    "code": "04",
+    "title": {
+      "en": "Nutrition & body composition",
+      "pl": "Żywienie i skład ciała"
+    },
+    "description": {
+      "en": "Protein, collagen and a clearer view of body mass.",
+      "pl": "Białko, kolagen i świadome podejście do masy ciała."
+    }
+  },
+  {
+    "id": "analysis",
+    "code": "05",
+    "title": {
+      "en": "Sport under the lens",
+      "pl": "Sport pod lupą"
+    },
+    "description": {
+      "en": "Claims, comparisons and the limits of what results can tell us.",
+      "pl": "Twierdzenia, porównania i granice interpretacji wyników."
+    }
+  }
+]

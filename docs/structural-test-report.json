@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "html_pages": 44,
+  "article_editions": 24,
+  "local_links_checked": 2450,
+  "unique_external_urls": 37,
+  "external_network_checked": false,
+  "errors": [],
+  "warnings": [
+    "rfd-armwrestling: labelled YouTube search link, exact video ID not supplied/confirmed.",
+    "overtraining: labelled YouTube search link, exact video ID not supplied/confirmed.",
+    "body-mass-ffmi: labelled YouTube search link, exact video ID not supplied/confirmed.",
+    "measure-progress: labelled YouTube search link, exact video ID not supplied/confirmed.",
+    "enhanced-games: labelled YouTube search link, exact video ID not supplied/confirmed."
+  ]
+}

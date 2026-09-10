@@ -1,0 +1,82 @@
+{
+  "article": "train-rfd",
+  "language": "en",
+  "figure": {
+    "title": "A higher peak is not always a faster start",
+    "caption": "Peak and force at 100 ms from the supplied wrist-curl report, pages 1–2. Selected right-hand trials; kg is the device’s force-scale reading (kgf), not lifted mass. These are discrete reported measurements, not reconstructed raw curves or RFD values.",
+    "labels": [
+      "Peak force",
+      "Force at 100 ms"
+    ],
+    "unit": "kgf"
+  },
+  "data": {
+    "kind": "grouped",
+    "origin": "reported",
+    "source": "wrist-curl-data",
+    "pages": [
+      1,
+      2
+    ],
+    "series": [
+      "Krzysiek",
+      "Andrzej"
+    ],
+    "headers": [
+      "metric",
+      "Krzysiek",
+      "Andrzej"
+    ],
+    "rows": [
+      [
+        0,
+        71.9,
+        62.2
+      ],
+      [
+        1,
+        26.7,
+        36.9
+      ]
+    ],
+    "max": 80,
+    "precision": 1
+  },
+  "references": [
+    {
+      "authors": "Balshaw TG, Massey GJ, Maden-Wilkinson TM, Lanza MB, Folland JP.",
+      "year": 2022,
+      "title": "Effect of long-term maximum strength training on explosive strength, neural, and contractile properties",
+      "journal": "Scandinavian Journal of Medicine & Science in Sports.",
+      "url": "https://doi.org/10.1111/sms.14120"
+    },
+    {
+      "authors": "Tillin NA, Folland JP.",
+      "year": 2014,
+      "title": "Maximal and explosive strength training elicit distinct neuromuscular adaptations, specific to the training stimulus",
+      "journal": "European Journal of Applied Physiology. 114:365–374.",
+      "url": "https://doi.org/10.1007/s00421-013-2781-x"
+    },
+    {
+      "authors": "Blazevich AJ, et al.",
+      "year": 2020,
+      "title": "Effects of Resistance Training Movement Pattern and Velocity on Isometric Muscular Rate of Force Development: A Systematic Review with Meta-analysis and Meta-regression",
+      "journal": "Sports Medicine. 50:943–963.",
+      "url": "https://doi.org/10.1007/s40279-019-01239-x"
+    },
+    {
+      "authors": "Oranchuk DJ, Storey AG, Nelson AR, Cronin JB.",
+      "year": 2019,
+      "title": "Isometric training and long-term adaptations: Effects of muscle length, intensity, and intent: A systematic review",
+      "journal": "Scandinavian Journal of Medicine & Science in Sports. 29:484–503.",
+      "url": "https://doi.org/10.1111/sms.13375"
+    },
+    {
+      "authors": "Maffiuletti NA, Aagaard P, Blazevich AJ, Folland J, Tillin N, Duchateau J.",
+      "year": 2016,
+      "title": "Rate of force development: physiological and methodological considerations",
+      "journal": "European Journal of Applied Physiology. 116:1091–1116.",
+      "url": "https://doi.org/10.1007/s00421-016-3346-6"
+    }
+  ]
+}

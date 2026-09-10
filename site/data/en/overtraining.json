@@ -1,0 +1,43 @@
+{
+  "article": "overtraining",
+  "language": "en",
+  "figure": {
+    "title": "From one bad session to a useful decision",
+    "caption": "Editorial decision aid based on the consensus statement. It is not a diagnostic algorithm and does not replace medical evaluation.",
+    "labels": [
+      "One low result",
+      "Check setup and ordinary day-to-day variation",
+      "Repeated decline",
+      "Review total load, sleep, nutrition and stress",
+      "Persistent symptoms",
+      "Seek an assessment; do not diagnose OTS from a graph"
+    ]
+  },
+  "data": {
+    "kind": "concept",
+    "origin": "editorial"
+  },
+  "references": [
+    {
+      "authors": "Meeusen R, et al.",
+      "year": 2013,
+      "title": "Prevention, diagnosis, and treatment of the overtraining syndrome: joint consensus statement of the European College of Sport Science and the American College of Sports Medicine",
+      "journal": "Medicine & Science in Sports & Exercise. 45:186–205.",
+      "url": "https://doi.org/10.1249/MSS.0b013e318279a10a"
+    },
+    {
+      "authors": "Clifford C, Challoumas D, Paul L, Syme G, Millar NL.",
+      "year": 2020,
+      "title": "Effectiveness of isometric exercise in the management of tendinopathy: a systematic review and meta-analysis of randomised trials",
+      "journal": "BMJ Open Sport & Exercise Medicine. 6:e000760.",
+      "url": "https://doi.org/10.1136/bmjsem-2020-000760"
+    },
+    {
+      "authors": "Lakićević M, Dopsaj M, Marković S, Matić M, Klisarić D.",
+      "year": 2021,
+      "title": "Reliability of specific tests of strength of sports arm wrestling",
+      "journal": "Facta Universitatis, Series: Physical Education and Sport. 19(1):97–107.",
+      "url": "https://doi.org/10.22190/FUPES210606013L"
+    }
+  ]
+}

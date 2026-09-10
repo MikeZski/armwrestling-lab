@@ -1,0 +1,61 @@
+{
+  "article": "collagen-vitamin-c",
+  "language": "pl",
+  "figure": {
+    "title": "Co właściwie zmierzono?",
+    "caption": "Mapa dowodów na podstawie końcowego raportu i referencji 1–5. Poziomy reprezentują różne pytania, nie punktową ocenę jakości ani założenie, że każde badanie przechodzi przez wszystkie etapy.",
+    "labels": [
+      "Dostępność",
+      "Aminokwasy we krwi",
+      "Marker",
+      "Ogólnoustrojowy PINP; nieswoisty dla ścięgna",
+      "Synteza w tkance",
+      "Z jakiej tkanki pobrano próbkę?",
+      "Adaptacja ścięgna",
+      "Struktura i mechanika w kolejnych tygodniach",
+      "Wynik sportowy",
+      "Gojenie i wynik armwrestlera nadal nieudowodnione"
+    ]
+  },
+  "data": {
+    "kind": "concept",
+    "origin": "editorial"
+  },
+  "references": [
+    {
+      "authors": "Shaw G, Lee-Barthel A, Ross MLR, Wang B, Baar K.",
+      "year": 2017,
+      "title": "Vitamin C–enriched gelatin supplementation before intermittent activity augments collagen synthesis",
+      "journal": "American Journal of Clinical Nutrition. 105:136–143.",
+      "url": "https://doi.org/10.3945/ajcn.116.138594"
+    },
+    {
+      "authors": "Aussieker T, et al.",
+      "year": 2023,
+      "title": "Collagen Protein Ingestion during Recovery from Exercise Does Not Increase Muscle Connective Protein Synthesis Rates",
+      "journal": "Medicine & Science in Sports & Exercise.",
+      "url": "https://doi.org/10.1249/MSS.0000000000003214"
+    },
+    {
+      "authors": "Aussieker T, et al.",
+      "year": 2025,
+      "title": "Ingestion of a Whey Plus Collagen Protein Blend Increases Myofibrillar and Muscle Connective Protein Synthesis Rates",
+      "journal": "Medicine & Science in Sports & Exercise. 57:544–556.",
+      "url": "https://doi.org/10.1249/MSS.0000000000003596"
+    },
+    {
+      "authors": "Nulty CD, Phelan K, Erskine RM.",
+      "year": 2025,
+      "title": "Hydrolysed Collagen Supplementation Enhances Patellar Tendon Adaptations to 12 Weeks’ Resistance Training in Middle-Aged Men",
+      "journal": "European Journal of Sport Science. 25:e12281.",
+      "url": "https://doi.org/10.1002/ejsc.12281"
+    },
+    {
+      "authors": "Buchalski A, Jeanfavre M, Altorelli C, Leff G.",
+      "year": 2026,
+      "title": "Collagen Supplementation on Tendon-Related Structural and Performance Outcomes: A Systematic Review",
+      "journal": "Journal of Functional Morphology and Kinesiology. 11(1):130.",
+      "url": "https://doi.org/10.3390/jfmk11010130"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Armwrestling LAB",
+  "short_name": "AW LAB",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#f5f3ef",
+  "theme_color": "#151617",
+  "icons": [
+    {
+      "src": "assets/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}

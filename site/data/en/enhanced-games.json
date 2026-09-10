@@ -1,0 +1,44 @@
+{
+  "article": "enhanced-games",
+  "language": "en",
+  "figure": {
+    "title": "A faster time—not an isolated drug effect",
+    "caption": "Historical 50 m freestyle comparison in the corrected report, page 5: 20.81 s at the event versus the 20.88 s official-record reference used there. Difference: 0.07 s. This is not ratification and does not control for rules, equipment, athlete selection or drug exposure.",
+    "labels": [
+      "Event performance",
+      "Reference in the report",
+      "Difference"
+    ],
+    "unit": "s"
+  },
+  "data": {
+    "kind": "numbers",
+    "origin": "reported",
+    "source": "enhanced-corrected",
+    "pages": [
+      5
+    ],
+    "values": [
+      20.81,
+      20.88,
+      0.07
+    ],
+    "precision": 2
+  },
+  "references": [
+    {
+      "authors": "Armwrestling LAB.",
+      "year": 2026,
+      "title": "Enhanced Games 2026 — corrected report",
+      "journal": "Supplied editorial research report. Sources as of 30 June 2026; pages 5, 10, 14–15.",
+      "file": "downloads/reports/enhanced-games-corrected-en.pdf"
+    },
+    {
+      "authors": "Bhasin S, et al.",
+      "year": 1996,
+      "title": "The effects of supraphysiologic doses of testosterone on muscle size and strength in normal men",
+      "journal": "New England Journal of Medicine. 335:1–7.",
+      "url": "https://doi.org/10.1056/NEJM199607043350101"
+    }
+  ]
+}

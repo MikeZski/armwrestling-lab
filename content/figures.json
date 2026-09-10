@@ -1,0 +1,215 @@
+{
+  "rfd-youth": {
+    "kind": "grouped",
+    "origin": "reported",
+    "source": "rfd-armwrestling",
+    "pages": [
+      2
+    ],
+    "headers": [
+      "arm",
+      "general",
+      "leaders"
+    ],
+    "rows": [
+      [
+        0,
+        79.45,
+        90.47
+      ],
+      [
+        1,
+        85.69,
+        92.75
+      ]
+    ],
+    "max": 100,
+    "precision": 2
+  },
+  "rfd-club": {
+    "kind": "grouped",
+    "origin": "reported",
+    "source": "wrist-curl-data",
+    "pages": [
+      1,
+      2
+    ],
+    "series": [
+      "Krzysiek",
+      "Andrzej"
+    ],
+    "headers": [
+      "metric",
+      "Krzysiek",
+      "Andrzej"
+    ],
+    "rows": [
+      [
+        0,
+        71.9,
+        62.2
+      ],
+      [
+        1,
+        26.7,
+        36.9
+      ]
+    ],
+    "max": 80,
+    "precision": 1
+  },
+  "loading-checklist": {
+    "kind": "concept",
+    "origin": "editorial"
+  },
+  "tendon-meta": {
+    "kind": "interval",
+    "origin": "reported",
+    "source": "tendon-isometrics",
+    "pages": [
+      3
+    ],
+    "source_url": "https://doi.org/10.1007/s40279-022-01695-y",
+    "headers": [
+      "outcome",
+      "estimate",
+      "lower_95",
+      "upper_95"
+    ],
+    "rows": [
+      [
+        0,
+        0.74,
+        0.62,
+        0.86
+      ],
+      [
+        1,
+        0.82,
+        0.58,
+        1.07
+      ],
+      [
+        2,
+        0.22,
+        0.12,
+        0.33
+      ]
+    ],
+    "min": 0,
+    "max": 1.2,
+    "precision": 2
+  },
+  "collagen-ladder": {
+    "kind": "concept",
+    "origin": "editorial"
+  },
+  "protein-context": {
+    "kind": "interval",
+    "origin": "reported",
+    "source_url": "https://doi.org/10.1136/bjsports-2017-097608",
+    "headers": [
+      "outcome",
+      "estimate",
+      "lower_95",
+      "upper_95"
+    ],
+    "rows": [
+      [
+        0,
+        1.62,
+        1.03,
+        2.2
+      ]
+    ],
+    "min": 0,
+    "max": 2.5,
+    "precision": 2
+  },
+  "fatigue-decision": {
+    "kind": "concept",
+    "origin": "editorial"
+  },
+  "ffmi-example": {
+    "kind": "table",
+    "origin": "calculation",
+    "formula": "FFM = 90 * (1 - body_fat/100); FFMI = FFM / 1.8**2",
+    "rows": [
+      [
+        "12%",
+        79.2,
+        24.44
+      ],
+      [
+        "15%",
+        76.5,
+        23.61
+      ],
+      [
+        "18%",
+        73.8,
+        22.78
+      ]
+    ],
+    "precision": 2
+  },
+  "sampling-intervals": {
+    "kind": "table",
+    "origin": "calculation",
+    "formula": "interval_ms = 1000/frequency_Hz",
+    "rows": [
+      [
+        "80 Hz",
+        12.5
+      ],
+      [
+        "200 Hz",
+        5
+      ],
+      [
+        "500 Hz",
+        2
+      ],
+      [
+        "1000 Hz",
+        1
+      ]
+    ],
+    "precision": 1
+  },
+  "torque-example": {
+    "kind": "table",
+    "origin": "calculation",
+    "formula": "moment_Nm = force_N * perpendicular_moment_arm_m",
+    "rows": [
+      [
+        "100 N",
+        "0.20 m",
+        "20 N·m"
+      ],
+      [
+        "100 N",
+        "0.30 m",
+        "30 N·m"
+      ]
+    ]
+  },
+  "performance-map": {
+    "kind": "concept",
+    "origin": "editorial"
+  },
+  "enhanced-comparison": {
+    "kind": "numbers",
+    "origin": "reported",
+    "source": "enhanced-corrected",
+    "pages": [
+      5
+    ],
+    "values": [
+      20.81,
+      20.88,
+      0.07
+    ],
+    "precision": 2
+  }
+}

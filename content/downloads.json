@@ -1,0 +1,164 @@
+[
+  {
+    "id": "rfd-armwrestling",
+    "type": "report",
+    "path": "downloads/reports/rfd-armwrestling-en.pdf",
+    "language": "en",
+    "published": true,
+    "title": {
+      "en": "RFD in armwrestling: research report",
+      "pl": "RFD w armwrestlingu: raport badawczy"
+    },
+    "description": {
+      "en": "11 pages of studies, definitions and comparative tables.",
+      "pl": "11 stron badań, definicji i tabel porównawczych."
+    },
+    "version": "2026-09-09",
+    "pages": 11,
+    "source": "pdf/RFD/armwrestling_RFD_report_EN.pdf"
+  },
+  {
+    "id": "rfd-training",
+    "type": "report",
+    "path": "downloads/reports/rfd-training-en.pdf",
+    "language": "en",
+    "published": true,
+    "title": {
+      "en": "Training RFD: evidence report",
+      "pl": "Trening RFD: raport badawczy"
+    },
+    "description": {
+      "en": "Training adaptations, maximal force and early force development.",
+      "pl": "Adaptacje treningowe, siła maksymalna i wczesny przyrost siły."
+    },
+    "version": "2026-09-09",
+    "pages": 14,
+    "source": "pdf/RFD science/RFD_publikacje_uporzadkowane_FINAL/RFD_report_EN.pdf"
+  },
+  {
+    "id": "wrist-curl-data",
+    "type": "report",
+    "path": "downloads/reports/wrist-curl-data-en.pdf",
+    "language": "en",
+    "published": true,
+    "title": {
+      "en": "Isometric wrist curl: measured checkpoints",
+      "pl": "Izometryczne zgięcie nadgarstka: dane pomiarowe"
+    },
+    "description": {
+      "en": "Right-hand trials, force checkpoints and normalised RFD. Original CSV files were not supplied.",
+      "pl": "Próby prawej ręki, odczyty siły i znormalizowane RFD. Archiwum nie zawiera źródłowych CSV."
+    },
+    "version": "2026-09-09",
+    "pages": 3,
+    "source": "pdf/RFD science/wrist_curl_comparison_RAW_verified.pdf"
+  },
+  {
+    "id": "tendon-isometrics",
+    "type": "report",
+    "path": "downloads/reports/tendon-isometrics-en.pdf",
+    "language": "en",
+    "published": true,
+    "title": {
+      "en": "Tendons & isometrics: visual evidence",
+      "pl": "Ścięgna i izometria: mapa dowodów"
+    },
+    "description": {
+      "en": "Engineered ligaments, human loading research and isometric evidence.",
+      "pl": "Modele więzadeł, badania obciążania ścięgien i dowody o izometrii."
+    },
+    "version": "2026-09-09",
+    "pages": 9,
+    "source": "pdf/keith baar/Tendon_isometrics_Baar_VISUAL_DATA_EN.pdf"
+  },
+  {
+    "id": "collagen-final",
+    "type": "report",
+    "path": "downloads/reports/collagen-protein-final-en.pdf",
+    "language": "en",
+    "published": true,
+    "title": {
+      "en": "Collagen, vitamin C & protein: final report",
+      "pl": "Kolagen, witamina C i białko: raport końcowy"
+    },
+    "description": {
+      "en": "The primary editorial report for the collagen article.",
+      "pl": "Główny raport źródłowy artykułu o kolagenie."
+    },
+    "version": "2026-09-09",
+    "pages": 27,
+    "source": "pdf/vitamine C/Collagen_Vitamin_C_and_Dietary_Protein_Evidence_Report_EN_FINAL.pdf"
+  },
+  {
+    "id": "collagen-visual",
+    "type": "report",
+    "path": "downloads/reports/collagen-visual-en.pdf",
+    "language": "en",
+    "published": true,
+    "title": {
+      "en": "Collagen & vitamin C: visual deck",
+      "pl": "Kolagen i witamina C: prezentacja"
+    },
+    "description": {
+      "en": "Supplementary visual deck. Read alongside the final evidence report.",
+      "pl": "Pomocnicza prezentacja. Należy czytać razem z raportem końcowym."
+    },
+    "version": "2026-09-09",
+    "pages": 9,
+    "source": "pdf/vitamine C/Collagen_vitamin_C_VISUAL_DATA_EN.pdf"
+  },
+  {
+    "id": "enhanced-corrected",
+    "type": "report",
+    "path": "downloads/reports/enhanced-games-corrected-en.pdf",
+    "language": "en",
+    "published": true,
+    "title": {
+      "en": "Enhanced Games: corrected report",
+      "pl": "Enhanced Games: raport po korekcie"
+    },
+    "description": {
+      "en": "Historical analysis. Source cutoff: 30 June 2026.",
+      "pl": "Analiza historyczna. Stan źródeł: 30 czerwca 2026."
+    },
+    "version": "2026-09-09",
+    "pages": 15,
+    "source": "pdf/Enchanced games/enhanced_games_report_EN_corrected.pdf"
+  },
+  {
+    "id": "enhanced-deck",
+    "type": "report",
+    "path": "downloads/reports/enhanced-games-deck-en.pdf",
+    "language": "en",
+    "published": true,
+    "title": {
+      "en": "Enhanced Games: video deck",
+      "pl": "Enhanced Games: prezentacja do filmu"
+    },
+    "description": {
+      "en": "Supplementary deck; the corrected report takes precedence.",
+      "pl": "Prezentacja pomocnicza; pierwszeństwo ma raport po korekcie."
+    },
+    "version": "2026-09-09",
+    "pages": 21,
+    "source": "pdf/Enchanced games/enhanced_games_video_deck_EN.pdf"
+  },
+  {
+    "id": "bfr-visual",
+    "type": "report",
+    "path": "downloads/reports/bfr-visual-en.pdf",
+    "language": "en",
+    "published": true,
+    "title": {
+      "en": "BFR: visual evidence report",
+      "pl": "BFR: wizualny raport badawczy"
+    },
+    "description": {
+      "en": "Source material only. No written exercise or cuff-pressure tutorial is inferred.",
+      "pl": "Materiał źródłowy. Bez dopisywania instrukcji ćwiczeń i doboru ciśnienia mankietu."
+    },
+    "version": "2026-09-09",
+    "pages": 9,
+    "source": "pdf/BFR/BFR_VISUAL_DATA_EN.pdf"
+  }
+]

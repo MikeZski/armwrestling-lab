@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "edition": "2026-09-09",
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "article_count": 12,
+  "html_pages": 44,
+  "site_url": "",
+  "offline_ready": true
+}

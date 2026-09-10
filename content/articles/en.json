@@ -1,0 +1,524 @@
+{
+  "rfd-armwrestling": {
+    "title": "RFD: the strength you can use before the match moves on",
+    "summary": "A large maximum is only one part of an armwrestler’s strength profile. The research in the video asks a different question: how much force is available early enough to influence the contest?",
+    "takeaway": "Measure maximum force and early force separately. Existing armwrestling studies support a multi-dimensional profile, not the claim that maximum strength is irrelevant or that speed alone predicts the winner.",
+    "sections": [
+      {
+        "heading": "Three measurements, three different questions",
+        "paragraphs": [
+          "Reaction time is the delay between a signal and the start of a response. Force at 100 or 500 milliseconds is the force reached after a defined contraction onset. Rate of force development, or RFD, describes how quickly force rises: the change in force divided by the time interval. These measures are related, but they are not interchangeable. A high force reading at 500 milliseconds is not itself an RFD value, and a laboratory contraction does not reproduce an entire competitive start. [5]"
+        ]
+      },
+      {
+        "heading": "What the young armwrestlers actually showed",
+        "paragraphs": [
+          "Bezkorovainyi and colleagues studied 29 athletes aged 14–15, comparing nine leaders with a group of twenty. The leaders performed better on several early force measures. However, they also had higher maximum force in hook and wrist-flexion tests; the results do not support dismissing maximal strength. The report’s early-force values are aggregated across four tests. They must not be presented as the force produced in one wrist curl. The chart preserves that distinction. [1]"
+        ]
+      },
+      {
+        "heading": "Different profiles can produce high-level performance",
+        "paragraphs": [
+          "A separate study of four elite armwrestlers described different combinations of maximum force and force-development timing. Four selected athletes cannot establish a universal sporting hierarchy, and the anonymous participants should not be assigned famous names. Another comparison, involving nine armwrestlers and nine strength-trained men, found advantages in elbow-flexor performance in the armwrestlers. Research on competition ranking also includes perceptual and anthropometric characteristics, rather than one decisive strength metric. These are associations, not experiments proving what training caused the differences. [2–4]"
+        ]
+      },
+      {
+        "heading": "Turn the idea into better monitoring",
+        "paragraphs": [
+          "The useful lesson from the narration is to stop judging every session by the heaviest load alone. Under repeatable conditions, examine maximum force alongside force at predefined early time points. Keep the joint position, starting tension and instructions constant. A rise in maximum strength with unchanged early force is a different adaptation from a faster force rise with an unchanged maximum. Develop both capacities and then assess transfer at the table; 500 milliseconds is a measurement window, not a universal deadline for every match. [5]"
+        ]
+      }
+    ],
+    "limitations": "Samples are small or observational, and test positions differ. Neither these studies nor a single force curve can identify muscle-fibre composition, prove a genetic ceiling or predict the result of an individual match.",
+    "figure": {
+      "title": "Early force in young armwrestlers",
+      "caption": "Values reported at 500 ms, summed across four tests—not one movement. General group n=20; leaders n=9. Redrawn from the supplied RFD report, page 2, based on Bezkorovainyi et al. (2024). Means only; no uncertainty bars are reconstructed.",
+      "labels": [
+        "Left arm",
+        "Right arm",
+        "General group",
+        "Leaders"
+      ],
+      "unit": "kg, reported dynamometer scale"
+    }
+  },
+  "train-rfd": {
+    "title": "Training RFD: fast intent, specific adaptation",
+    "summary": "Explosive strength is not just a heavy lift performed with more enthusiasm. The training studies and the channel’s wrist-curl measurements show why intention, test conditions and the chosen time window matter.",
+    "takeaway": "Combine a foundation of maximum strength with deliberate rapid-force practice. Evaluate the adaptation you wanted to train, rather than assuming a higher maximum automatically means a better start.",
+    "sections": [
+      {
+        "heading": "More strength does not improve every time window equally",
+        "paragraphs": [
+          "The long-term strength-training paper discussed in the video is a cross-sectional comparison, not a study following the same people through years of training. Stronger, trained participants produced greater absolute explosive force, but their advantage was not uniform when force was expressed relative to their maximum. That distinction matters: raising the ceiling and reaching a greater fraction of it quickly are different outcomes. The study cannot establish a person’s inevitable trajectory or show that years of strength training make them slower. [1]"
+        ]
+      },
+      {
+        "heading": "Intent is part of the stimulus",
+        "paragraphs": [
+          "Intervention studies distinguish sustained maximal contractions from contractions performed with the intention to generate force as rapidly as possible. Their adaptations are partly specific to the task. A systematic review also identifies muscle length, intensity and intent as relevant features of isometric training. An immovable setup can therefore involve explosive intent without visible movement. Conversely, a fast-moving light object does not, by itself, tell us the force reached or the tendon strain involved. [2–4]"
+        ]
+      },
+      {
+        "heading": "What the channel’s measurements illustrate",
+        "paragraphs": [
+          "In the supplied wrist-curl report, Krzysiek’s peak was 71.9 kg on the dynamometer scale, while Andrzej’s was 62.2 kg. At 100 milliseconds the order was reversed: 26.7 versus 36.9 kg. This illustrates why peak force and early force deserve separate columns. It does not establish superior match performance. Force at a time point is also not the same as RFD: calculating average RFD requires subtracting force at onset and dividing by elapsed time. The source report supplies those calculations separately."
+        ]
+      },
+      {
+        "heading": "Specific practice without false precision",
+        "paragraphs": [
+          "The practical interpretation is to separate maximum-strength work from high-quality attempts focused on rapid force production, with enough recovery to preserve the intended task. The exact dose should not be copied mechanically from a knee-extension study into an armwrestling wrist position. Use a stable fixture, familiarisation and repeated measurements. Early RFD is particularly sensitive to onset detection, pre-tension, filtering and sampling frequency. A small improvement in an app is not automatically a physiological improvement. [3–5]"
+        ]
+      }
+    ],
+    "limitations": "The club report contains selected trials, not a controlled experiment. The archive does not contain the original raw CSV files; the chart reproduces printed checkpoints only. Equipment and positioning issues described in the narration further limit comparisons between people.",
+    "figure": {
+      "title": "A higher peak is not always a faster start",
+      "caption": "Peak and force at 100 ms from the supplied wrist-curl report, pages 1–2. Selected right-hand trials; kg is the device’s force-scale reading (kgf), not lifted mass. These are discrete reported measurements, not reconstructed raw curves or RFD values.",
+      "labels": [
+        "Peak force",
+        "Force at 100 ms"
+      ],
+      "unit": "kgf"
+    }
+  },
+  "tendon-stiffness": {
+    "title": "Does an “explosive” drill really stiffen tendons?",
+    "summary": "The video challenges a tendon-stiffening claim. The most useful response is not to judge a drill by its appearance, but to ask whether its loading and outcomes were actually measured.",
+    "takeaway": "High intensity, rapid intent and increased tendon stiffness are three separate claims. None follows automatically from a movement looking fast or feeling demanding.",
+    "sections": [
+      {
+        "heading": "Define the property before promising to change it",
+        "paragraphs": [
+          "Tendon stiffness describes the relationship between force and elongation. Young’s modulus describes material behaviour after accounting for dimensions, while cross-sectional area describes size. These are not interchangeable meanings of “strong tendons”. In a synthesis of 61 articles on healthy lower-limb tendons, loading was associated with larger changes in stiffness and modulus than in tendon size. The pooled estimates describe the studied tendons and interventions, not a measured effect of the drill criticised in the video. [1]"
+        ]
+      },
+      {
+        "heading": "Intensity cannot be read from movement speed",
+        "paragraphs": [
+          "A useful description of a protocol includes external resistance, force relative to the relevant maximum, joint position, loading duration and progression. For tendon adaptation, local strain is particularly relevant; the same external weight need not create the same strain in two people. A short, light movement may be fast without imposing the loading assumed by the label “high intensity”. Equally, without measuring it, one should not claim to know exactly how little force it produces. [1,2]"
+        ]
+      },
+      {
+        "heading": "Explosive intent is not a visible jerk",
+        "paragraphs": [
+          "RFD concerns the rise of force over time. It can be trained against an immovable resistance, where the intent is rapid despite the absence of visible motion. Early and later portions of the force-time curve also have partly different determinants. The video is right to separate speed of movement from rate of force production, but the usefulness of a particular time window cannot be dismissed universally. Its relevance depends on the task, the athlete and the reliability of measurement. [2,3]"
+        ]
+      },
+      {
+        "heading": "Use a claim checklist, not an internet verdict",
+        "paragraphs": [
+          "To demonstrate tendon stiffening, a study would need appropriate before-and-after tendon measurements, a defined intervention and a defensible comparison. To establish comparative safety, it would need more than a plausible mechanical explanation. The supplied material does not provide such a trial of this exact drill. Its potential benefits and risks therefore remain uncertain. The reasonable training principle is to select a controllable stimulus with a clear goal and progression, rather than treat a catchy protocol name as evidence of adaptation. [1,2]"
+        ]
+      }
+    ],
+    "limitations": "This article analyses claims, not the unseen execution of an exercise. It neither proves that the demonstrated drill is ineffective nor quantifies its injury risk. Lower-limb tendon findings cannot be converted directly into a validated wrist or elbow protocol.",
+    "figure": {
+      "title": "Four questions behind a tendon-training claim",
+      "caption": "Editorial checklist based on the cited reviews. This is a conceptual summary, not experimental data or a safety rating.",
+      "labels": [
+        "Load",
+        "How much force, relative to which maximum?",
+        "Strain",
+        "What deformation reaches the tendon?",
+        "Intent",
+        "Fast force rise or sustained effort?",
+        "Outcome",
+        "Was tendon adaptation measured?"
+      ]
+    }
+  },
+  "keith-baar-isometrics": {
+    "title": "Keith Baar’s isometrics: useful ideas, not a magic hold time",
+    "summary": "The channel’s two-year experience sits beside several different evidence streams: engineered ligaments, human tendon adaptations and pain studies. Their findings are interesting precisely because they answer different questions.",
+    "takeaway": "Isometrics can be a useful loading tool. A laboratory signalling response, short-term pain relief and long-term tendon adaptation should not be treated as three proofs of one universal protocol.",
+    "sections": [
+      {
+        "heading": "Where the short-loading idea came from",
+        "paragraphs": [
+          "Paxton and colleagues studied engineered ligaments, not injured human wrists. Mechanical stimulation activated signalling pathways, with a response that became less sensitive during continued loading and recovered after a period without it. Intermittent loading improved collagen-related outcomes in that model. This supports a biological hypothesis about dose and recovery; it does not validate a fixed ten-minute routine, a six-hour schedule or a particular hold duration for every human tendon. The channel’s personal experience is useful context, but it is not the missing clinical comparison. [1]"
+        ]
+      },
+      {
+        "heading": "Human tendons do adapt to loading",
+        "paragraphs": [
+          "The Lazarczuk review included 61 articles and 763 participants. Its pooled standardised changes were 0.74 for stiffness, 0.82 for Young’s modulus and 0.22 for cross-sectional area. These are standardised effect sizes, not 74%, 82% and 22% increases. They were calculated from pre-to-post changes in intervention groups, rather than one universal comparison against an untreated control. The results support tendon adaptation to mechanical loading, while leaving uncertainty about the best dose and transfer to armwrestling. [2]"
+        ]
+      },
+      {
+        "heading": "Less pain is not the same as repaired tissue",
+        "paragraphs": [
+          "A small patellar-tendinopathy study involving six participants reported immediate pain relief after isometric exercise. Later evidence was less uniform. A systematic review of ten trials found no clear overall superiority of isometrics over isotonic exercise for chronic tendinopathy, and responses varied. An athlete may find isometrics comfortable or helpful, but an analgesic response does not establish that a tendon has healed or is ready for maximal table loading. Knee findings are not a diagnosis or treatment plan for wrist pain. [3,4]"
+        ]
+      },
+      {
+        "heading": "What survives the move from laboratory to training",
+        "paragraphs": [
+          "The defensible common ground is controlled loading, progression and attention to the person’s response. Intensity, muscle length and intent matter alongside duration. There is no established boundary where a short hold only stiffens tissue and a longer hold uniquely “heals” it. Likewise, observational reports from climbers cannot isolate the mechanism of a combined routine. Use isometrics as one possible component of a wider programme, not an obligation to add more daily loading on top of an already demanding week. [2,4,5]"
+        ]
+      }
+    ],
+    "limitations": "The evidence spans cell-based models, healthy lower-limb tendons and patients with different tendinopathies. None establishes one optimal armwrestling rehabilitation protocol. Persistent pain, weakness or instability warrants professional assessment rather than progressively harder self-testing.",
+    "figure": {
+      "title": "Tendon adaptation is not just an increase in size",
+      "caption": "Lazarczuk et al. (2022): pooled standardised pre-to-post changes with 95% confidence intervals. Based on 61 articles overall, with different contributing groups for each outcome. SMD is unitless—not a percentage or an effect against a single control group.",
+      "labels": [
+        "Stiffness",
+        "Young’s modulus",
+        "Cross-sectional area"
+      ],
+      "unit": "SMD · 95% CI"
+    }
+  },
+  "collagen-vitamin-c": {
+    "title": "Collagen and vitamin C: what the tendon evidence really shows",
+    "summary": "The final PDF is more nuanced than a simple supplement verdict. It separates amino-acid availability, blood markers and direct tendon outcomes—and asks whether collagen outperforms an appropriate protein comparison.",
+    "takeaway": "Collagen is a plausible optional addition to loading, not a proven shortcut to healed armwrestling tendons. The strongest positive trials do not settle its advantage over an equivalent amount of another protein.",
+    "sections": [
+      {
+        "heading": "Climb the evidence ladder carefully",
+        "paragraphs": [
+          "The classic gelatin study combined a vitamin-C-enriched supplement with intermittent activity and reported collagen-related responses. However, a rise in circulating PINP is not a tendon-specific measurement and does not demonstrate injury recovery. Engineered tissue exposed to participants’ serum answers another question again. The final report correctly treats amino-acid availability, systemic biomarkers, direct tissue synthesis and long-term tendon mechanics as different levels of evidence. Moving upward requires a new measurement, not stronger wording. [1]"
+        ]
+      },
+      {
+        "heading": "Direct measurements are informative, but not identical",
+        "paragraphs": [
+          "Muscle connective-protein synthesis is closer to tissue biology than a blood marker, yet a muscle biopsy still does not measure a wrist tendon. Acute studies of collagen alone and whey-plus-collagen blends have produced different findings under different comparisons. They should not be reduced to “collagen never works” or “all connective tissue is repaired faster”. The protein source, comparison drink, total nitrogen and measured tissue determine what each experiment can actually establish. [2,3]"
+        ]
+      },
+      {
+        "heading": "The positive tendon trial—and its important control",
+        "paragraphs": [
+          "Nulty and colleagues studied 20 middle-aged men during twelve weeks of twice-weekly lower-limb resistance training. Nine received 30 g hydrolysed collagen after training; eleven received an energy-matched carbohydrate placebo. Both groups received 50 mg vitamin C. The collagen group showed greater improvements in patellar-tendon size, stiffness and modulus, without an extra benefit for muscle strength or power. This is a direct, long-term tendon finding. However, because only one group received additional protein, the comparison cannot isolate a unique collagen-peptide effect from all consequences of adding that protein. [4]"
+        ]
+      },
+      {
+        "heading": "What this means for an armwrestler’s diet",
+        "paragraphs": [
+          "A 2026 review brings together eight randomised tendon trials, but differences in participants, products and loading remain important. Some positive studies supplemented after exercise, so a universal pre-training timing rule is not established. Adequate overall nutrition and progressive loading remain the foundation; collagen should not displace complete dietary protein. The report’s whole-body collagen-turnover estimate is also not a hard daily synthesis ceiling. Neither “the body cannot use more” nor “more grams guarantee better tendons” follows from it. [4,5]"
+        ]
+      }
+    ],
+    "limitations": "There is no direct trial here showing faster healing or better match performance in armwrestlers. The studied doses describe experiments, not a personalised prescription. Vitamin C’s identical use in both Nulty groups means that trial did not test an extra vitamin-C benefit.",
+    "figure": {
+      "title": "What was actually measured?",
+      "caption": "Evidence map synthesised from the final supplied report and references 1–5. The steps represent different questions, not a numeric quality score or proof that every study progresses through all levels.",
+      "labels": [
+        "Availability",
+        "Amino acids in blood",
+        "Biomarker",
+        "Systemic PINP; not tendon-specific",
+        "Tissue synthesis",
+        "Which tissue was sampled?",
+        "Tendon adaptation",
+        "Structure and mechanics over weeks",
+        "Sport outcome",
+        "Healing and armwrestling performance remain unproven"
+      ]
+    }
+  },
+  "diet-armwrestling": {
+    "title": "An armwrestler’s diet: enough fuel, not endless bulking",
+    "summary": "The film argues against extremes: eating too little, chasing the scale or treating one protein number as the whole diet. Research supports a more useful focus on training, body-mass trends and nutritional adequacy.",
+    "takeaway": "Build a sustainable diet around sufficient energy and protein. Adjust it to your training response and weight-class goals, rather than assuming the fastest weight gain produces the best armwrestler.",
+    "sections": [
+      {
+        "heading": "Body mass is an outcome, not the training goal",
+        "paragraphs": [
+          "The practical point of the narration is that eating more and becoming a better competitor are not the same thing. A fixed surplus cannot guarantee that the added weight is useful muscle. Treat any calorie target as a starting estimate and examine trends in body mass, training quality and recovery over time. This is a monitoring strategy, not an experimentally proven armwrestling-specific calorie formula. Weight-class constraints and the athlete’s starting position change the decision; neither aggressive bulking nor chronic under-fuelling is a universal solution. [3]"
+        ]
+      },
+      {
+        "heading": "What the familiar protein number means",
+        "paragraphs": [
+          "Morton and colleagues pooled 49 resistance-training studies involving 1,863 participants. Their analysis estimated a breakpoint around 1.62 g protein per kilogram of body mass per day for additional fat-free-mass gains, with a broad 95% confidence interval of 1.03–2.20. This is a group-level estimate, not a precise ceiling applying to every person or a safety limit. About 1.6 g/kg/day can be a useful planning reference for a healthy exercising adult, while individual context still matters. [1]"
+        ]
+      },
+      {
+        "heading": "Do not make the rest of the diet disappear",
+        "paragraphs": [
+          "Protein does not replace sufficient total energy, varied food or a pattern that supports regular training. The film’s suggested calorie, carbohydrate and fat quantities are practical opinions, not universal physiological boundaries established by the cited protein meta-analysis. A mixed or plant-based approach needs to meet the same underlying nutritional needs; the label alone does not establish quality. When energy restriction, a medical condition or a difficult weight cut is involved, individual dietary advice is more appropriate than copying a channel-wide number. [1,3]"
+        ]
+      },
+      {
+        "heading": "Supplements belong after the foundations",
+        "paragraphs": [
+          "A protein supplement is one way to fill a dietary gap, not a separate route around training. Collagen needs additional nuance: a positive patellar-tendon trial compared added collagen protein with carbohydrate, while both groups received vitamin C. It therefore does not show that collagen is superior to an equivalent serving of complete protein for every purpose. Nor did that trial show additional strength or power gains. Keep the question specific: muscle development, dietary convenience and tendon adaptation are different outcomes. [1,2]"
+        ]
+      }
+    ],
+    "limitations": "Most evidence comes from general resistance training rather than armwrestling. The proposed monitoring approach is an editorial application, not a tested meal plan. Individual requirements may differ with age, health, training load and energy restriction.",
+    "figure": {
+      "title": "A reference point is not a hard ceiling",
+      "caption": "Morton et al. (2018): estimated protein-intake breakpoint for additional fat-free-mass gains during resistance training. Point estimate 1.62 g/kg/day; 95% CI 1.03–2.20. This is uncertainty around a model estimate, not a recommended intake range for every reader.",
+      "labels": [
+        "Estimated breakpoint",
+        "95% confidence interval"
+      ],
+      "unit": "g/kg/day"
+    }
+  },
+  "overtraining": {
+    "title": "Fatigue, stalled progress or overtraining? Do not confuse them",
+    "summary": "Different exercises can load the same elbow and forearm tissues. The film’s strongest point is this hidden overlap—not the claim that a disappointing strength test diagnoses overtraining syndrome.",
+    "takeaway": "Count the whole training week, including table work. Investigate persistent performance decline, but do not label every tired session or painful elbow “overtraining syndrome”.",
+    "sections": [
+      {
+        "heading": "Your tissues do not read the exercise names",
+        "paragraphs": [
+          "Pronation work, wrist flexion, pulling exercises and table practice can share muscular demands. A programme may look varied on paper while repeatedly loading the same region. The narration is useful when it asks the athlete to add these exposures together instead of judging each session in isolation. Record not only exercise names but effort, duration, demanding sets and symptoms. This is an organisational tool; it does not produce a validated numerical limit for the elbow or tell us that almost every armwrestler is overtrained. [1]"
+        ]
+      },
+      {
+        "heading": "Use the right term for the right problem",
+        "paragraphs": [
+          "The ECSS/ACSM consensus distinguishes ordinary fatigue and short-term functional overreaching from longer-lasting maladaptation and overtraining syndrome. OTS involves persistent performance impairment and requires consideration of other causes; there is no single accepted diagnostic marker. A low maximum, extra warm-up time or a sore forearm is therefore insufficient. Sleep disruption, inadequate nutrition, illness, psychological stress, local injury and a changed test setup can all alter what the athlete experiences or measures. [1]"
+        ]
+      },
+      {
+        "heading": "Monitor trends without turning testing into more fatigue",
+        "paragraphs": [
+          "A repeatable submaximal task, training log and symptom record may be more useful than repeatedly forcing a personal best while performance is declining. Choose the same setup and consider several observations, because measurement noise is real. Armwrestling-specific reliability research found maximum-force variables more consistent than RFD variables under its particular protocol. That does not provide a universal alarm threshold, but it warns against treating every small change as evidence of lost fitness. [2,3]"
+        ]
+      },
+      {
+        "heading": "Respond to the pattern, not to one number",
+        "paragraphs": [
+          "A practical first review is to identify recent increases in load, restore recovery opportunities and check whether the programme matches current capacity. Reducing overlapping demanding work may be sensible, but the appropriate amount and duration are individual. Pain deserves its own assessment: short-term relief from an isometric hold does not prove that further loading is safe. When decline persists despite recovery, or pain, weakness or instability is significant, professional evaluation is more useful than adding another maximal test. [1,2]"
+        ]
+      }
+    ],
+    "limitations": "The supplied transcript contains personal observations, not prevalence data or a diagnostic study. The article does not estimate how many armwrestlers have OTS and does not prescribe a fixed deload or rehabilitation schedule.",
+    "figure": {
+      "title": "From one bad session to a useful decision",
+      "caption": "Editorial decision aid based on the consensus statement. It is not a diagnostic algorithm and does not replace medical evaluation.",
+      "labels": [
+        "One low result",
+        "Check setup and ordinary day-to-day variation",
+        "Repeated decline",
+        "Review total load, sleep, nutrition and stress",
+        "Persistent symptoms",
+        "Seek an assessment; do not diagnose OTS from a graph"
+      ]
+    }
+  },
+  "body-mass-ffmi": {
+    "title": "Body mass and FFMI: a useful estimate, not a doping detector",
+    "summary": "The video questions how much of an armwrestler’s body weight is useful muscle. FFMI helps organise that discussion, but it cannot measure arm-specific potential or prove how an individual athlete achieved a physique.",
+    "takeaway": "Use body composition as context for performance. FFMI is sensitive to measurement assumptions and should not be turned into a universal natural limit or an accusation about a named athlete.",
+    "sections": [
+      {
+        "heading": "Know what the index counts",
+        "paragraphs": [
+          "Fat-free mass is body mass minus estimated fat mass. FFMI divides that fat-free mass by height squared. Fat-free mass includes water, bone and organs as well as skeletal muscle, so the result is not a direct measurement of muscle quantity. The original height-normalised version adds 6.3 × (1.80 − height in metres). Distinguish raw and normalised FFMI when comparing values; otherwise two apparently identical numbers may have been calculated differently. [1]"
+        ]
+      },
+      {
+        "heading": "Why the number 25 needs context",
+        "paragraphs": [
+          "Kouri and colleagues studied 157 men, including 83 reported anabolic-steroid users and 74 nonusers. The nonuser group’s normalised values reached approximately 25, while higher values occurred among users. The paper also discussed historical bodybuilders using estimates. This influential observation was not a census of all genetically possible physiques, a validated individual doping test or a model for women and every sport. It cannot establish that a specific armwrestler is using drugs from a photo, height and reported body weight. [1]"
+        ]
+      },
+      {
+        "heading": "A small body-fat error changes the conclusion",
+        "paragraphs": [
+          "Consider an illustrative athlete weighing 90 kg at a height of 1.80 m. At 15% estimated body fat, fat-free mass is 76.5 kg and FFMI is 23.61. Changing only the body-fat estimate to 12% produces 24.44; changing it to 18% produces 22.78. These are calculations, not three measured athletes. The example shows how uncertainty in an input can move the result substantially before any real muscle gain or loss has occurred."
+        ]
+      },
+      {
+        "heading": "Return the discussion to the table",
+        "paragraphs": [
+          "Armwrestling performance depends on specific force production, timing, geometry and technique, not simply total fat-free mass. Comparisons between armwrestlers and other strength-trained athletes support looking at specific performance characteristics. Neither FFMI nor a chosen body-fat percentage reveals how much muscle someone can add to the forearm, how much leg mass should be removed, or an ideal competitive body weight. Track body mass alongside repeatable sport-relevant tests; a weight increase is useful only in relation to the athlete’s goals and constraints. [2,3]"
+        ]
+      }
+    ],
+    "limitations": "The calculations depend on estimated body fat and accurate height. This is an explanatory example, not a body-composition assessment, weight-cutting plan or judgement about any person’s drug use. Fifteen percent body fat is an input here, not a universal optimum.",
+    "figure": {
+      "title": "The same athlete, three body-fat assumptions",
+      "caption": "Calculated example: 90 kg, 1.80 m. Only the assumed body-fat percentage changes. At this height the original normalisation adds zero. The figures are not empirical observations or recommended body-fat targets.",
+      "labels": [
+        "Assumed body fat",
+        "Fat-free mass",
+        "FFMI"
+      ],
+      "unit": "kg/m²"
+    }
+  },
+  "measure-progress": {
+    "title": "Are you stronger—or has the test become easier?",
+    "summary": "A larger number is convincing only when the task stays the same. The film’s discussion of angles, cables and dynamometers is best understood as a lesson in measurement, not a shopping guide.",
+    "takeaway": "Standardise the test before celebrating a record. Keep maximum force, early force and measurement uncertainty separate, and do not assume an instrument’s decimal places describe its accuracy.",
+    "sections": [
+      {
+        "heading": "Changing leverage changes the question",
+        "paragraphs": [
+          "A different wrist position, attachment point or elbow angle can alter the mechanical demand of a lift. A cable stack label is also not a universal measure of force at the hand: pulley ratios and friction affect the relationship. The video correctly warns that a heavier load with an easier setup is not a clean before-and-after comparison. Record the setup, chain length, attachment, posture and allowed movement. A technique change may be valuable, but it should be labelled as a different task rather than hidden inside a strength record. [1,2]"
+        ]
+      },
+      {
+        "heading": "Isometric means the intended position is maintained",
+        "paragraphs": [
+          "A hold that gives way is not the same test as force against an immovable fixture. If a joint moves while the athlete is trying to resist the load, the measured peak may include a different contraction condition. Similarly, a dynamic one-repetition maximum is not automatically interchangeable with maximum voluntary isometric force when calculating a training percentage. Choose a definition that can be repeated, film the position when useful, and avoid claiming laboratory precision merely because the displayed value has a decimal. [2]"
+        ]
+      },
+      {
+        "heading": "Sampling matters most near the start",
+        "paragraphs": [
+          "The interval between samples is 1,000 divided by sampling frequency when expressed in milliseconds. At 80 Hz it is 12.5 ms; at 500 Hz it is 2 ms. That arithmetic helps explain why early-force analysis is sensitive to device limitations. Sampling frequency alone still cannot establish validity: calibration, fixture compliance, onset detection, filtering and starting tension all matter. The comparison is about generic sampling rates, not a verified specification or endorsement of a currently sold device. [2]"
+        ]
+      },
+      {
+        "heading": "Look for changes larger than ordinary variability",
+        "paragraphs": [
+          "In one armwrestling-specific study, maximum-force variables had ICC values of 0.916–0.971 and RFD variables 0.681–0.892. Those coefficients describe relative reliability within that protocol; they do not mean that your device is accurate to a corresponding percentage. Repeated baseline sessions help reveal personal variability. Track maximum force and selected time points with consistent instructions, and interpret small changes cautiously. Using the same imperfect device every week can reduce some inconsistency, but it does not automatically remove systematic error. [1,2]"
+        ]
+      }
+    ],
+    "limitations": "No universal smallest meaningful change can be calculated from the supplied material. The wrist-curl PDF contains printed checkpoints but no raw CSV archive, so the site does not claim an independent raw-signal reanalysis.",
+    "figure": {
+      "title": "Sampling frequency determines the gap between observations",
+      "caption": "Exact arithmetic: interval = 1,000 / frequency. These values illustrate temporal resolution only. They are not a product comparison, a guarantee of measurement quality or reconstructed athlete data.",
+      "labels": [
+        "Sampling frequency",
+        "Interval between samples"
+      ],
+      "unit": "ms"
+    }
+  },
+  "side-pressure": {
+    "title": "Side pressure: a system of forces, not one muscle",
+    "summary": "The term describes a competitive action, not a single anatomical movement. The useful part of the video is its systems perspective; the exercise demonstrations are deliberately not reconstructed here.",
+    "takeaway": "Interpret side pressure through joint moments, position and coordinated force transmission. Elbow stability is part of the problem, but it is not a complete definition of the whole competitive action.",
+    "sections": [
+      {
+        "heading": "Start with the external task",
+        "paragraphs": [
+          "At the table, force is applied through the hand while the elbow, shoulder and trunk organise the position. A sideways result can involve several joint actions and stabilising demands. The narration places emphasis on resistance to valgus at the elbow. That is a useful local perspective, but it is too narrow to explain all side-pressure performance: the shoulder’s internal-rotation demand and the geometry of the whole upper limb also matter. Descriptions should distinguish the direction of external force from the action of an individual muscle. [1]"
+        ]
+      },
+      {
+        "heading": "A force number needs a moment arm",
+        "paragraphs": [
+          "The turning effect of a force is its moment: force multiplied by the perpendicular distance from the relevant axis. In a simple illustrative model, 100 N acting at 0.20 m creates 20 N·m; at 0.30 m it creates 30 N·m. This is why a change in position can alter the demand without changing the external force. It is not a calculation of actual elbow-ligament loading, because a living joint has several interacting structures and three-dimensional geometry."
+        ]
+      },
+      {
+        "heading": "Muscles and passive structures share the task",
+        "paragraphs": [
+          "Muscles generate active force, tendons transmit it and ligaments contribute to passive stability. The contribution of each depends on position and loading; losing a particular hand action does not establish that all load suddenly passes through one ligament. Injury literature in armwrestling describes substantial torsional and bending demands, including humeral fractures and less common soft-tissue injuries. Reports of injured patients cannot estimate the probability of injury for every participant, but they make clear that “feels stable” is not a complete safety test. [1]"
+        ]
+      },
+      {
+        "heading": "What can be applied without inventing an exercise tutorial",
+        "paragraphs": [
+          "A defensible training discussion specifies the intended joint position, force direction, controllable load and progression. Isometric adaptations depend partly on the conditions trained, so a number from one setup should not be assumed to transfer unchanged to every table position. This article does not translate the film’s visible angles into a written maximal-load prescription. The broader lesson is to develop a coordinated, repeatable task and learn it under competent supervision, rather than deliberately rely on passive structures as the principal strategy. [1,2]"
+        ]
+      }
+    ],
+    "limitations": "The mechanical example is deliberately simplified. It does not locate a person’s pain, identify an injured structure or establish a safe load. Sudden injury, marked weakness or joint instability requires assessment, not an online anatomical guess.",
+    "figure": {
+      "title": "Same force, different turning effect",
+      "caption": "Conceptual calculation with a perpendicular force: moment = force × moment arm. The example is not a human joint model and must not be used to estimate ligament stress or a safe training load.",
+      "labels": [
+        "Force",
+        "Moment arm",
+        "Moment"
+      ],
+      "unit": "N·m"
+    }
+  },
+  "great-armwrestler": {
+    "title": "What makes a great armwrestler? A profile, not one superpower",
+    "summary": "The film brings together muscle, tendons, speed, technique and anatomy. Research supports that broad view, but not fixed percentage contributions or a reliable forecast of a person’s genetic potential.",
+    "takeaway": "Build a profile of trainable capacities and task constraints. Use anatomy to understand options, not to declare the outcome of a career before the athlete has trained.",
+    "sections": [
+      {
+        "heading": "Specific strength is more informative than size alone",
+        "paragraphs": [
+          "Larger muscles can support greater force production, but whole-body appearance is not a direct test of armwrestling ability. The comparison of nine armwrestlers with nine strength-trained men found differences in specific elbow-flexor performance and forearm circumference, rather than a simple rule that the visibly bigger person must win. Maximum force, the position in which it is expressed and how it is transferred through the hand all belong in the profile. A laboratory advantage is still not a complete competitive prediction. [1]"
+        ]
+      },
+      {
+        "heading": "Timing and technique change how capacity is used",
+        "paragraphs": [
+          "A competitor must develop force while reacting to an opponent and maintaining useful positions. Early force production is therefore relevant alongside maximum force. Studies of elite armwrestlers show different strength-time profiles, while competition research also examines perceptual characteristics. These observations support measuring more than one quality; they do not identify one universal ideal profile. RFD, reaction time and learned technical decisions should also remain distinct rather than being collapsed into a single concept of “speed”. [2–4]"
+        ]
+      },
+      {
+        "heading": "Tendons and geometry matter, but simple stories overreach",
+        "paragraphs": [
+          "Tendon properties influence force transmission, and human loading studies show that stiffness and material properties can adapt. That does not mean the stiffest possible tendon is always optimal, or that a successful athlete’s tendon properties can be inferred from video. Hand dimensions, segment lengths and moment arms change the mechanical problem. They may create advantages in some positions and trade-offs in others. Current evidence does not justify assigning fixed percentages of success to genetics, tendons, muscle size or any other category. [1,2,5]"
+        ]
+      },
+      {
+        "heading": "Turn a profile into priorities",
+        "paragraphs": [
+          "The productive application is to identify the factor currently limiting a repeatable task: maximum force, early force, positional control, technical execution or the ability to recover from training. Work on a small number of priorities and then reassess both the tests and table performance. Consistency and patience make such learning possible, but they are not a quantified formula for winning. Avoid diagnosing fibre type from one dynamometer trace, attributing ability to ethnicity, or treating body structure as proof of an unchangeable ceiling. [3,4]"
+        ]
+      }
+    ],
+    "limitations": "No supplied study estimates the relative contribution of every factor to match outcomes. The visual map is an editorial framework, not a validated prediction model, a genetic assessment or a ranking of named athletes.",
+    "figure": {
+      "title": "Performance has several interacting dimensions",
+      "caption": "Conceptual map synthesised from the film and cited research. The elements have no numerical weights; neither their size nor their order represents a measured contribution to winning.",
+      "labels": [
+        "Force capacity",
+        "Maximum and position-specific force",
+        "Timing",
+        "Reaction and early force",
+        "Technique",
+        "Position and opponent interaction",
+        "Tissue capacity",
+        "Loading tolerance and adaptation",
+        "Geometry",
+        "Hand, segments and moment arms",
+        "Consistency",
+        "Training, recovery and learning"
+      ]
+    }
+  },
+  "enhanced-games": {
+    "title": "Enhanced Games: a spectacle is not a controlled experiment",
+    "summary": "The corrected report documents performances and public claims from the 2026 event. Its most important scientific lesson is about comparison: event results cannot isolate the effects of performance-enhancing drugs.",
+    "takeaway": "Separate the result achieved, its official recognition, an athlete’s disclosure and the causal effect of a substance. Those are four different questions, and an event leaderboard answers only part of the first.",
+    "sections": [
+      {
+        "heading": "Describe the result precisely",
+        "paragraphs": [
+          "The supplied corrected report, with sources collected through 30 June 2026, describes a field of 42 athletes and one performance faster than the official world-record reference it used. Kristian Gkolomeev’s 20.81 s over 50 m freestyle was compared with 20.88 s. A faster recorded time does not automatically become a ratified world record: rules, equipment and eligibility also matter. The chart is a historical comparison from that report, not a live record table or a claim of official ratification. [1]"
+        ]
+      },
+      {
+        "heading": "Why the event cannot tell us the size of a drug effect",
+        "paragraphs": [
+          "The athletes were not randomly assigned to otherwise comparable enhanced and non-enhanced groups. Their ages, training histories, event specialisation, preparation and previous bests differed. Public disclosures are also not a complete, independently verified record of each participant’s exposure. A self-described non-enhanced athlete winning does not prove that drugs are ineffective. Equally, a winner surpassing a reference time does not identify how much improvement came from a particular substance rather than training, selection, equipment or other conditions. [1]"
+        ]
+      },
+      {
+        "heading": "Controlled evidence answers a narrower question",
+        "paragraphs": [
+          "Bhasin and colleagues’ randomised study compared testosterone or placebo with and without a standardised training programme. It demonstrated that supraphysiological testosterone could increase fat-free mass, muscle size and strength, especially alongside training. That is stronger causal evidence for the studied intervention than an event leaderboard. It is still not a direct estimate of benefits in elite swimming or armwrestling, and fat-free mass must not be treated as identical to pure muscle. This article deliberately does not provide drug-use protocols. [2]"
+        ]
+      },
+      {
+        "heading": "Safety and suspicion require separate evidence",
+        "paragraphs": [
+          "Medical monitoring may detect some problems; it does not establish that a performance-enhancing regimen has a safe upper limit or no long-term consequences. The report explicitly notes incomplete individual exposure and performance-history data. The video’s broader suggestion that all elite athletes must therefore be using drugs is an opinion, not a conclusion supported by these event results. Criticism is strongest when it stays attached to observable facts and clearly states what the comparison cannot resolve. [1,2]"
+        ]
+      }
+    ],
+    "limitations": "This article evaluates the supplied historical report, not every later development in the event. It does not verify individual drug histories, endorse enhancement or infer undisclosed drug use by named competitors. Reported performances are not automatically officially recognised records.",
+    "figure": {
+      "title": "A faster time—not an isolated drug effect",
+      "caption": "Historical 50 m freestyle comparison in the corrected report, page 5: 20.81 s at the event versus the 20.88 s official-record reference used there. Difference: 0.07 s. This is not ratification and does not control for rules, equipment, athlete selection or drug exposure.",
+      "labels": [
+        "Event performance",
+        "Reference in the report",
+        "Difference"
+      ],
+      "unit": "s"
+    }
+  }
+}

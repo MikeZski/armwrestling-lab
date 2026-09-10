@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "zip_integrity_passed": true,
+  "required_files_present": true,
+  "start_page_links_valid": true,
+  "clean_extraction_rebuild_passed": true,
+  "clean_extraction_audit": {
+    "passed": true,
+    "html_pages": 44,
+    "article_editions": 24,
+    "local_links_checked": 2450,
+    "unique_external_urls": 37,
+    "external_network_checked": false,
+    "errors": [],
+    "warnings": [
+      "rfd-armwrestling: labelled YouTube search link, exact video ID not supplied/confirmed.",
+      "overtraining: labelled YouTube search link, exact video ID not supplied/confirmed.",
+      "body-mass-ffmi: labelled YouTube search link, exact video ID not supplied/confirmed.",
+      "measure-progress: labelled YouTube search link, exact video ID not supplied/confirmed.",
+      "enhanced-games: labelled YouTube search link, exact video ID not supplied/confirmed."
+    ]
+  },
+  "clean_extraction_tests_passed": true,
+  "unit_test_output": "test_calculated_figures (test_site.SiteTests.test_calculated_figures) ... ok\ntest_enabled_languages_complete (test_site.SiteTests.test_enabled_languages_complete) ... ok\ntest_http_delivery_root_and_subpath (test_site.SiteTests.test_http_delivery_root_and_subpath) ... ok\ntest_offline_build_does_not_publish_fake_domain (test_site.SiteTests.test_offline_build_does_not_publish_fake_domain) ... ok\ntest_package_keeps_download_archives (test_site.SiteTests.test_package_keeps_download_archives) ... ok\ntest_public_url_metadata_and_sitemap (test_site.SiteTests.test_public_url_metadata_and_sitemap) ... ok\ntest_reports_are_real_pdfs_and_unchanged (test_site.SiteTests.test_reports_are_real_pdfs_and_unchanged) ... ok\ntest_reproducible_build (test_site.SiteTests.test_reproducible_build) ... ok\ntest_structure_under_repository_path (test_site.SiteTests.test_structure_under_repository_path) ... ok\n\n----------------------------------------------------------------------\nRan 9 tests in 9.503s\n\nOK\n",
+  "public_html_pages": 44,
+  "article_editions": 24,
+  "languages": [
+    "pl",
+    "en"
+  ],
+  "published_reports": 9,
+  "browser_report": "browser-test-report.json",
+  "deployment_performed": false
+}

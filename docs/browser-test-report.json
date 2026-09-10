@@ -1,0 +1,1251 @@
+{
+  "mode": "isolate",
+  "passed": true,
+  "layout_cases": [
+    {
+      "page": "404.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "404.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "404.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/about/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/about/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/about/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/body-mass-ffmi/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/body-mass-ffmi/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/body-mass-ffmi/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/collagen-vitamin-c/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/collagen-vitamin-c/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/collagen-vitamin-c/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/diet-armwrestling/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/diet-armwrestling/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/diet-armwrestling/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/enhanced-games/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/enhanced-games/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/enhanced-games/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/great-armwrestler/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/great-armwrestler/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/great-armwrestler/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/keith-baar-isometrics/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/keith-baar-isometrics/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/keith-baar-isometrics/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/measure-progress/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/measure-progress/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/measure-progress/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/overtraining/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/overtraining/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/overtraining/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/rfd-armwrestling/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/rfd-armwrestling/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/rfd-armwrestling/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/side-pressure/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/side-pressure/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/side-pressure/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/tendon-stiffness/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/tendon-stiffness/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/tendon-stiffness/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/train-rfd/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/train-rfd/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/articles/train-rfd/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/downloads/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/downloads/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/downloads/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/privacy/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/privacy/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/privacy/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/topics/analysis/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/topics/analysis/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/topics/analysis/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/topics/nutrition/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/topics/nutrition/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/topics/nutrition/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/topics/strength/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/topics/strength/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/topics/strength/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/topics/tendons/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/topics/tendons/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/topics/tendons/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/topics/training/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/topics/training/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "en/topics/training/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/about/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/about/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/about/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/body-mass-ffmi/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/body-mass-ffmi/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/body-mass-ffmi/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/collagen-vitamin-c/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/collagen-vitamin-c/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/collagen-vitamin-c/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/diet-armwrestling/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/diet-armwrestling/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/diet-armwrestling/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/enhanced-games/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/enhanced-games/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/enhanced-games/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/great-armwrestler/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/great-armwrestler/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/great-armwrestler/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/keith-baar-isometrics/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/keith-baar-isometrics/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/keith-baar-isometrics/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/measure-progress/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/measure-progress/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/measure-progress/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/overtraining/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/overtraining/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/overtraining/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/rfd-armwrestling/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/rfd-armwrestling/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/rfd-armwrestling/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/side-pressure/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/side-pressure/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/side-pressure/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/tendon-stiffness/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/tendon-stiffness/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/tendon-stiffness/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/train-rfd/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/train-rfd/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/articles/train-rfd/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/downloads/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/downloads/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/downloads/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/privacy/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/privacy/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/privacy/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/topics/analysis/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/topics/analysis/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/topics/analysis/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/topics/nutrition/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/topics/nutrition/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/topics/nutrition/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/topics/strength/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/topics/strength/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/topics/strength/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/topics/tendons/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/topics/tendons/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/topics/tendons/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/topics/training/index.html",
+      "width": 320,
+      "passed": true,
+      "viewport": 320,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/topics/training/index.html",
+      "width": 390,
+      "passed": true,
+      "viewport": 390,
+      "h1": 1,
+      "brokenImages": 0
+    },
+    {
+      "page": "pl/topics/training/index.html",
+      "width": 1440,
+      "passed": true,
+      "viewport": 1440,
+      "h1": 1,
+      "brokenImages": 0
+    }
+  ],
+  "functional_checks": [
+    {
+      "name": "pl: twelve articles initially visible",
+      "passed": true
+    },
+    {
+      "name": "pl: category filter",
+      "passed": true
+    },
+    {
+      "name": "pl: search empty state",
+      "passed": true
+    },
+    {
+      "name": "pl: reset search and filters",
+      "passed": true
+    },
+    {
+      "name": "pl: full-text search",
+      "passed": true
+    },
+    {
+      "name": "pl: clear search",
+      "passed": true
+    },
+    {
+      "name": "pl: alphabetical sorting",
+      "passed": true
+    },
+    {
+      "name": "pl: dark theme",
+      "passed": true
+    },
+    {
+      "name": "pl: light theme",
+      "passed": true
+    },
+    {
+      "name": "pl: language picker",
+      "passed": true
+    },
+    {
+      "name": "pl: keyboard closes language picker",
+      "passed": true
+    },
+    {
+      "name": "pl: nine real downloads",
+      "passed": true
+    },
+    {
+      "name": "pl: honest software empty state",
+      "passed": true
+    },
+    {
+      "name": "pl: honest models empty state",
+      "passed": true
+    },
+    {
+      "name": "pl: PDF filter",
+      "passed": true
+    },
+    {
+      "name": "pl: checksum disclosure",
+      "passed": true
+    },
+    {
+      "name": "pl: mobile menu",
+      "passed": true
+    },
+    {
+      "name": "pl: mobile article contents",
+      "passed": true
+    },
+    {
+      "name": "pl: mobile copy and print controls",
+      "passed": true
+    },
+    {
+      "name": "pl: same-article language links",
+      "passed": true
+    },
+    {
+      "name": "pl: print keeps references, hides navigation",
+      "passed": true
+    },
+    {
+      "name": "pl: all articles available without JavaScript",
+      "passed": true
+    },
+    {
+      "name": "pl: nonfunctional search hidden without JavaScript",
+      "passed": true
+    },
+    {
+      "name": "en: twelve articles initially visible",
+      "passed": true
+    },
+    {
+      "name": "en: category filter",
+      "passed": true
+    },
+    {
+      "name": "en: search empty state",
+      "passed": true
+    },
+    {
+      "name": "en: reset search and filters",
+      "passed": true
+    },
+    {
+      "name": "en: full-text search",
+      "passed": true
+    },
+    {
+      "name": "en: clear search",
+      "passed": true
+    },
+    {
+      "name": "en: alphabetical sorting",
+      "passed": true
+    },
+    {
+      "name": "en: dark theme",
+      "passed": true
+    },
+    {
+      "name": "en: light theme",
+      "passed": true
+    },
+    {
+      "name": "en: language picker",
+      "passed": true
+    },
+    {
+      "name": "en: keyboard closes language picker",
+      "passed": true
+    },
+    {
+      "name": "en: nine real downloads",
+      "passed": true
+    },
+    {
+      "name": "en: honest software empty state",
+      "passed": true
+    },
+    {
+      "name": "en: honest models empty state",
+      "passed": true
+    },
+    {
+      "name": "en: PDF filter",
+      "passed": true
+    },
+    {
+      "name": "en: checksum disclosure",
+      "passed": true
+    },
+    {
+      "name": "en: mobile menu",
+      "passed": true
+    },
+    {
+      "name": "en: mobile article contents",
+      "passed": true
+    },
+    {
+      "name": "en: mobile copy and print controls",
+      "passed": true
+    },
+    {
+      "name": "en: same-article language links",
+      "passed": true
+    },
+    {
+      "name": "en: print keeps references, hides navigation",
+      "passed": true
+    },
+    {
+      "name": "en: all articles available without JavaScript",
+      "passed": true
+    },
+    {
+      "name": "en: nonfunctional search hidden without JavaScript",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "scope": "Actual generated HTML/CSS/JS/images inlined in Chromium. Browser HTTP/file navigation is not covered.",
+  "browser": "144.0.7559.96"
+}

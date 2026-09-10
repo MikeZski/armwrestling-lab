@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+/*.zip
+/*.zip.sha256
+# site/ is intentionally included for an immediate offline preview.
+# GitHub Actions always rebuilds it from content/ and static/ before deployment.

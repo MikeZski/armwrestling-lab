@@ -1,0 +1,63 @@
+{
+  "article": "great-armwrestler",
+  "language": "pl",
+  "figure": {
+    "title": "Wynik ma kilka współdziałających wymiarów",
+    "caption": "Mapa pojęciowa na podstawie filmu i cytowanych prac. Elementy nie mają wag liczbowych; ich wielkość i kolejność nie oznaczają zmierzonego udziału w zwycięstwie.",
+    "labels": [
+      "Zdolność siłowa",
+      "Maksimum i siła w konkretnej pozycji",
+      "Czas",
+      "Reakcja i wczesna siła",
+      "Technika",
+      "Pozycja i interakcja z rywalem",
+      "Możliwości tkanek",
+      "Tolerowanie obciążeń i adaptacja",
+      "Geometria",
+      "Dłoń, segmenty i ramiona sił",
+      "Systematyczność",
+      "Trening, regeneracja i uczenie się"
+    ]
+  },
+  "data": {
+    "kind": "concept",
+    "origin": "editorial"
+  },
+  "references": [
+    {
+      "authors": "Coletta F, Cesanelli L, Kamandulis S, Conte D.",
+      "year": 2025,
+      "title": "Comparative Analysis of Elbow Flexor Morphology, Physiology, and Performance Between Arm Wrestlers and Strength-Trained Athletes",
+      "journal": "Journal of Strength and Conditioning Research. 39(5):579–586.",
+      "url": "https://doi.org/10.1519/JSC.0000000000005071"
+    },
+    {
+      "authors": "Akpinar S, et al.",
+      "year": 2013,
+      "title": "Anthropological and Perceptual Predictors Affecting the Ranking in Arm Wrestling Competition",
+      "journal": "International Journal of Morphology. 31(3):832–838.",
+      "url": "https://doi.org/10.4067/S0717-95022013000300009"
+    },
+    {
+      "authors": "Bezkorovainyi D, Kamayev O, Vlasko S, et al.",
+      "year": 2023,
+      "title": "Comparative Analysis of the Efforts of Highly Qualified Elite Armwrestlers with Different Strength Abilities",
+      "journal": "Physical Education Theory and Methodology. 23(6):850–859.",
+      "url": "https://doi.org/10.17309/tmfv.2023.6.06"
+    },
+    {
+      "authors": "Maffiuletti NA, Aagaard P, Blazevich AJ, Folland J, Tillin N, Duchateau J.",
+      "year": 2016,
+      "title": "Rate of force development: physiological and methodological considerations",
+      "journal": "European Journal of Applied Physiology. 116:1091–1116.",
+      "url": "https://doi.org/10.1007/s00421-016-3346-6"
+    },
+    {
+      "authors": "Lazarczuk SL, et al.",
+      "year": 2022,
+      "title": "Mechanical, Material and Morphological Adaptations of Healthy Lower Limb Tendons to Mechanical Loading: A Systematic Review and Meta-Analysis",
+      "journal": "Sports Medicine. 52:2405–2429.",
+      "url": "https://doi.org/10.1007/s40279-022-01695-y"
+    }
+  ]
+}

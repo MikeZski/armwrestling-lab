@@ -1,0 +1,623 @@
+1
+00:00:00,226 --> 00:00:54,610
+Low-intensity isometric holds are a new hot topic in the arm wrestling community that everyone is talking about, but I believe the discussion lacks depth. I mean, what are we saying about it? Because it's not magic; it has some dependencies. And as a person who implemented this kind of training over two years ago in my routine and has recommended it the whole time to a bunch of people who used it with great success, I'm going to share my opinion. Also, we're going to look a little deeper into the studies, so you know exactly how and what it's about, because it's not exactly like, "Do this and you're going to have steel tendons." That's
+
+2
+00:00:54,786 --> 00:00:56,048
+an oversimplification.
+
+3
+00:00:57,830 --> 00:01:11,007
+So first, I'm going to refer to Keith Baar's studies because he's probably the person whose name is used most often in this discussion.
+
+4
+00:01:11,708 --> 00:01:22,482
+So his discovery, actually his study, that we are using or referring to was
+
+5
+00:01:22,690 --> 00:01:24,652
+this one you see on the screen right now.
+
+6
+00:01:24,692 --> 00:01:32,201
+Ten-minute continuous loading with six hours of rest improved tendon stiffness.
+
+7
+00:01:34,483 --> 00:01:41,832
+Actually, this isn't really true, but this is taken from another thing.
+
+8
+00:01:42,032 --> 00:01:43,994
+That's why I put it like that.
+
+9
+00:01:44,034 --> 00:01:45,576
+But in general, that was it.
+
+10
+00:01:45,696 --> 00:01:50,962
+So for ten minutes, an artificial ligament,
+
+11
+00:01:51,234 --> 00:01:56,401
+an artificial ligament produced in a lab was tested and showed some results.
+
+12
+00:01:58,024 --> 00:02:17,711
+So the first thing we need to understand for practical use, that we can take from this study, is that it actually involved about three hundred cycles, each two seconds long, of stretching and shortening the artificial ligament.
+
+13
+00:02:18,833 --> 00:02:19,634
+So it's not
+
+14
+00:02:19,746 --> 00:02:37,965
+what they did in the Abrahamsson protocol that we're going to discuss later on, because probably this is also why the Keith Baar study is so popular: it was tested by Emil Abrahamsson, and it showed a great strength increase in his case.
+
+15
+00:02:39,066 --> 00:02:42,509
+But we'll talk a bit later about that in this video.
+
+16
+00:02:42,529 --> 00:02:47,154
+So first of all, as I said, it was like ten minutes of continuous
+
+17
+00:02:47,362 --> 00:02:52,368
+stretching and shortening of the artificial ligament, which we don't do.
+
+18
+00:02:53,649 --> 00:03:04,842
+Second thing is that this ligament was stretched to a certain level, to a certain length, and this length was the same every time.
+
+19
+00:03:05,843 --> 00:03:12,531
+And that's the biggest problem with implementing Keith Baar's studies into real life.
+
+20
+00:03:12,551 --> 00:03:15,634
+Because if we're going to take, like, literally these ten minutes,
+
+21
+00:03:15,906 --> 00:03:41,554
+literally six hours and everything, you're going to end up with something that you absolutely cannot... It's simply impossible to recover from it if you're going to do it three times a day, for example. So what can we take then? Because why am I saying, like, if you stretch the tendon or ligament to a certain
+
+22
+00:03:41,986 --> 00:03:45,771
+length, why can't we use this information?
+
+23
+00:03:45,831 --> 00:03:47,834
+It's very simple. How much, okay,
+
+24
+00:03:47,874 --> 00:03:52,000
+I'm doing holds, how much are my ligaments, how much is my tendon stretched?
+
+25
+00:03:53,643 --> 00:04:10,066
+We don't know that. You can't really measure it unless you have, like, a proper three-dimensional model of it. But it's also very person-specific. There is some information later on in this PDF that actually the same loading
+
+26
+00:04:10,850 --> 00:04:19,359
+can lead to almost a twofold difference in tendon stretch because it depends on tendon stiffness.
+
+27
+00:04:19,479 --> 00:04:27,647
+So in general, what is stiffness? Because that's also worth mentioning: stiffness is resistance to stretching.
+
+28
+00:04:28,107 --> 00:04:35,114
+So the more force you have to put into stretching to stretch it by one millimeter, that means the tendon is stiffer.
+
+29
+00:04:35,655 --> 00:04:38,738
+A tendon is elastic, not when it's not stiff,
+
+30
+00:04:39,234 --> 00:05:08,690
+but when it can get longer without rupturing. So something can be stiff and elastic at the same time. Tendons, so, so that's a funny thing. On the surface, it can look a little bit contradictory, but it's not. So what can we really take from Keith Baar's study, a study made in a lab? We can take two things. So the first thing is that
+
+31
+00:05:09,730 --> 00:05:18,279
+additional loading during a window doesn't necessarily have to be beneficial.
+
+32
+00:05:18,860 --> 00:05:27,849
+So there is a window after which you cannot, or the benefit from work is low, okay?
+
+33
+00:05:28,910 --> 00:05:36,178
+What we take as the second thing is there is an idle time that has to be spent to
+
+34
+00:05:36,834 --> 00:05:43,063
+reset this cell, this tissue, to listen to the stimulus again.
+
+35
+00:05:43,424 --> 00:05:56,723
+So these are the two things because, unfortunately, the other things are not really important for us because we cannot do it at the same level of control as they did in the laboratory.
+
+36
+00:05:56,743 --> 00:06:04,434
+So this is the first thing for practical use you can take from
+
+37
+00:06:04,706 --> 00:06:10,752
+Keith Baar, and we're going to go straight to Abrahamsson, okay?
+
+38
+00:06:11,173 --> 00:06:13,215
+Because I want to discuss it in this order.
+
+39
+00:06:14,556 --> 00:06:19,561
+So Emil Abrahamsson saw this, I mean, his brother, but it doesn't matter.
+
+40
+00:06:20,122 --> 00:06:31,954
+They decided to test this protocol, and during one month he increased his finger strength by thirty percent in a one-rep max. Crazy amount.
+
+41
+00:06:32,066 --> 00:06:52,366
+And later on, they got in touch with Keith Baar and did a retrospective study where he actually posted his protocol, and they already had data for the people who used this protocol and could track the results.
+
+42
+00:06:52,386 --> 00:06:53,827
+But this is a retrospective study.
+
+43
+00:06:53,848 --> 00:06:56,410
+So they took the data and built a study upon it.
+
+44
+00:06:56,690 --> 00:07:00,434
+There are always, like, you know,
+
+45
+00:07:00,706 --> 00:07:26,194
+lower-quality studies made like that, but they didn't have a choice. But what is interesting, and what is really interesting for us in practical implementation, is that the guys who were doing this Abrahamsson, right, so only low-intensity isometric training, had increasing strength. Those guys who were doing max hangs, so classic, like
+
+46
+00:07:26,274 --> 00:07:29,557
+the normal way of getting stronger, the classical way of getting stronger.
+
+47
+00:07:29,577 --> 00:07:37,084
+So hard, heavy, high-intensity singles also got stronger.
+
+48
+00:07:37,825 --> 00:07:47,674
+But those who were doing both almost doubled the effect.
+
+49
+00:07:47,694 --> 00:07:52,019
+So we're taking the third thing from this study.
+
+50
+00:07:52,159 --> 00:07:55,602
+So those two
+
+51
+00:07:56,290 --> 00:08:26,226
+ways of training, so strength training and the Abrahamsson method, or the low-intensity isometrics method, work and get your tendons, get your strength to a different level, but through different mechanisms. So it's not the same mechanism that overlaps. So you can stack them one onto another. So this is the third thing we can take from this, okay?
+
+52
+00:08:26,306 --> 00:08:28,770
+So how did they implement that?
+
+53
+00:08:28,930 --> 00:08:36,322
+So Emil Abrahamsson was doing hangs for ten seconds, fifty seconds' rest, ten seconds, fifty seconds' rest.
+
+54
+00:08:36,342 --> 00:08:38,645
+He did it two or three times a day.
+
+55
+00:08:40,168 --> 00:08:46,658
+And this is something you can do, but in my opinion, we need to consider many factors.
+
+56
+00:08:46,678 --> 00:08:48,441
+So he used that for the fingers.
+
+57
+00:08:49,402 --> 00:08:54,290
+So the tendons of the fingers are insanely long compared to the other ones.
+
+58
+00:08:54,722 --> 00:09:02,297
+So the question is whether the biceps will react the same way, or something like, I don't know, the pronator teres, which has a very short tendon, right?
+
+59
+00:09:03,519 --> 00:09:04,822
+Compared to fingers, obviously.
+
+60
+00:09:05,864 --> 00:09:15,122
+So this is not measured, and this is not... I cannot, after using this protocol for two years, I cannot give you...
+
+61
+00:09:15,906 --> 00:09:45,394
+one answer because obviously I'm too small, you know, a control group of one person. I cannot definitely tell you that, okay, you're going to do this and you're going to get this, as Emil Abrahamsson, you're going to get the same result in strength, or even as the climbers from the protocols they tested. I cannot guarantee you that because I have not seen that in my case yet. I'm doing that for two years, and I'm going to tell you, I'll tell you why. So obviously this is very useful.
+
+62
+00:09:45,794 --> 00:09:49,518
+If you want to test it, it was tested for fingers many times.
+
+63
+00:09:49,578 --> 00:10:08,837
+If you want to stop training altogether and test the Abrahamsson method, measure everything for a month or two and then come back, yeah, just go to the comment section and tell me if you did this experiment for your other muscles or how much it improved your strength gains.
+
+64
+00:10:08,917 --> 00:10:14,322
+But I think that the real deal about these low-intensity isometrics
+
+65
+00:10:15,298 --> 00:10:43,826
+lies somewhere else, because if we go to an original study like this, this one, because this was the first one that gave, like, a very, very huge improvement in pain relief after injury, they had this protocol: five times forty-five seconds for knee extension. So they measured, like, voluntary
+
+66
+00:10:43,906 --> 00:11:12,466
+MVC, maximum voluntary contraction, for the injured place, and then they did it at, like, seventy percent of it, if I remember well. I think so, yes. Anyway, it doesn't really matter, but they loaded it five times for forty-five seconds and they had a great reduction in pain. But in pain, they didn't measure anything else outside of pain.
+
+67
+00:11:12,770 --> 00:11:37,010
+And they tried to redo this study because there were only six guys in this study. They tried to redo it with a bigger group, and they found it's very person-specific. For one, it was really important and it really helped reduce pain; for the other, not. But in general, from my experience, because I'm recommending this stuff, like
+
+68
+00:11:37,218 --> 00:11:42,103
+to everyone who has any issues or is new to arm wrestling, whatever.
+
+69
+00:11:42,563 --> 00:11:51,151
+And I have never encountered anyone or any problem, like someone saying it doesn't work.
+
+70
+00:11:51,952 --> 00:11:53,013
+I mean, it does work.
+
+71
+00:11:53,133 --> 00:12:06,866
+For strength, I don't know, because as I said, it's quite complex to say how much is because of training or how much is because of this, but for pain relief, it works like magic, okay?
+
+72
+00:12:07,522 --> 00:12:37,138
+Maybe it will work for... We have proven studies that it will work, but also we have studies that say that it depends on the person. But in general, there is strong, strong science confirming it can work, okay? So, yeah, we discussed before that basically this Baar study, the tendon didn't grow much, okay? But there was, like,
+
+73
+00:12:37,250 --> 00:12:41,036
+a very good correlation to stiffness.
+
+74
+00:12:43,339 --> 00:12:43,720
+Okay.
+
+75
+00:12:46,303 --> 00:12:49,428
+So let's talk about it for a second.
+
+76
+00:12:53,033 --> 00:13:01,386
+Let's talk for a second about intensity because probably you're wondering, okay, so I know I can train, like, two or three times a day.
+
+77
+00:13:01,406 --> 00:13:08,888
+I know that it can help me with my pain, but how hard should I train?
+
+78
+00:13:09,850 --> 00:13:16,018
+So in general, for tendons, it's preferred to go with higher loads.
+
+79
+00:13:16,939 --> 00:13:22,707
+Yet higher loads will not allow you to really do it three times a day.
+
+80
+00:13:23,268 --> 00:13:26,252
+So why higher loads?
+
+81
+00:13:26,653 --> 00:13:33,422
+Higher loads are preferred because they actually stretch the tendon.
+
+82
+00:13:33,983 --> 00:13:36,466
+And there is a good
+
+83
+00:13:36,610 --> 00:14:05,298
+um, I don't know where I have this study, but I've read that it's quite new, and that was not, sorry, a systematic review. And what they actually said was, it doesn't really matter what kind of load you are putting on your tendon; all that matters is how much it stretches, which is pretty obvious, okay? But the stretch itself is the goal. But the thing is, if
+
+84
+00:14:05,378 --> 00:14:11,024
+we are putting more weight, there is more chance we're going to get the desired stretch.
+
+85
+00:14:11,384 --> 00:14:16,490
+We cannot control it because, as I said, it's very, very case-specific.
+
+86
+00:14:16,510 --> 00:14:31,986
+But in general, that's why all this high-intensity isometric work in general works better in all the studies, because the higher the load, the higher the chance you have of stretching the tendon.
+
+87
+00:14:32,354 --> 00:14:58,706
+Okay, so this is why it works like that. This is why, literally, you're going to find, like, go heavy, go with high-intensity contractions, which we can't, which we can't. So we have kind of a contradiction here, but I'm going to tell you in a second how to make sense of it, okay? So, yeah, that doesn't matter. Obviously, speed work
+
+88
+00:14:59,938 --> 00:15:06,226
+is also important, but just forget about it right now.
+
+89
+00:15:08,368 --> 00:15:17,339
+Okay, so one thing to touch on about tendon rehab, and then we're going to go to practical implementation for healthy people, because those are two different things.
+
+90
+00:15:18,180 --> 00:15:29,394
+So if you are injured, this protocol, the Abrahamsson, Keith Baar, whatever you want to call it,
+
+91
+00:15:29,730 --> 00:15:33,195
+if you want to refer to the original study.
+
+92
+00:15:33,335 --> 00:15:33,796
+It doesn't matter.
+
+93
+00:15:34,597 --> 00:15:42,049
+This low-intensity, thirty-second, let's say, isometrics will help you with your pain.
+
+94
+00:15:43,050 --> 00:15:43,811
+No doubt about that.
+
+95
+00:15:45,754 --> 00:15:49,220
+Will they be enough to remodel your tendons?
+
+96
+00:15:51,243 --> 00:15:51,703
+Who knows?
+
+97
+00:15:52,284 --> 00:15:58,674
+But what we know for sure is they will help you get through the worst part of your
+
+98
+00:15:58,946 --> 00:16:28,530
+injury to the moment when you can actually lift heavier. So it doesn't matter if you do eccentric work or if you do isometric work with high intensity that is proven to work for remodeling tendons, you're getting there way faster doing those because, look, this is from the study. From this study, they actually got eighteen percent
+
+99
+00:16:28,738 --> 00:16:36,565
+increase in strength for max strength, only doing one session of this.
+
+100
+00:16:39,108 --> 00:16:39,388
+Why?
+
+101
+00:16:39,849 --> 00:16:44,233
+Because they felt less pain, so they could go heavier.
+
+102
+00:16:45,134 --> 00:16:58,066
+So this is a mechanism that is possibly doing all the job, or not all the job but a lot of the job in the case of fast recovery, because you feel less pain,
+
+103
+00:16:58,146 --> 00:17:26,450
+you can go heavier, your tendons remodel faster because you went heavier, okay? So this is something I would use as the first block in your rehab journey. So you start with this and then you go to different exercises, like static loading, eccentric ones. Then you start dynamic contractions, and at the end you have explosive or maximum work, right? So it's going to be like blocks.
+
+104
+00:17:27,234 --> 00:17:28,476
+And this is going to be the first one.
+
+105
+00:17:28,876 --> 00:17:30,979
+So this is for injury.
+
+106
+00:17:30,999 --> 00:17:37,308
+And here the time matters because I said before that Abrahamsson was doing that for ten seconds.
+
+107
+00:17:37,669 --> 00:17:44,198
+When you are healing, do it for thirty seconds because the longer duration will be better for healing.
+
+108
+00:17:44,238 --> 00:17:48,464
+The shorter duration will be more for tendon stiffness.
+
+109
+00:17:48,524 --> 00:17:50,627
+It will work better for tendon stiffness.
+
+110
+00:17:51,528 --> 00:17:53,731
+Okay, but what if you are healthy?
+
+111
+00:17:55,333 --> 00:17:55,794
+Well,
+
+112
+00:17:56,354 --> 00:17:57,476
+it's still very useful.
+
+113
+00:17:57,776 --> 00:18:01,841
+It's not like I have injuries for two years straight and need to rehab them.
+
+114
+00:18:01,901 --> 00:18:02,282
+No, no, no.
+
+115
+00:18:02,923 --> 00:18:13,437
+I think, and I feel it for myself, even if maybe I don't have strength gains from it, because my protocol is quite good, I mean, it works.
+
+116
+00:18:13,577 --> 00:18:14,819
+Like every week, I'm stronger.
+
+117
+00:18:14,859 --> 00:18:19,345
+If I do the same exercise every week, I add something to this exercise.
+
+118
+00:18:19,385 --> 00:18:21,908
+Sometimes a little, sometimes it's more, but I do add.
+
+119
+00:18:22,349 --> 00:18:23,370
+So it works.
+
+120
+00:18:23,470 --> 00:18:24,492
+Whatever I do, it works.
+
+121
+00:18:25,773 --> 00:18:26,194
+But
+
+122
+00:18:26,690 --> 00:18:40,085
+I had two weeks when I couldn't do my... I didn't do it the first week on purpose, and the second week I think I did it just to check the results.
+
+123
+00:18:40,766 --> 00:18:55,762
+And everything became really hard instantly because I believe that using this protocol, keeping your tendons loaded two, sometimes three times a day,
+
+124
+00:18:57,026 --> 00:19:01,114
+actually allows you to recover faster.
+
+125
+00:19:01,735 --> 00:19:15,282
+Because if it helps reduce pain, if it helps with injury, if it helps with getting your tendons stiffer, if it helps with getting overall strength,
+
+126
+00:19:15,682 --> 00:19:17,644
+it means there's an adaptation.
+
+127
+00:19:17,825 --> 00:19:29,979
+There must be some kind of adaptation, even if we cannot repeat it like in a lab, even if we use different, you know, wrong isometrics, maximum voluntary contraction, and so on and so on.
+
+128
+00:19:30,460 --> 00:19:31,762
+There is some adaptation.
+
+129
+00:19:32,402 --> 00:19:42,034
+So by repeating those things over and over, over and over again, I've seen that it helps me
+
+130
+00:19:42,242 --> 00:19:43,925
+to be ready for heavy lifting.
+
+131
+00:19:44,065 --> 00:19:48,071
+And this is how I treat this protocol.
+
+132
+00:19:48,091 --> 00:19:50,415
+I treat it as a readiness protocol.
+
+133
+00:19:50,435 --> 00:20:00,070
+So I don't, of course, when I'm injured or when there's something just a little bit wrong, I don't know, I had a pulling session yesterday and I feel like maybe something's wrong.
+
+134
+00:20:00,090 --> 00:20:01,652
+So I'm going to target this place.
+
+135
+00:20:02,293 --> 00:20:07,421
+For a few days, I'm going to target this place at least until the discomfort is gone.
+
+136
+00:20:07,441 --> 00:20:10,386
+So there is always something you can work on, right?
+
+137
+00:20:11,106 --> 00:20:25,310
+But even if not, I would do it just to be ready faster for heavy lifting, for fast hits, for all these things, because the difference is massive.
+
+138
+00:20:27,113 --> 00:20:33,904
+Some people are doing blood work for eight hours straight in their basement.
+
+139
+00:20:34,385 --> 00:20:37,490
+I can't do it, so I choose a little more
+
+140
+00:20:37,698 --> 00:20:39,180
+science-based approach.
+
+141
+00:20:39,260 --> 00:20:41,563
+Although there might be something in this blood flow.
+
+142
+00:20:41,583 --> 00:20:42,445
+There might be something.
+
+143
+00:20:42,505 --> 00:20:55,263
+I'm going to be digging into it because I found, like, really crazy information, and I just need to find if there are some studies that can be used to get any practical use from this.
+
+144
+00:20:55,343 --> 00:21:01,271
+But there might be something about this huge blood flow, blood flow or blood work.
+
+145
+00:21:01,652 --> 00:21:06,258
+But this actually may be the same thing because when
+
+146
+00:21:06,466 --> 00:21:24,054
+your tendons and ligaments are getting, like, nutrition, or when they are squeezed, when they are stretched, this is how they start to recover.
+
+147
+00:21:25,276 --> 00:21:33,810
+So for injury that was obvious. For healthy people, in my opinion, it's a great readiness protocol.
+
+148
+00:21:33,890 --> 00:21:40,238
+You can expect to have strength gains based on the studies we have seen.
+
+149
+00:21:41,500 --> 00:21:44,304
+If that will be everywhere, I don't know.
+
+150
+00:21:45,325 --> 00:21:46,947
+Will it be the fingers?
+
+151
+00:21:47,928 --> 00:21:51,313
+We have some strong proof that it can be.
+
+152
+00:21:52,815 --> 00:21:55,038
+Well, what else can I say?
+
+153
+00:21:55,078 --> 00:22:01,266
+I think we went through pretty much everything for this topic.
+
+154
+00:22:01,730 --> 00:22:04,703
+So now you have a bigger picture of it.
+
+155
+00:22:06,189 --> 00:22:08,841
+And yeah, you can do whatever you think is right with this.
+
+156
+00:22:09,725 --> 00:22:10,066
+Bye.

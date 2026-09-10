@@ -1,0 +1,783 @@
+1
+00:00:00,706 --> 00:00:05,732
+What science has to say about rate of force development training and the effects of this training.
+
+2
+00:00:06,153 --> 00:00:15,345
+So I prepared a report for you in which I go through a few studies that were, in my opinion, the most useful for our case.
+
+3
+00:00:15,765 --> 00:00:18,448
+And I'm going to present the results I found.
+
+4
+00:00:19,630 --> 00:00:26,699
+Okay, so I put that, in my opinion, in the shortest and cleanest way I could possibly think of.
+
+5
+00:00:27,039 --> 00:00:29,202
+So there are, like, three blocks.
+
+6
+00:00:29,346 --> 00:00:37,659
+In this PDF, and we're gonna go through the first section.
+
+7
+00:00:37,739 --> 00:00:44,008
+So actually, there is a thing about rate of force development and resistance training.
+
+8
+00:00:45,971 --> 00:00:58,290
+It is this study. I've chosen this study, actually, to show us that classic resistance training is not something that's gonna be enough
+
+9
+00:00:58,754 --> 00:01:00,756
+for you to develop rate of force development.
+
+10
+00:01:01,276 --> 00:01:13,228
+It grows, but the thing is, it grows because you are getting stronger, and it doesn't mean that you are getting relatively faster if you don't train for speed.
+
+11
+00:01:13,949 --> 00:01:17,032
+So this study was quite interesting.
+
+12
+00:01:17,692 --> 00:01:27,762
+They actually followed, for a given time, people who were training. They were experienced in training, and they had
+
+13
+00:01:28,610 --> 00:01:57,330
+quite a lot of training behind them, so they weren't untrained people. They were measuring those things, like torque, rate of torque development, muscle activation, all that stuff. And the interesting thing is, I mean, for us, it's not really important in the sense that we have to take something from the study and implement it into our training, but it
+
+14
+00:01:57,538 --> 00:02:08,591
+tells us that we actually should be thinking a bit wider about arm wrestling than just strength, just resistance exercises.
+
+15
+00:02:09,712 --> 00:02:25,010
+Because what you see here is obviously that trained guys were stronger, they had bigger muscles, their absolute rate of force development was higher, maximum torque...
+
+16
+00:02:25,346 --> 00:02:27,589
+It's everything that we would expect.
+
+17
+00:02:28,510 --> 00:02:41,308
+But after normalization, we see that they were actually slower at the beginning of the movement than untrained people.
+
+18
+00:02:42,510 --> 00:02:45,774
+And this is what we see. This pattern is seventy-five, one hundred, one hundred twenty, one hundred fifty.
+
+19
+00:02:47,417 --> 00:02:49,540
+They are still slower.
+
+20
+00:02:49,580 --> 00:02:54,066
+So even if they were much faster in terms of
+
+21
+00:02:54,914 --> 00:02:57,418
+how much force they produced,
+
+22
+00:02:57,518 --> 00:03:06,191
+when we normalize these values to their maximum, they were slower than people who were not training.
+
+23
+00:03:07,233 --> 00:03:24,018
+So this is something that tells us that obviously, with growth in maximal strength, these windows that are interesting for us also grow, but they
+
+24
+00:03:24,194 --> 00:03:26,256
+it's not linear.
+
+25
+00:03:26,316 --> 00:03:32,383
+So you are getting stronger, and it's not like that's your rate of force development curve.
+
+26
+00:03:32,403 --> 00:03:43,615
+So you are getting stronger, but this part goes up, and this part doesn't necessarily, or it goes proportionally lower and slower than this part, right?
+
+27
+00:03:44,416 --> 00:03:50,482
+So this study, actually, I put here just to be
+
+28
+00:03:50,658 --> 00:04:19,730
+just to explain why we should train with the intention for the first one hundred, two hundred, three hundred milliseconds, because actually, in another study, I think I didn't put that here, but there was exactly this kind of, let's say, conclusion: classic resistance exercises, they are good for
+
+29
+00:04:19,842 --> 00:04:27,470
+three hundred-plus rate of force development, but for the early rate of force development, they don't really do much.
+
+30
+00:04:27,530 --> 00:04:34,296
+And this is just to prove that these guys didn't get relatively faster.
+
+31
+00:04:34,316 --> 00:04:47,890
+Okay, so now we go into the part that actually discusses the methods of training and what to do, because if it's not maximal strength,
+
+32
+00:04:48,418 --> 00:04:50,120
+how do we do it?
+
+33
+00:04:50,160 --> 00:04:51,982
+How do we trigger this stimulation?
+
+34
+00:04:52,903 --> 00:04:59,250
+And it turns out, luckily, we have two meta-analyses here that are showing this pattern.
+
+35
+00:04:59,270 --> 00:05:03,495
+So it's not a study; this is a wider pattern.
+
+36
+00:05:03,515 --> 00:05:13,646
+So this is something I should say at the beginning: rate of force development literature is the biggest body of literature I've gone through on this channel so far.
+
+37
+00:05:14,146 --> 00:05:27,716
+So here we are working with something that can be named scientific consensus without a doubt, because we have, for example, two or three meta-analyses and the conclusions are pretty similar.
+
+38
+00:05:30,300 --> 00:05:34,025
+So here we have two.
+
+39
+00:05:34,065 --> 00:05:38,992
+This is a systematic review, if I remember correctly, and the other one is a meta-analysis.
+
+40
+00:05:40,895 --> 00:05:46,162
+But basically, what was found in those studies was that
+
+41
+00:05:47,586 --> 00:06:14,514
+the speed at which the joint is moving, because that was the basic approach to rate of force development: if the joint is moving fast, you are producing the stimulation for your body to learn how to move fast and how to produce force. And that's why ballistic training was created, and that's why ballistic training works. So this
+
+42
+00:06:14,690 --> 00:06:42,514
+these works are not trying to reinvent the wheel, but they are trying to go further. We know that ballistic training works, so let's see what mechanism is under the hood. What is making ballistic training work? And it turns out it's not the movement itself or the speed of the movement; it's just the intention of the movement. So, for example,
+
+43
+00:06:42,626 --> 00:07:06,514
+if you were lifting a heavy weight slowly but with the intention to move it faster, your rate of force development had a greater improvement than if you were moving the same weight without this intention. It was similar to the moment when you had a lower weight and moved it faster,
+
+44
+00:07:07,842 --> 00:07:10,085
+then your intention was the key.
+
+45
+00:07:10,105 --> 00:07:13,369
+So it was not the speed, the weight, or the struggle.
+
+46
+00:07:13,810 --> 00:07:15,111
+That was intention.
+
+47
+00:07:15,412 --> 00:07:19,177
+The intention of this development.
+
+48
+00:07:19,337 --> 00:07:28,969
+And Oranchuk was comparing explosive isometrics and how they work.
+
+49
+00:07:29,050 --> 00:07:30,652
+And they do, luckily for us.
+
+50
+00:07:32,194 --> 00:07:35,538
+They do, but there is a problem I'm gonna tell you about in a second.
+
+51
+00:07:37,378 --> 00:08:03,922
+So what we have here, what's interesting to say, yeah, they're just comparing those things. There were studies, like in this one before, where they compared, for example, yeah, I have it here, but let's see: the intent of movement had maybe a similar value to actual external contraction velocity, yeah, and
+
+52
+00:08:04,546 --> 00:08:07,949
+to improve rapid force production even if movement velocity is zero.
+
+53
+00:08:09,971 --> 00:08:12,614
+So you need to want to be fast.
+
+54
+00:08:12,734 --> 00:08:19,920
+So the intention is the most important thing in this case.
+
+55
+00:08:20,441 --> 00:08:24,665
+And yeah, let's take a look at the results.
+
+56
+00:08:24,685 --> 00:08:34,354
+So in these studies, in general, we had one group that was going to some value of maximum voluntary contraction
+
+57
+00:08:34,466 --> 00:08:40,893
+without haste, let's say, and a second group that was going as fast as possible.
+
+58
+00:08:41,494 --> 00:09:03,538
+So as you see, the slow goers, let's say, the slow executors, had, in general, greater jumps in strength than the ones who were training ballistically.
+
+59
+00:09:04,130 --> 00:09:19,111
+But if we take a look at how rate of force development changed, well, then the difference is bigger, right?
+
+60
+00:09:19,291 --> 00:09:32,530
+For this group, because, for example, here it's from three percent, and as you see, this is like fourteen percent,
+
+61
+00:09:35,618 --> 00:09:44,211
+these values are sometimes even more than five times bigger, or even more.
+
+62
+00:09:45,393 --> 00:09:48,898
+Here, fourteen versus fifty percent, right?
+
+63
+00:09:49,198 --> 00:09:55,327
+In general, that was statistically significant.
+
+64
+00:09:56,209 --> 00:10:05,042
+And those guys who were trying to make the move as fast as they could actually developed more
+
+65
+00:10:05,218 --> 00:10:34,866
+force, especially in this early phase, because fifty, one hundred, one hundred fifty is very early. We're gonna talk about that in a second. And this is what we see. Oh, yeah, I already started doing that. I do it all the time recently. I hope it helps with recovery and blood flow. But anyway, let's get back to the studies. So actually,
+
+66
+00:10:34,946 --> 00:11:01,426
+we know that this is intention. So maybe let's take a look. This is the meta-analysis I was talking about, and here it definitely shows also that the intention of the move is what makes your rate of force development go up. This is from a meta-analysis of fifty-four studies, right?
+
+67
+00:11:01,666 --> 00:11:13,700
+That is confirming it, but let's get back to this, because this is the most interesting for us: what kind of protocols they had and how they trained it. Because if explosive isometrics is probably what we want, right?
+
+68
+00:11:13,720 --> 00:11:18,045
+This is the closest to what we want for arm wrestling.
+
+69
+00:11:19,147 --> 00:11:26,475
+So in general, the idea is that they go as fast and as hard as they can.
+
+70
+00:11:27,256 --> 00:11:28,658
+But the thing is that
+
+71
+00:11:28,930 --> 00:11:58,674
+I don't think, as you know, I have a little bit of experience measuring my lifts, that they were actually able, in that short time, to go to maximal contraction. And they were not. So, for example, in this study, even though they said, "Okay, go to the max," what they measured afterward was about eighty-one percent of the maximum while people were trying to go to the maximum. So
+
+72
+00:11:59,074 --> 00:12:09,951
+this eighty percent is quite, I wouldn't say universal, but here, try to reach ninety percent. Try to go as hard as you can.
+
+73
+00:12:10,452 --> 00:12:18,786
+But the thing about this is that they had a short time to execute the move.
+
+74
+00:12:19,366 --> 00:12:24,114
+So in many cases, for example, fast and hard for about one second.
+
+75
+00:12:24,134 --> 00:12:26,578
+So it goes boom, right?
+
+76
+00:12:26,850 --> 00:12:30,656
+So you don't really have time to go to your one hundred percent maximum.
+
+77
+00:12:30,676 --> 00:12:42,433
+So this is like one hundred percent maximum for a given second with a given intent, which seems to be about eighty percent of your slow maximum or something like that.
+
+78
+00:12:43,094 --> 00:12:56,594
+So in general, from what I found here, yes, go as fast and as hard as you can, but in general, if you go to eighty percent, it should be
+
+79
+00:12:56,898 --> 00:13:02,625
+all right, because I don't think you can go any further.
+
+80
+00:13:02,725 --> 00:13:04,286
+What about volume?
+
+81
+00:13:04,547 --> 00:13:12,496
+I mean, they trained only this for the needs of the study, so it's not really something you can copy and paste, but there are some patterns here.
+
+82
+00:13:14,758 --> 00:13:19,284
+Three sessions, four sets, ten reps, okay?
+
+83
+00:13:20,165 --> 00:13:24,850
+Four sessions, four sets, ten reps.
+
+84
+00:13:25,890 --> 00:13:54,354
+Do we have information about how many weeks? No, we don't. Okay, four sessions per week, four times ten again. Three sessions per week, six, right? Six times six. Okay. Oh, this is what I believe, actually. It's okay when you have a bit wider rest between sets. Okay, three sessions per week, six, six sets, right?
+
+85
+00:13:55,362 --> 00:13:58,765
+Or no, three times six.
+
+86
+00:13:59,026 --> 00:14:03,169
+So three sets, six reps, and three times ten.
+
+87
+00:14:03,470 --> 00:14:04,651
+Okay, twenty-five seconds.
+
+88
+00:14:04,671 --> 00:14:10,857
+So you have more or less an idea of what this training looks like.
+
+89
+00:14:10,917 --> 00:14:14,380
+They are not very, very long.
+
+90
+00:14:14,661 --> 00:14:19,225
+They're actually pretty, pretty short trainings.
+
+91
+00:14:19,525 --> 00:14:22,268
+The intention is just high.
+
+92
+00:14:22,948 --> 00:14:24,530
+So yeah, let's go
+
+93
+00:14:25,282 --> 00:14:34,577
+further. I think maybe, if I remember correctly, I feel like I forgot to say something important, but that's okay.
+
+94
+00:14:34,738 --> 00:14:40,507
+Or maybe a word about eccentrics, because I didn't put them here. I thought that might be too much data.
+
+95
+00:14:40,607 --> 00:14:51,826
+Actually, eccentrics greatly improve rate of force development, like overcoming isometrics in this case. Eccentrics and concentrics also do, but a bit less.
+
+96
+00:14:52,098 --> 00:15:00,151
+But especially for this early rate of force development, eccentrics had the greatest jumps.
+
+97
+00:15:00,912 --> 00:15:03,196
+Okay, so the problems I was talking about.
+
+98
+00:15:03,236 --> 00:15:12,150
+So it seems that rate of force development isn't a universal thing like strength.
+
+99
+00:15:12,832 --> 00:15:19,282
+So it seems to be very movement-pattern-specific and even
+
+100
+00:15:20,130 --> 00:15:33,845
+effort-specific, because it shows that an improvement in isometric rate of force development at a given angle doesn't necessarily make the whole ballistic movement better.
+
+101
+00:15:35,667 --> 00:15:39,050
+And the transfer between them was not that obvious.
+
+102
+00:15:40,031 --> 00:15:45,758
+I think it's because isometrics tend to build strength at the angle you train.
+
+103
+00:15:46,118 --> 00:15:49,842
+That's why it's good to do it at a few angles.
+
+104
+00:15:50,050 --> 00:15:59,485
+And actually, if you do it at a few angles, it is more effective than doing a full range of motion in terms of building strength.
+
+105
+00:16:00,447 --> 00:16:03,612
+There was a study. Maybe one day I will cite it.
+
+106
+00:16:03,752 --> 00:16:04,994
+Actually, that was pretty interesting.
+
+107
+00:16:05,735 --> 00:16:10,263
+They were doing, let's say, biceps curls, but it doesn't matter, just the length of the muscle.
+
+108
+00:16:10,283 --> 00:16:17,234
+And they used three different angles, maxing out at those angles, and it turns out that
+
+109
+00:16:17,538 --> 00:16:46,354
+one-rep dynamic maximum improved more than with regular full-range-of-motion training, but they trained in a few positions. Okay, so about this one, yeah, actually, we are learning, and in general, I've seen that in many different things, so
+
+110
+00:16:47,554 --> 00:16:53,381
+you should... I mean, okay, you can try to push a ball, right?
+
+111
+00:16:53,401 --> 00:16:54,702
+You can try to throw a ball.
+
+112
+00:16:57,525 --> 00:17:08,337
+But we see everywhere in the literature that the greatest rate of force development will be in the exact position in which you perform your test.
+
+113
+00:17:08,357 --> 00:17:15,105
+So your exercise should be as close to the testing procedure as possible.
+
+114
+00:17:15,686 --> 00:17:16,146
+So...
+
+115
+00:17:16,226 --> 00:17:19,409
+Actually, you should do it like you pull.
+
+116
+00:17:19,429 --> 00:17:19,810
+That's it.
+
+117
+00:17:20,030 --> 00:17:26,557
+You shouldn't try to do... Or at least, for example, okay, back pressure: you don't have many choices.
+
+118
+00:17:26,597 --> 00:17:28,739
+You go there, so you train here.
+
+119
+00:17:29,260 --> 00:17:42,994
+But actually, it seems that at least for rate of force development, the most important thing is to mimic the movement with maximum explosive intent.
+
+120
+00:17:44,322 --> 00:17:47,050
+for the exercise.
+
+121
+00:17:48,314 --> 00:17:59,186
+And I have an additional study here that is pretty important, and I was also worried about that because the previous studies were
+
+122
+00:17:59,362 --> 00:18:27,378
+not really on advanced guys. I mean, there was one showing that rate of force development was lacking, and because rate of force development is really closely related to your fast-twitch and slow-twitch fibers, which I'm gonna show you in a second, it's ridiculous, because I just measured a guy at a sparring session, and the results are crazy and funny, obviously, but funny. So
+
+123
+00:18:27,458 --> 00:18:49,362
+in general, here we have guys who had experience in lifting and were training. Even in their case, I mean, two years doesn't make them experts, but still, in their case, rate of force development training actually gave them gains. So
+
+124
+00:18:49,986 --> 00:18:55,955
+the group from the first studies should get the same results as these guys.
+
+125
+00:18:55,995 --> 00:18:59,981
+So their rate of force development should be all right.
+
+126
+00:19:00,142 --> 00:19:18,450
+And what we have seen also, we had, like, twelve-week studies, because there might be a plateau in rate of force development. Because when you're gonna max out your nervous system, your muscle fibers will be the limiting factor.
+
+127
+00:19:18,562 --> 00:19:48,178
+With that, I don't know. I didn't find where the ceiling is and how much you can progress. So, for example, I don't know if after two or three years you're gonna hit a plateau and never progress anymore, or if you will. I don't know. But these are the studies. That's why I wanted to put this here: for trained people, it works too. Yeah, so that was this one, and this is
+
+128
+00:19:48,706 --> 00:20:05,426
+where you can take a look at the references. And I'm gonna show you the second study. It's not really another study, but it's what I have prepared. So
+
+129
+00:20:05,730 --> 00:20:11,439
+that was not really my intention, but I brought this device for isometrics, which is already broken.
+
+130
+00:20:12,201 --> 00:20:13,322
+The guys were too strong.
+
+131
+00:20:15,626 --> 00:20:21,416
+But I just wanted to show my sparring partner how it works. It seems that many people came.
+
+132
+00:20:21,436 --> 00:20:25,582
+I didn't know that people would come today, obviously, because I thought everyone was at the competition.
+
+133
+00:20:26,063 --> 00:20:27,826
+So we just measured the
+
+134
+00:20:27,938 --> 00:20:39,270
+And the peak is not really important in this exercise because, for example, Krzysiek didn't fit into the fin.
+
+135
+00:20:40,231 --> 00:20:54,066
+And I also think that this is actually the moment when it broke, because it was like a surprise rise in strength. I already noticed that when I was, you know,
+
+136
+00:20:55,842 --> 00:20:58,987
+almost breaking it, it bent on the dynamometer.
+
+137
+00:20:59,027 --> 00:21:01,511
+But as I'm saying, it's not really important.
+
+138
+00:21:02,973 --> 00:21:05,777
+A peak in strength is not really important here.
+
+139
+00:21:05,918 --> 00:21:17,075
+We're gonna focus on this first window, about rate of force development, and here the position of the hand doesn't matter, whether it fit or not, because it shows your muscle's capacity to produce force.
+
+140
+00:21:17,275 --> 00:21:19,198
+And this is very interesting.
+
+141
+00:21:20,541 --> 00:21:21,522
+And so,
+
+142
+00:21:21,634 --> 00:21:29,205
+as you see here, we have a clear leader who almost hit his maximum within half a second.
+
+143
+00:21:29,946 --> 00:21:33,270
+And what is even crazier is that this guy is over fifty.
+
+144
+00:21:34,012 --> 00:21:38,398
+And the speed he built is insane.
+
+145
+00:21:38,418 --> 00:21:49,874
+It was above everyone else's level in terms of both maximal strength and
+
+146
+00:21:50,178 --> 00:22:17,970
+the pace at which he was building force. So, as you see, I'm here at the bottom in this thing. At five hundred milliseconds, I'm not twice as slow, but it's a good fifty percent of the difference, at least, if not more, between me and Andrzej. And I also included my
+
+147
+00:22:18,114 --> 00:22:41,458
+explosive efforts, because there is a study I didn't mention that actually showed that when you go through very short pulses without intending to go to maximum, you produce a higher rate of force development. So, as you see, I made this pulse, because when I train, I also have these pulses. Okay, I recorded it and put it on the
+
+148
+00:22:41,538 --> 00:22:49,970
+chart, and I still didn't manage to match Andrzej's result.
+
+149
+00:22:51,071 --> 00:22:56,679
+I think Igor didn't understand quite well that he had to go as fast as possible.
+
+150
+00:22:56,719 --> 00:23:04,911
+So he went as fast as he could from the sound he heard, but probably he didn't go... It doesn't matter. I'm gonna show you later on.
+
+151
+00:23:06,934 --> 00:23:10,098
+So what we see here...
+
+152
+00:23:11,042 --> 00:23:31,698
+what we see here is average speed. It's almost three thousand newtons per second. As you see, Igor is clearly the slowest one, I mean, Igor is not, because look at when he started to accelerate.
+
+153
+00:23:32,162 --> 00:23:33,223
+He was already faster.
+
+154
+00:23:33,263 --> 00:23:35,145
+He just didn't accelerate at the beginning.
+
+155
+00:23:35,225 --> 00:23:38,829
+And I think that was intentional, because this is how the curve is.
+
+156
+00:23:39,049 --> 00:23:41,912
+But he definitely wasn't the slowest.
+
+157
+00:23:42,713 --> 00:23:56,626
+And I normalized rate of force development because, as I said, the peak in this exercise isn't the most important thing, but it was important to see how fast this contraction actually is.
+
+158
+00:23:56,646 --> 00:24:00,210
+So, once again, Andrzej is the fastest of them all.
+
+159
+00:24:00,642 --> 00:24:04,668
+With this super-fast pulse, like, poof, poof, only with this.
+
+160
+00:24:04,808 --> 00:24:08,934
+And obviously, I can reach, like, thirty-something kilograms.
+
+161
+00:24:09,355 --> 00:24:13,260
+So it's at least fifteen kilograms less than my maximum.
+
+162
+00:24:14,602 --> 00:24:22,514
+So it doesn't really count, but only then was I able to match this guy's rate of force development.
+
+163
+00:24:22,654 --> 00:24:28,082
+It's way, way higher and faster than everyone else's.
+
+164
+00:24:28,450 --> 00:24:50,194
+Second, without a doubt, is Majka. He's also one of the explosive guys. And you see, in general, these guys, as you see, are more explosive, except obviously Igor, who didn't start. But even when he started, relative to the force at the end, he had an advantage over me. So
+
+165
+00:24:50,722 --> 00:24:51,844
+why is it important?
+
+166
+00:24:51,864 --> 00:24:53,126
+I mean, this is a wrist curl.
+
+167
+00:24:53,206 --> 00:24:55,229
+It's not really arm-wrestling-specific.
+
+168
+00:24:55,309 --> 00:24:57,913
+They don't do it during a match.
+
+169
+00:24:58,334 --> 00:25:00,457
+For example, I don't curl at all, almost.
+
+170
+00:25:00,557 --> 00:25:01,318
+No, I don't curl.
+
+171
+00:25:01,619 --> 00:25:02,640
+I don't curl like that.
+
+172
+00:25:02,700 --> 00:25:03,702
+I don't train it.
+
+173
+00:25:04,223 --> 00:25:08,830
+It's not really important, but it shows what you are made of.
+
+174
+00:25:09,571 --> 00:25:16,661
+And, for example, when I pull with Andrzej, or Majka, but with Andrzej it's even funnier,
+
+175
+00:25:17,863 --> 00:25:19,666
+because really, it's...
+
+176
+00:25:21,602 --> 00:25:30,417
+if I catch him, no matter which position, but if he isn't able to flash-pin me straight away, the game is over.
+
+177
+00:25:31,119 --> 00:25:46,706
+It's instant. It even looks funny, because he's gonna flash-pin me once, maybe he'll do it a second time, or maybe not. But the moment I'm holding him in any position, like a millimeter from the pad, two millimeters from the pad,
+
+178
+00:25:47,170 --> 00:25:54,500
+the match is ninety percent over, ninety-nine percent over, because he's gassing out that fast.
+
+179
+00:25:54,861 --> 00:26:10,482
+So the price of being that explosive, even at his age, means that he's very fast-twitch-dominant, which is an obvious advantage in arm wrestling.
+
+180
+00:26:10,626 --> 00:26:12,208
+Unless someone catches you.
+
+181
+00:26:13,029 --> 00:26:26,608
+Then, despite being overly, I mean, at least in this exercise, overly strong, he might not win the match in the supermatch format.
+
+182
+00:26:26,628 --> 00:26:30,794
+While for a tournament, that's probably the best thing you can have, right?
+
+183
+00:26:31,415 --> 00:26:37,102
+So this is just a small supplement, and it wasn't really studied. It was just rough data collection.
+
+184
+00:26:38,144 --> 00:26:39,666
+But...
+
+185
+00:26:39,970 --> 00:27:07,634
+what I was expecting to see, and what we see at the table, is actually what we see on the charts. We can see who is, like, when you arm wrestle someone and feel that this person is explosive and fast. We see exactly that. The lines here show who was the fastest and who was the slowest of them all. And yeah, I mean,
+
+186
+00:27:07,778 --> 00:27:09,500
+this is what we have science for.
+
+187
+00:27:09,640 --> 00:27:11,082
+This is what we have data for.
+
+188
+00:27:11,102 --> 00:27:15,868
+We can just describe reality in some measurable way.
+
+189
+00:27:16,769 --> 00:27:20,113
+So anyway, I think it's enough about rate of force development.
+
+190
+00:27:20,653 --> 00:27:22,756
+We know how to train it.
+
+191
+00:27:22,996 --> 00:27:25,439
+I mean, how to approach our training.
+
+192
+00:27:25,499 --> 00:27:31,346
+So I will be doing a third video about rate of force development, and that will be
+
+193
+00:27:31,618 --> 00:27:44,064
+a practical implementation of what we have learned: proposed exercises, how I do it, and what kind of software I built to train rate of force development.
+
+194
+00:27:44,104 --> 00:27:47,171
+I'm going to show you the whole practical implementation.
+
+195
+00:27:47,231 --> 00:27:49,335
+But for today, that's it.
+
+196
+00:27:50,417 --> 00:27:50,738
+Bye.

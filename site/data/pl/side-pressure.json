@@ -1,0 +1,47 @@
+{
+  "article": "side-pressure",
+  "language": "pl",
+  "figure": {
+    "title": "Ta sama siła, inny efekt obrotowy",
+    "caption": "Przykład z siłą prostopadłą: moment = siła × ramię siły. To nie model ludzkiego stawu; nie służy do szacowania naprężeń więzadła ani bezpiecznego obciążenia treningowego.",
+    "labels": [
+      "Siła",
+      "Ramię siły",
+      "Moment"
+    ],
+    "unit": "N·m"
+  },
+  "data": {
+    "kind": "table",
+    "origin": "calculation",
+    "formula": "moment_Nm = force_N * perpendicular_moment_arm_m",
+    "rows": [
+      [
+        "100 N",
+        "0.20 m",
+        "20 N·m"
+      ],
+      [
+        "100 N",
+        "0.30 m",
+        "30 N·m"
+      ]
+    ]
+  },
+  "references": [
+    {
+      "authors": "Moloney DP, Feeley I, Hughes AJ, Merghani K, Sheehan E, Kennedy M.",
+      "year": 2021,
+      "title": "Injuries associated with arm wrestling: A narrative review",
+      "journal": "Journal of Clinical Orthopaedics and Trauma. 18:30–37.",
+      "url": "https://doi.org/10.1016/j.jcot.2021.04.010"
+    },
+    {
+      "authors": "Oranchuk DJ, Storey AG, Nelson AR, Cronin JB.",
+      "year": 2019,
+      "title": "Isometric training and long-term adaptations: Effects of muscle length, intensity, and intent: A systematic review",
+      "journal": "Scandinavian Journal of Medicine & Science in Sports. 29:484–503.",
+      "url": "https://doi.org/10.1111/sms.13375"
+    }
+  ]
+}

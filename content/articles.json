@@ -1,0 +1,271 @@
+[
+  {
+    "id": "rfd-armwrestling",
+    "category": "strength",
+    "source_folder": "RFD",
+    "pdfs": [
+      "rfd-armwrestling"
+    ],
+    "thumbnail_source": "RFD/miniaturka.png",
+    "video_id": null,
+    "video_query": "Armwrestling LAB RFD What makes them winning",
+    "references": [
+      "rfd2024",
+      "rfd2023",
+      "coletta2025",
+      "akpinar2013",
+      "maffiuletti2016"
+    ],
+    "figure": "rfd-youth",
+    "evidence": "observational",
+    "image": "assets/img/rfd-armwrestling.webp",
+    "date": "2026-09-09",
+    "modified": "2026-09-09",
+    "transcript": "sources/transcripts/rfd-armwrestling.srt"
+  },
+  {
+    "id": "train-rfd",
+    "category": "strength",
+    "source_folder": "RFD science",
+    "pdfs": [
+      "rfd-training",
+      "wrist-curl-data"
+    ],
+    "thumbnail_source": "RFD science/miniaturka.png",
+    "video_id": "XXUyS5iV9LI",
+    "video_query": "How to Train Rate of Force Development for Arm Wrestling Armwrestling LAB",
+    "references": [
+      "balshaw2022",
+      "tillin2014",
+      "blazevich2020",
+      "oranchuk2019",
+      "maffiuletti2016"
+    ],
+    "figure": "rfd-club",
+    "evidence": "mixed",
+    "image": "assets/img/train-rfd.webp",
+    "date": "2026-09-09",
+    "modified": "2026-09-09",
+    "transcript": "sources/transcripts/train-rfd.srt"
+  },
+  {
+    "id": "tendon-stiffness",
+    "category": "tendons",
+    "source_folder": "janis robi glupie rzeczy",
+    "pdfs": [
+      "tendon-isometrics",
+      "rfd-training"
+    ],
+    "thumbnail_source": "janis robi glupie rzeczy/miniaturka.png",
+    "video_id": "SC784mFIc6I",
+    "video_query": "Janis’s High-Intensity Explosive Tendon Stiffening Protocol Armwrestling LAB",
+    "references": [
+      "lazarczuk2022",
+      "oranchuk2019",
+      "maffiuletti2016"
+    ],
+    "figure": "loading-checklist",
+    "evidence": "synthesis",
+    "image": "assets/img/tendon-stiffness.webp",
+    "date": "2026-09-09",
+    "modified": "2026-09-09",
+    "transcript": "sources/transcripts/tendon-stiffness.srt"
+  },
+  {
+    "id": "keith-baar-isometrics",
+    "category": "tendons",
+    "source_folder": "keith baar",
+    "pdfs": [
+      "tendon-isometrics"
+    ],
+    "thumbnail_source": "keith baar/thumbnails/accepted.png",
+    "video_id": "mBCTd_kZCZk",
+    "video_query": "The Truth About Keith Baar’s Isometric Protocol I’ve Done It for 2 Years Armwrestling LAB",
+    "references": [
+      "paxton2012",
+      "lazarczuk2022",
+      "rio2015",
+      "clifford2020",
+      "oranchuk2019"
+    ],
+    "figure": "tendon-meta",
+    "evidence": "mixed",
+    "image": "assets/img/keith-baar-isometrics.webp",
+    "date": "2026-09-09",
+    "modified": "2026-09-09",
+    "transcript": "sources/transcripts/keith-baar-isometrics.srt"
+  },
+  {
+    "id": "collagen-vitamin-c",
+    "category": "nutrition",
+    "source_folder": "vitamine C",
+    "pdfs": [
+      "collagen-final"
+    ],
+    "thumbnail_source": "vitamine C/thumbnails/accepted.png",
+    "video_id": "WC5TpDxxuv0",
+    "video_alternative": "8dqrmrX8Upc",
+    "video_query": "Do Collagen Supplements Actually Help Tendons Armwrestling LAB",
+    "references": [
+      "shaw2017",
+      "aussieker2023",
+      "aussieker2025",
+      "nulty2025",
+      "buchalski2026"
+    ],
+    "figure": "collagen-ladder",
+    "evidence": "mixed",
+    "image": "assets/img/collagen-vitamin-c.webp",
+    "date": "2026-09-09",
+    "modified": "2026-09-09",
+    "transcript": "sources/transcripts/collagen-vitamin-c.srt"
+  },
+  {
+    "id": "diet-armwrestling",
+    "category": "nutrition",
+    "source_folder": "diet in armwrestling",
+    "pdfs": [
+      "collagen-final"
+    ],
+    "thumbnail_source": "diet in armwrestling/miniaturka.png",
+    "video_id": "KUzvLxYh0Qk",
+    "video_query": "Diet in Armwrestling Basic Rules Armwrestling LAB",
+    "references": [
+      "morton2018",
+      "nulty2025",
+      "meeusen2013"
+    ],
+    "figure": "protein-context",
+    "evidence": "synthesis",
+    "image": "assets/img/diet-armwrestling.webp",
+    "date": "2026-09-09",
+    "modified": "2026-09-09",
+    "transcript": "sources/transcripts/diet-armwrestling.srt"
+  },
+  {
+    "id": "overtraining",
+    "category": "training",
+    "source_folder": "overtraining",
+    "pdfs": [],
+    "thumbnail_source": "overtraining/miniaturka.png",
+    "video_id": null,
+    "video_query": "Armwrestling LAB I want you to stop overtraining",
+    "references": [
+      "meeusen2013",
+      "clifford2020",
+      "lakicevic2021"
+    ],
+    "figure": "fatigue-decision",
+    "evidence": "synthesis",
+    "image": "assets/img/overtraining.webp",
+    "date": "2026-09-09",
+    "modified": "2026-09-09",
+    "transcript": "sources/transcripts/overtraining.srt"
+  },
+  {
+    "id": "body-mass-ffmi",
+    "category": "nutrition",
+    "source_folder": "prawdziwa masa armwrestlerow",
+    "pdfs": [],
+    "thumbnail_source": "prawdziwa masa armwrestlerow/1c3ec785-64b3-468b-8ed4-e267df03c997.png",
+    "video_id": null,
+    "video_query": "Armwrestling LAB bodyweight delusion FFMI",
+    "references": [
+      "kouri1995",
+      "coletta2025",
+      "morton2018"
+    ],
+    "figure": "ffmi-example",
+    "evidence": "synthesis",
+    "image": "assets/img/body-mass-ffmi.webp",
+    "date": "2026-09-09",
+    "modified": "2026-09-09",
+    "transcript": "sources/transcripts/body-mass-ffmi.srt"
+  },
+  {
+    "id": "measure-progress",
+    "category": "training",
+    "source_folder": "progression",
+    "pdfs": [
+      "wrist-curl-data"
+    ],
+    "thumbnail_source": "progression/minuaturka.png",
+    "video_id": null,
+    "video_query": "Armwrestling LAB progression dynamometer strength",
+    "references": [
+      "lakicevic2021",
+      "maffiuletti2016"
+    ],
+    "figure": "sampling-intervals",
+    "evidence": "synthesis",
+    "image": "assets/img/measure-progress.webp",
+    "date": "2026-09-09",
+    "modified": "2026-09-09",
+    "transcript": "sources/transcripts/measure-progress.srt"
+  },
+  {
+    "id": "side-pressure",
+    "category": "tendons",
+    "source_folder": "side pressure",
+    "pdfs": [],
+    "thumbnail_source": "side pressure/miniaturka.png",
+    "video_id": "Pw6SRarWPEA",
+    "video_query": "Side Pressure Made Simple Armwrestling LAB",
+    "references": [
+      "moloney2021",
+      "oranchuk2019"
+    ],
+    "figure": "torque-example",
+    "evidence": "synthesis",
+    "image": "assets/img/side-pressure.webp",
+    "date": "2026-09-09",
+    "modified": "2026-09-09",
+    "transcript": "sources/transcripts/side-pressure.srt"
+  },
+  {
+    "id": "great-armwrestler",
+    "category": "strength",
+    "source_folder": "what amkes an arwrestler great arwmrestler",
+    "pdfs": [
+      "rfd-armwrestling",
+      "tendon-isometrics"
+    ],
+    "thumbnail_source": "what amkes an arwrestler great arwmrestler/youtube_thumbnail_armwrestler_composition_v2.png",
+    "video_id": "Pi8MRXDvF48",
+    "video_query": "What REALLY Makes an Armwrestling Champion Strength Genetics or Maybe Something Else Armwrestling LAB",
+    "references": [
+      "coletta2025",
+      "akpinar2013",
+      "rfd2023",
+      "maffiuletti2016",
+      "lazarczuk2022"
+    ],
+    "figure": "performance-map",
+    "evidence": "synthesis",
+    "image": "assets/img/great-armwrestler.webp",
+    "date": "2026-09-09",
+    "modified": "2026-09-09",
+    "transcript": "sources/transcripts/great-armwrestler.srt"
+  },
+  {
+    "id": "enhanced-games",
+    "category": "analysis",
+    "source_folder": "Enchanced games",
+    "pdfs": [
+      "enhanced-corrected"
+    ],
+    "thumbnail_source": "Enchanced games/miniaturka.png",
+    "video_id": null,
+    "video_query": "Armwrestling LAB Enhanced Games truth exposed 2026",
+    "references": [
+      "eg-report",
+      "bhasin1996"
+    ],
+    "figure": "enhanced-comparison",
+    "evidence": "analysis",
+    "image": "assets/img/enhanced-games.webp",
+    "date": "2026-09-09",
+    "modified": "2026-09-09",
+    "transcript": "sources/transcripts/enhanced-games.srt"
+  }
+]

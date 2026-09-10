@@ -1,0 +1,321 @@
+[
+  {
+    "source": "Enchanced games/miniaturka.png",
+    "archive_path": "graphics/Enchanced games/miniaturka.png",
+    "sha256": "6a82959daa223022eedb2fa2480cd98467ba1aab67b9a2ae64853e6b22eeece0"
+  },
+  {
+    "source": "Enchanced games/thumbnails/en.png",
+    "identical_to": "graphics/Enchanced games/miniaturka.png"
+  },
+  {
+    "source": "RFD/miniaturka.png",
+    "archive_path": "graphics/RFD/miniaturka.png",
+    "sha256": "4d8ec3a21c5360fde52740ed470d2d723f58b8676c18fa8d74cef7b93ac3b00f"
+  },
+  {
+    "source": "RFD science/miniaturka.png",
+    "archive_path": "graphics/RFD science/miniaturka.png",
+    "sha256": "6bca9ca2dc04f559e4898f6475fa46de25a34ae5ce1ab53b33c4ed457c5cc204"
+  },
+  {
+    "source": "armwrestling handles/miniatura.png",
+    "archive_path": "graphics/armwrestling handles/miniatura.png",
+    "sha256": "1e1a0e72b8b279db46c93de94c365f85f6b50f34594d2b186319787c67f827f7"
+  },
+  {
+    "source": "ból w nadgarstku/MINIATURKA.png",
+    "archive_path": "graphics/ból w nadgarstku/MINIATURKA.png",
+    "sha256": "1dbf9f1d0a8bfab39f38503301161f5ca75022dc9713d1d30c44c6980270cfd8"
+  },
+  {
+    "source": "ból w nadgarstku/thumbnails/eng.png",
+    "archive_path": "graphics/ból w nadgarstku/thumbnails/eng.png",
+    "sha256": "213cc1933126f6c9ef88e5bc1dd0a544650188622314cdb004f2b55dfce16b17"
+  },
+  {
+    "source": "devon larrat pronation/miniaturka.png",
+    "archive_path": "graphics/devon larrat pronation/miniaturka.png",
+    "sha256": "0695129cf365a495892b4986574029b49deb75647916c9f186d8cdb05f9b1d35"
+  },
+  {
+    "source": "diet in armwrestling/miniaturka.png",
+    "archive_path": "graphics/diet in armwrestling/miniaturka.png",
+    "sha256": "b9d293527cd073f3653314928021c5b1335a8226d5cc0b3f6fcf9f0660463ee0"
+  },
+  {
+    "source": "how to apply bfr/miniaturka.png",
+    "archive_path": "graphics/how to apply bfr/miniaturka.png",
+    "sha256": "8f4dadf528fa8acfa7eb8a342b034a69c0dcb7e032e24f47f68d44bafe792d6e"
+  },
+  {
+    "source": "how to apply bfr/thumbnails/en.png",
+    "archive_path": "graphics/how to apply bfr/thumbnails/en.png",
+    "sha256": "8406aa7dd91d5f9bc18a81a6b8017be3ebfce8558419cece6229a50f50adb77d"
+  },
+  {
+    "source": "janis robi glupie rzeczy/miniaturka.png",
+    "archive_path": "graphics/janis robi glupie rzeczy/miniaturka.png",
+    "sha256": "2eacfd2f486ca2239c819ba96ef869df27bcb03027e1086d04069ffebb2a670c"
+  },
+  {
+    "source": "keith baar/miniaturka.png",
+    "archive_path": "graphics/keith baar/miniaturka.png",
+    "sha256": "14d423278c5623a4929786721740c313759758aabd3479db270fce4488029a7a"
+  },
+  {
+    "source": "keith baar/miniaturka2.png",
+    "archive_path": "graphics/keith baar/miniaturka2.png",
+    "sha256": "c0bff81df81fdac02547e3a2accb97ef1aea3d9cc2a095359661e8f02ea1188c"
+  },
+  {
+    "source": "keith baar/thumbnails/accepted.png",
+    "archive_path": "graphics/keith baar/thumbnails/accepted.png",
+    "sha256": "20707343c58d06a3d45fcca473e419f6e3796363433ad43852eac7c4dd520f2d"
+  },
+  {
+    "source": "keith baar/thumbnails/master.png",
+    "identical_to": "graphics/keith baar/thumbnails/accepted.png"
+  },
+  {
+    "source": "overtraining/miniaturka.png",
+    "archive_path": "graphics/overtraining/miniaturka.png",
+    "sha256": "619d5929b3fc2a9422d7c11942ca6391663512a4f44d0bd7b2b4fa0cc5426820"
+  },
+  {
+    "source": "prawdziwa masa armwrestlerow/1c3ec785-64b3-468b-8ed4-e267df03c997.png",
+    "archive_path": "graphics/prawdziwa masa armwrestlerow/1c3ec785-64b3-468b-8ed4-e267df03c997.png",
+    "sha256": "a18ae13e4970308b7d5dd361ef6647116c882b7de6ecd62ac2d1b8a5c4bb409b"
+  },
+  {
+    "source": "progression/minuaturka.png",
+    "archive_path": "graphics/progression/minuaturka.png",
+    "sha256": "0456047a53a3c2b1ded1ac7814de8ae8bcf734ebd0d4db55823b40547eaf68a3"
+  },
+  {
+    "source": "rugby ball/miniaturka.png",
+    "archive_path": "graphics/rugby ball/miniaturka.png",
+    "sha256": "b5a96a1c4d29b543af66f9ae2941e0a8d005252876f3b7386438d368a4c06d26"
+  },
+  {
+    "source": "rzeczy na kanal/baner na yt8.png",
+    "archive_path": "graphics/rzeczy na kanal/baner na yt8.png",
+    "sha256": "7ff74be795c6635f27c6d5647c224a291b2423e7f3fa1dfa3b604b9f1023d8ac"
+  },
+  {
+    "source": "rzeczy na kanal/channels4_profile.jpg",
+    "archive_path": "graphics/rzeczy na kanal/channels4_profile.jpg",
+    "sha256": "88b74e7475b99cb46bca731e37bbcf974421abca31c4c05093e7669f2377ac5e"
+  },
+  {
+    "source": "side pressure/miniaturka.png",
+    "archive_path": "graphics/side pressure/miniaturka.png",
+    "sha256": "42c000afe4c9c07074cf1f462f96c180842fd93fe4fa78f41c9e7a15cba7386e"
+  },
+  {
+    "source": "side rpessure ligament vs tendon/miniaturka.png",
+    "archive_path": "graphics/side rpessure ligament vs tendon/miniaturka.png",
+    "sha256": "16d7d92ed6bc862061fe847250e69925408b920a206b1d5518e436fc41bcfa91"
+  },
+  {
+    "source": "side rpessure ligament vs tendon/thumbnails/en.png",
+    "archive_path": "graphics/side rpessure ligament vs tendon/thumbnails/en.png",
+    "sha256": "de6621af487417bbdbc31752eae26783c89416ba3cd65a521413ca1ee0c745e5"
+  },
+  {
+    "source": "table time/miniaturka.png",
+    "archive_path": "graphics/table time/miniaturka.png",
+    "sha256": "d8eabaa34175bf3caebcd33156050c90049a3cd2b3ccb9460e4682f22aa55eb4"
+  },
+  {
+    "source": "vitamine C/miniaturka.png",
+    "archive_path": "graphics/vitamine C/miniaturka.png",
+    "sha256": "41b5bd92004f1f5f29ad02fd1f4aaeed4cab8ceaf7e617bee75004adbd03ca00"
+  },
+  {
+    "source": "vitamine C/thumbnails/accepted.png",
+    "archive_path": "graphics/vitamine C/thumbnails/accepted.png",
+    "sha256": "49d20280652a8bd431cff53f715e3d3eb2619a24e5d1b41bc9c4eb0ceedac3f7"
+  },
+  {
+    "source": "vitamine C/thumbnails/master.png",
+    "identical_to": "graphics/vitamine C/thumbnails/accepted.png"
+  },
+  {
+    "source": "what amkes an arwrestler great arwmrestler/youtube_thumbnail_armwrestler_composition_v2.png",
+    "archive_path": "graphics/what amkes an arwrestler great arwmrestler/youtube_thumbnail_armwrestler_composition_v2.png",
+    "sha256": "b5a76faf7b0198a5e3dd907c9bf0825a842e940217286ffe3d85e2a47c09e811"
+  },
+  {
+    "source": "why they quit/youtube_thumbnail_they_are_gone_v2.png",
+    "archive_path": "graphics/why they quit/youtube_thumbnail_they_are_gone_v2.png",
+    "sha256": "8370dcd03be756c638bdd46645d74eb6ff198d8a60cb1c4b12564b153674e908"
+  },
+  {
+    "source": "wiezadla w nadgarstku/miniaturka.png",
+    "archive_path": "graphics/wiezadla w nadgarstku/miniaturka.png",
+    "sha256": "6b2dd2663cc947843afa63f0a1960124ee5804c7a37a8934876826253fae541d"
+  },
+  {
+    "source": "Enchanced games/dubs/subs/en.srt",
+    "archive_path": "transcripts/Enchanced games/dubs/subs/en.srt",
+    "sha256": "b438e8794b249839d8ab343077af2c1f95c60beadf1236ead7ce8b3658d713bc"
+  },
+  {
+    "source": "RFD/dubs/subs/en.srt",
+    "archive_path": "transcripts/RFD/dubs/subs/en.srt",
+    "sha256": "4599d957fc5d578d89234d0820f17eb8df66174b7fd41fdce9131eabea6ac6e7"
+  },
+  {
+    "source": "RFD science/dubs/subs/en.srt",
+    "archive_path": "transcripts/RFD science/dubs/subs/en.srt",
+    "sha256": "af0692827f2003e772bc66d0f019b5651bba7d042cd6d27cbd59bbec2f5525bf"
+  },
+  {
+    "source": "armwrestling handles/dubs/subs/en.srt",
+    "archive_path": "transcripts/armwrestling handles/dubs/subs/en.srt",
+    "sha256": "5530e89a0c729951e17a8204ecc34f0236ebee3ac5d63e71e68228e3f33c0ae8"
+  },
+  {
+    "source": "ból w nadgarstku/dubs/subs/en.srt",
+    "archive_path": "transcripts/ból w nadgarstku/dubs/subs/en.srt",
+    "sha256": "7cceb0efada2e71f128630e0a79eaa497bc937b18508c4639796b3d59a878aec"
+  },
+  {
+    "source": "devon larrat pronation/dubs/subs/en.srt",
+    "archive_path": "transcripts/devon larrat pronation/dubs/subs/en.srt",
+    "sha256": "3a6af4072a22ae20d15a921056b45025dafebb300d1e5e694b17e2d9de5da47a"
+  },
+  {
+    "source": "diet in armwrestling/dubs/subs/en.srt",
+    "archive_path": "transcripts/diet in armwrestling/dubs/subs/en.srt",
+    "sha256": "f505d769e12a10c59d293398c03a673e798b3dcc22574d775614540fc67fc16e"
+  },
+  {
+    "source": "how to apply bfr/dubs/subs/en.srt",
+    "archive_path": "transcripts/how to apply bfr/dubs/subs/en.srt",
+    "sha256": "323778435f7833e4d325fdeedd1b893716827ecee432956c6e6c4a5ddd9b6de7"
+  },
+  {
+    "source": "janis robi glupie rzeczy/dubs/subs/en.srt",
+    "archive_path": "transcripts/janis robi glupie rzeczy/dubs/subs/en.srt",
+    "sha256": "3b439fdfccfcca2a7640249635d769b799f62d7719e6a568ec48c4e543b714c8"
+  },
+  {
+    "source": "keith baar/dubs/subs/en.srt",
+    "archive_path": "transcripts/keith baar/dubs/subs/en.srt",
+    "sha256": "6e5a5d09e83bd43d0090deee19e5dd49bb6082f4e24f5c6bec7d87c16cf82cb4"
+  },
+  {
+    "source": "overtraining/dubs/subs/en.srt",
+    "archive_path": "transcripts/overtraining/dubs/subs/en.srt",
+    "sha256": "041304ce42751e08d6bea6e6325c1485c601fa4ff771d1bf51afa31c9b5438d7"
+  },
+  {
+    "source": "prawdziwa masa armwrestlerow/dubs/subs/en.srt",
+    "archive_path": "transcripts/prawdziwa masa armwrestlerow/dubs/subs/en.srt",
+    "sha256": "4aa91f75675ce7955662d3d5e70a2c687b9c79a38edaad675c294a15d5c5df70"
+  },
+  {
+    "source": "progression/dubs/subs/en.srt",
+    "archive_path": "transcripts/progression/dubs/subs/en.srt",
+    "sha256": "5214ddcbcbcde10e6a93e12d647c7e20556ceba702fb861ff4e4c23e455745f7"
+  },
+  {
+    "source": "rugby ball/dubs/subs/en.srt",
+    "archive_path": "transcripts/rugby ball/dubs/subs/en.srt",
+    "sha256": "ebafdcbfcac4784d6097647c36db911033a7c709777505befa22c4f73c224a3d"
+  },
+  {
+    "source": "side pressure/dubs/subs/en.srt",
+    "archive_path": "transcripts/side pressure/dubs/subs/en.srt",
+    "sha256": "f75a05b03c6e7f13a9de71fbd86c09bd711fa25fc79e28886faf48b2e0970ba5"
+  },
+  {
+    "source": "side rpessure ligament vs tendon/dubs/subs/en.srt",
+    "archive_path": "transcripts/side rpessure ligament vs tendon/dubs/subs/en.srt",
+    "sha256": "05fd8fc92311a01660ba7587528b2a6d53e46094920f2040a7c97f4a9b53afdb"
+  },
+  {
+    "source": "table time/dubs/subs/en.srt",
+    "archive_path": "transcripts/table time/dubs/subs/en.srt",
+    "sha256": "c6611528fd94e210d06c5c0341c24d6380fe1deb72deda184af88dc4759705c3"
+  },
+  {
+    "source": "vitamine C/dubs/subs/en.srt",
+    "archive_path": "transcripts/vitamine C/dubs/subs/en.srt",
+    "sha256": "010e58bf3d16fe11f20b730fdff239a74b3a54c4adc8f813c70d2656de309ad6"
+  },
+  {
+    "source": "what amkes an arwrestler great arwmrestler/dubs/subs/en.srt",
+    "archive_path": "transcripts/what amkes an arwrestler great arwmrestler/dubs/subs/en.srt",
+    "sha256": "7149f6d254a4a0f766217fb3236b0f30056b1e741e7ae0b18041ac46470afb38"
+  },
+  {
+    "source": "why they quit/dubs/subs/en.srt",
+    "archive_path": "transcripts/why they quit/dubs/subs/en.srt",
+    "sha256": "d09556e14c1a51bd8d68f885c5dfd622f5c6b6e9379a87bbafbe61c638cfcdea"
+  },
+  {
+    "source": "wiezadla w nadgarstku/dubs/subs/en.srt",
+    "archive_path": "transcripts/wiezadla w nadgarstku/dubs/subs/en.srt",
+    "sha256": "587f29c9eeb6623e8281e263df2ea87c95be58cd172b1e90dbab59ddcc671080"
+  },
+  {
+    "source": "BFR/BFR_VISUAL_DATA_EN.pdf",
+    "archive_path": "pdf/BFR/BFR_VISUAL_DATA_EN.pdf",
+    "sha256": "7327782f6fada256c0857058e47a4222f9d6eb4c4ba5197bb2c4012d8094270b"
+  },
+  {
+    "source": "Enchanced games/enhanced_games_report_EN_corrected.pdf",
+    "archive_path": "pdf/Enchanced games/enhanced_games_report_EN_corrected.pdf",
+    "sha256": "3d493b12cea523e73b80ee8fa082f29975e2558e1aff008f417836e77aa094c0"
+  },
+  {
+    "source": "Enchanced games/enhanced_games_video_deck_EN.pdf",
+    "archive_path": "pdf/Enchanced games/enhanced_games_video_deck_EN.pdf",
+    "sha256": "63ab5d7c32b204f21ef01dc0c6463b19fe9aa29fb522f5a347c62f1d4489b16d"
+  },
+  {
+    "source": "RFD/armwrestling_RFD_report_EN.pdf",
+    "archive_path": "pdf/RFD/armwrestling_RFD_report_EN.pdf",
+    "sha256": "a60c8de64b3d4321951f83913d5b6662b698f5aaa530fa31c5dbc9dfd1fe6a47"
+  },
+  {
+    "source": "RFD science/RFD_publikacje_uporzadkowane_FINAL/RFD_report_EN.pdf",
+    "archive_path": "pdf/RFD science/RFD_publikacje_uporzadkowane_FINAL/RFD_report_EN.pdf",
+    "sha256": "3133ba5be075af77e471113a25195482923cf69119196e9175d73fcf6e0e562f"
+  },
+  {
+    "source": "RFD science/wrist_curl_comparison_RAW_verified.pdf",
+    "archive_path": "pdf/RFD science/wrist_curl_comparison_RAW_verified.pdf",
+    "sha256": "4bec6adbd63d5a71cecd5b619cae49dcca544fa45ca9f0c99dfe2d9374afa3f9"
+  },
+  {
+    "source": "keith baar/Tendon_isometrics_Baar_VISUAL_DATA_EN.pdf",
+    "archive_path": "pdf/keith baar/Tendon_isometrics_Baar_VISUAL_DATA_EN.pdf",
+    "sha256": "222f7af0a1ddfba6a2468ce22094389650e5a4531c417e840200ed45bf87f448"
+  },
+  {
+    "source": "vitamine C/Collagen_Vitamin_C_and_Dietary_Protein_Evidence_Report_EN_FINAL.pdf",
+    "archive_path": "pdf/vitamine C/Collagen_Vitamin_C_and_Dietary_Protein_Evidence_Report_EN_FINAL.pdf",
+    "sha256": "493ed84de4c98ce8d7877006ae5dfb0f6be031060a8b3ab12b4abb9d995a1130"
+  },
+  {
+    "source": "vitamine C/Collagen_vitamin_C_VISUAL_DATA_EN.pdf",
+    "archive_path": "pdf/vitamine C/Collagen_vitamin_C_VISUAL_DATA_EN.pdf",
+    "sha256": "b0026109942ce9704416c0bf965ab48a735f54f418678c1c206842662946680b"
+  },
+  {
+    "source": "youtube_research_materials_BFR_Baar_Collagen/BFR_VISUAL_DATA_EN.pdf",
+    "identical_to": "pdf/BFR/BFR_VISUAL_DATA_EN.pdf"
+  },
+  {
+    "source": "youtube_research_materials_BFR_Baar_Collagen/Collagen_vitamin_C_VISUAL_DATA_EN.pdf",
+    "identical_to": "pdf/vitamine C/Collagen_vitamin_C_VISUAL_DATA_EN.pdf"
+  },
+  {
+    "source": "youtube_research_materials_BFR_Baar_Collagen/Tendon_isometrics_Baar_VISUAL_DATA_EN.pdf",
+    "identical_to": "pdf/keith baar/Tendon_isometrics_Baar_VISUAL_DATA_EN.pdf"
+  }
+]

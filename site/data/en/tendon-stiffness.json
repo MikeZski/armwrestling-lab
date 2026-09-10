@@ -1,0 +1,45 @@
+{
+  "article": "tendon-stiffness",
+  "language": "en",
+  "figure": {
+    "title": "Four questions behind a tendon-training claim",
+    "caption": "Editorial checklist based on the cited reviews. This is a conceptual summary, not experimental data or a safety rating.",
+    "labels": [
+      "Load",
+      "How much force, relative to which maximum?",
+      "Strain",
+      "What deformation reaches the tendon?",
+      "Intent",
+      "Fast force rise or sustained effort?",
+      "Outcome",
+      "Was tendon adaptation measured?"
+    ]
+  },
+  "data": {
+    "kind": "concept",
+    "origin": "editorial"
+  },
+  "references": [
+    {
+      "authors": "Lazarczuk SL, et al.",
+      "year": 2022,
+      "title": "Mechanical, Material and Morphological Adaptations of Healthy Lower Limb Tendons to Mechanical Loading: A Systematic Review and Meta-Analysis",
+      "journal": "Sports Medicine. 52:2405–2429.",
+      "url": "https://doi.org/10.1007/s40279-022-01695-y"
+    },
+    {
+      "authors": "Oranchuk DJ, Storey AG, Nelson AR, Cronin JB.",
+      "year": 2019,
+      "title": "Isometric training and long-term adaptations: Effects of muscle length, intensity, and intent: A systematic review",
+      "journal": "Scandinavian Journal of Medicine & Science in Sports. 29:484–503.",
+      "url": "https://doi.org/10.1111/sms.13375"
+    },
+    {
+      "authors": "Maffiuletti NA, Aagaard P, Blazevich AJ, Folland J, Tillin N, Duchateau J.",
+      "year": 2016,
+      "title": "Rate of force development: physiological and methodological considerations",
+      "journal": "European Journal of Applied Physiology. 116:1091–1116.",
+      "url": "https://doi.org/10.1007/s00421-016-3346-6"
+    }
+  ]
+}

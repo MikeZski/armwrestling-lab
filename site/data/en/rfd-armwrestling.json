@@ -1,0 +1,79 @@
+{
+  "article": "rfd-armwrestling",
+  "language": "en",
+  "figure": {
+    "title": "Early force in young armwrestlers",
+    "caption": "Values reported at 500 ms, summed across four tests—not one movement. General group n=20; leaders n=9. Redrawn from the supplied RFD report, page 2, based on Bezkorovainyi et al. (2024). Means only; no uncertainty bars are reconstructed.",
+    "labels": [
+      "Left arm",
+      "Right arm",
+      "General group",
+      "Leaders"
+    ],
+    "unit": "kg, reported dynamometer scale"
+  },
+  "data": {
+    "kind": "grouped",
+    "origin": "reported",
+    "source": "rfd-armwrestling",
+    "pages": [
+      2
+    ],
+    "headers": [
+      "arm",
+      "general",
+      "leaders"
+    ],
+    "rows": [
+      [
+        0,
+        79.45,
+        90.47
+      ],
+      [
+        1,
+        85.69,
+        92.75
+      ]
+    ],
+    "max": 100,
+    "precision": 2
+  },
+  "references": [
+    {
+      "authors": "Bezkorovainyi D, Oderov A, Kravchenko A, et al.",
+      "year": 2024,
+      "title": "Factors of the effectiveness of competitive activity of arm wrestlers aged 14–15 years at the stage of preliminary basic training",
+      "journal": "Slobozhanskyi Herald of Science and Sport. 28(4):225–236.",
+      "url": "https://doi.org/10.15391/snsv.2024-4.006"
+    },
+    {
+      "authors": "Bezkorovainyi D, Kamayev O, Vlasko S, et al.",
+      "year": 2023,
+      "title": "Comparative Analysis of the Efforts of Highly Qualified Elite Armwrestlers with Different Strength Abilities",
+      "journal": "Physical Education Theory and Methodology. 23(6):850–859.",
+      "url": "https://doi.org/10.17309/tmfv.2023.6.06"
+    },
+    {
+      "authors": "Coletta F, Cesanelli L, Kamandulis S, Conte D.",
+      "year": 2025,
+      "title": "Comparative Analysis of Elbow Flexor Morphology, Physiology, and Performance Between Arm Wrestlers and Strength-Trained Athletes",
+      "journal": "Journal of Strength and Conditioning Research. 39(5):579–586.",
+      "url": "https://doi.org/10.1519/JSC.0000000000005071"
+    },
+    {
+      "authors": "Akpinar S, et al.",
+      "year": 2013,
+      "title": "Anthropological and Perceptual Predictors Affecting the Ranking in Arm Wrestling Competition",
+      "journal": "International Journal of Morphology. 31(3):832–838.",
+      "url": "https://doi.org/10.4067/S0717-95022013000300009"
+    },
+    {
+      "authors": "Maffiuletti NA, Aagaard P, Blazevich AJ, Folland J, Tillin N, Duchateau J.",
+      "year": 2016,
+      "title": "Rate of force development: physiological and methodological considerations",
+      "journal": "European Journal of Applied Physiology. 116:1091–1116.",
+      "url": "https://doi.org/10.1007/s00421-016-3346-6"
+    }
+  ]
+}

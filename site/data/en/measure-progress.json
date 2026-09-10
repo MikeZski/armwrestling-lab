@@ -1,0 +1,53 @@
+{
+  "article": "measure-progress",
+  "language": "en",
+  "figure": {
+    "title": "Sampling frequency determines the gap between observations",
+    "caption": "Exact arithmetic: interval = 1,000 / frequency. These values illustrate temporal resolution only. They are not a product comparison, a guarantee of measurement quality or reconstructed athlete data.",
+    "labels": [
+      "Sampling frequency",
+      "Interval between samples"
+    ],
+    "unit": "ms"
+  },
+  "data": {
+    "kind": "table",
+    "origin": "calculation",
+    "formula": "interval_ms = 1000/frequency_Hz",
+    "rows": [
+      [
+        "80 Hz",
+        12.5
+      ],
+      [
+        "200 Hz",
+        5
+      ],
+      [
+        "500 Hz",
+        2
+      ],
+      [
+        "1000 Hz",
+        1
+      ]
+    ],
+    "precision": 1
+  },
+  "references": [
+    {
+      "authors": "Lakićević M, Dopsaj M, Marković S, Matić M, Klisarić D.",
+      "year": 2021,
+      "title": "Reliability of specific tests of strength of sports arm wrestling",
+      "journal": "Facta Universitatis, Series: Physical Education and Sport. 19(1):97–107.",
+      "url": "https://doi.org/10.22190/FUPES210606013L"
+    },
+    {
+      "authors": "Maffiuletti NA, Aagaard P, Blazevich AJ, Folland J, Tillin N, Duchateau J.",
+      "year": 2016,
+      "title": "Rate of force development: physiological and methodological considerations",
+      "journal": "European Journal of Applied Physiology. 116:1091–1116.",
+      "url": "https://doi.org/10.1007/s00421-016-3346-6"
+    }
+  ]
+}

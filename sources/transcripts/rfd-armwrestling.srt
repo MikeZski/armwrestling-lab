@@ -1,0 +1,363 @@
+1
+00:00:00,098 --> 00:00:12,155
+Speed is more important than strength in arm wrestling, and Denis Cyplenkov was the strongest left arm in history because our left arms are statistically slower.
+
+2
+00:00:12,876 --> 00:00:13,717
+Interesting claims?
+
+3
+00:00:13,958 --> 00:00:24,312
+We're going to go through the studies I have found about rate of force development, or, in general, speed in arm wrestling, and we're going to see if they are true.
+
+4
+00:00:24,673 --> 00:00:27,015
+There is some really interesting data.
+
+5
+00:00:27,476 --> 00:00:38,066
+And as I'm a person who has always believed that rate of force development, or, in general, speed, maybe I'm just going to use the word speed because there are many ways to measure it, speed of contraction.
+
+6
+00:00:38,927 --> 00:00:46,855
+I always believed that it's very important, but recent studies show us that maybe it's even more important than I thought.
+
+7
+00:00:46,895 --> 00:00:51,839
+So luckily, last year we had a few studies.
+
+8
+00:00:52,360 --> 00:00:54,482
+There aren't many of them.
+
+9
+00:00:54,562 --> 00:01:03,752
+But I made a small compilation of five of them, and maybe we'll get some nice answers from them.
+
+10
+00:01:03,932 --> 00:01:16,986
+So, the first study compared nine leading young arm wrestlers against twenty average or normal ones.
+
+11
+00:01:17,006 --> 00:01:19,569
+And this is what we got from it.
+
+12
+00:01:20,069 --> 00:01:21,591
+I made this table.
+
+13
+00:01:22,052 --> 00:01:24,274
+I just took the data from the study.
+
+14
+00:01:24,962 --> 00:01:32,710
+What has to be explained is that when you see the dot, it means that the difference was statistically significant.
+
+15
+00:01:33,291 --> 00:01:45,264
+When there isn't a dot, it could be random, or the chance that the difference is random was high enough for it not to be considered statistically significant.
+
+16
+00:01:45,805 --> 00:01:49,429
+And here we have a correlation with the group.
+
+17
+00:01:49,489 --> 00:01:58,239
+So, the higher the number, the greater the correlation with the leaders' group for this exercise or measurement.
+
+18
+00:01:58,820 --> 00:02:10,296
+So, what we see here is that in those exercises, the strength differences between leading and average athletes were not that high.
+
+19
+00:02:11,578 --> 00:02:18,327
+But we see here that, in hook and wrist flexion, the difference was significant, as expected.
+
+20
+00:02:18,788 --> 00:02:23,474
+The stronger athletes are better at arm wrestling.
+
+21
+00:02:23,714 --> 00:02:28,319
+We have here total time to maximum force across the four exercises.
+
+22
+00:02:28,479 --> 00:02:30,121
+And this is not statistically significant.
+
+23
+00:02:30,241 --> 00:02:34,746
+And this is very, very important for us to understand why speed matters.
+
+24
+00:02:34,806 --> 00:02:42,874
+Because we're not reaching our max in the time span of a fight.
+
+25
+00:02:43,835 --> 00:02:50,162
+So that's why maximum strength, in my opinion, doesn't matter that much, especially in tournaments.
+
+26
+00:02:50,562 --> 00:02:54,287
+Because you will not have time to reach your max.
+
+27
+00:02:54,707 --> 00:02:59,873
+As you see here, the average is like eight hundred to eight thousand six hundred milliseconds.
+
+28
+00:02:59,953 --> 00:03:01,876
+Now, that is like eight or nine seconds.
+
+29
+00:03:02,356 --> 00:03:03,518
+It's very high, by the way.
+
+30
+00:03:03,538 --> 00:03:15,332
+I don't know why it's so high, but still, you won't reach it during the fight, because you are in a losing position within half a second, not within five seconds.
+
+31
+00:03:16,914 --> 00:03:18,436
+Relative strength to body mass.
+
+32
+00:03:18,456 --> 00:03:20,178
+Yes, it had some correlation.
+
+33
+00:03:20,290 --> 00:03:27,037
+And here we have another interesting thing: fifty percent of maximal force.
+
+34
+00:03:27,057 --> 00:03:36,828
+And on the right, we have a greater difference than in any of the strength measurements.
+
+35
+00:03:37,088 --> 00:03:38,310
+Okay, so this is important.
+
+36
+00:03:38,730 --> 00:03:42,394
+And the left didn't show the same thing.
+
+37
+00:03:43,395 --> 00:04:02,608
+And now we're touching on the subject of Denis Cyplenkov. Maybe, maybe if he was pretty equal in both of these measurements, that was the difference that made him that much more dominant on the left arm.
+
+38
+00:04:02,688 --> 00:04:05,172
+We're going to check that later on too.
+
+39
+00:04:06,714 --> 00:04:25,697
+What is really important, and we can see it here easily, is what happens after five hundred milliseconds, which I believe is probably the most important speed measurement for arm wrestling, from three hundred to five hundred, maybe even eight hundred milliseconds, up to one second.
+
+40
+00:04:25,717 --> 00:04:33,889
+This is when your strength speed, like how fast your strength goes up, is actually important.
+
+41
+00:04:34,330 --> 00:04:41,360
+And we see that at five hundred milliseconds, all of these were statistically significant.
+
+42
+00:04:41,661 --> 00:04:57,645
+So, we see from this study that, as well as strength, the speed of contraction was the factor that showed who was in which group.
+
+43
+00:04:57,665 --> 00:05:03,072
+In this study, we had four very high-level athletes.
+
+44
+00:05:03,152 --> 00:05:05,335
+Athlete four was the lowest-level athlete.
+
+45
+00:05:06,016 --> 00:05:10,802
+Athlete one was the highest level, with the most medals of them all.
+
+46
+00:05:11,202 --> 00:05:16,670
+And I believe that athlete three might be Oleh Zhokh.
+
+47
+00:05:16,690 --> 00:05:20,075
+I would have to check how old Oleh Zhokh was in twenty twenty-three.
+
+48
+00:05:21,277 --> 00:05:26,204
+But, as we see, this is athlete three, because they were Ukrainian champions.
+
+49
+00:05:26,764 --> 00:05:36,679
+Athlete three was bizarrely strong on the left while not being that strong on the right.
+
+50
+00:05:37,860 --> 00:05:38,962
+So that might be him.
+
+51
+00:05:39,554 --> 00:05:41,356
+But what we're taking from this study is this.
+
+52
+00:05:41,376 --> 00:05:47,663
+So, athletes one and two were explosive types, and athletes three and four were endurance-type guys.
+
+53
+00:05:48,184 --> 00:05:50,146
+So the first one was the best.
+
+54
+00:05:50,586 --> 00:05:59,496
+The second was slightly faster in terms of reaching fifty percent of maximum force.
+
+55
+00:05:59,696 --> 00:06:03,020
+But what is very important is this.
+
+56
+00:06:04,041 --> 00:06:08,306
+So, the force reached after...
+
+57
+00:06:09,154 --> 00:07:00,946
+one hundred, two hundred, and five hundred milliseconds: athlete number one was significantly stronger at five hundred milliseconds, significantly stronger at three hundred milliseconds, and was not stronger at two hundred or one hundred. Okay, so maybe this one had a little bit better reaction time, but overall, within this window of five hundred milliseconds, athlete number one produced more strength than athlete number two, who was also explosive, and significantly more than athletes three and four, who were, you know, on the left... no, but on the right, you see they produced like twice as much power.
+
+58
+00:07:01,570 --> 00:07:09,580
+That was in the same five-hundred-millisecond window.
+
+59
+00:07:10,481 --> 00:07:11,322
+Let's go here.
+
+60
+00:07:11,362 --> 00:07:20,694
+These are endurance parameters, and obviously endurance athletes are way, way, way better in these two measurements.
+
+61
+00:07:21,354 --> 00:07:38,891
+And again, this is why rate of force development or speed in general might be more important than strength: athlete four, who was definitely less decorated than athlete one, had a similar overall strength level.
+
+62
+00:07:40,032 --> 00:07:46,178
+As you see, the differences were slight in four exercises.
+
+63
+00:07:47,560 --> 00:07:58,632
+And the reason why he was much worse than athlete one, as we see from this table, was only the speed of contraction.
+
+64
+00:07:59,453 --> 00:08:00,434
+So, obviously.
+
+65
+00:08:00,994 --> 00:08:09,663
+In the supermatch, it may be different, but in tournaments, I think this is very significant evidence that the rate of force development matters.
+
+66
+00:08:10,043 --> 00:08:18,431
+Because if you are strong, obviously that is good, because you also develop this force faster at the beginning.
+
+67
+00:08:18,451 --> 00:08:23,516
+But with a similar level of strength, the faster athlete will be much more dominant.
+
+68
+00:08:23,636 --> 00:08:26,419
+Obviously, we have only four guys here.
+
+69
+00:08:26,439 --> 00:08:29,362
+So this is a small study, but interesting.
+
+70
+00:08:30,306 --> 00:08:38,278
+Here, they compared nine athletes with similar experience in arm wrestling and in strength sports.
+
+71
+00:08:39,600 --> 00:08:55,484
+And they were also compared by size because, also, I think overall strength can be linked to the size of the muscle.
+
+72
+00:08:55,504 --> 00:08:56,966
+So let's go quickly through this.
+
+73
+00:08:57,407 --> 00:09:14,164
+We see that there is a huge correlation: the athletes, the arm wrestlers, were way faster and stronger, but the difference in speed was higher than in overall strength, while the difference in size was not that huge.
+
+74
+00:09:16,548 --> 00:09:21,635
+Okay, this study: seventy-three athletes, the top three versus the rest.
+
+75
+00:09:22,156 --> 00:09:26,002
+Again, we see here a difference in speed.
+
+76
+00:09:27,202 --> 00:09:31,167
+We don't see the difference in size between the top three and the rest.
+
+77
+00:09:32,049 --> 00:09:37,336
+And we see some difference in grip strength.
+
+78
+00:09:44,305 --> 00:09:45,387
+So that's pretty much it.
+
+79
+00:09:45,947 --> 00:09:53,778
+And the last study was just categorizing people by their level in the sport.
+
+80
+00:09:53,858 --> 00:10:09,044
+And we also see that size was not that huge a factor for the athletes, because they were relatively... they were bigger, but they were relatively not that huge.
+
+81
+00:10:09,065 --> 00:10:10,848
+So, these are the studies I went through.
+
+82
+00:10:11,188 --> 00:10:12,911
+So, what are we taking from this?
+
+83
+00:10:13,853 --> 00:10:22,562
+Well, as I said at the beginning, I think that rate of force development or speed of contraction is something that is very important in arm wrestling.
+
+84
+00:10:23,022 --> 00:10:29,572
+And here we have studies confirming whether it's more important than overall strength.
+
+85
+00:10:29,592 --> 00:10:30,593
+I would put it like that.
+
+86
+00:10:32,155 --> 00:10:49,790
+The most important factor is not overall strength or overall speed, but how much force you can produce in a window of one second or five hundred milliseconds.
+
+87
+00:10:51,472 --> 00:11:00,561
+And this factor, this information comes from both strength and rate of force development.
+
+88
+00:11:02,644 --> 00:11:07,349
+A small piece of information for you: I decided I'm going to open a website; I already bought the domain.
+
+89
+00:11:07,429 --> 00:11:16,018
+Maybe when I publish this video, this data will already be posted on GitHub, so you can download it and go through it.
+
+90
+00:11:16,578 --> 00:11:45,330
+And yes, you can say what you think about that. If you believe that this is important, how do you train rate of force development? Because I know that most of you don't train speed, or train it in a bad way. And for sure, very soon we will touch on the subject of how to train rate of force development and how not to train it, like in the previous video about Yari's training.
+
+91
+00:11:45,570 --> 00:12:03,506
+And, yeah. Oh, God, thanks. I made it shorter, because last time I was talking for twenty minutes; now I was spinning. I hope I didn't miss any important information. But if you want to know something more, just leave me a comment, and that's it. Bye.

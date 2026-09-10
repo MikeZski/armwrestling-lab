@@ -1,0 +1,60 @@
+{
+  "article": "body-mass-ffmi",
+  "language": "en",
+  "figure": {
+    "title": "The same athlete, three body-fat assumptions",
+    "caption": "Calculated example: 90 kg, 1.80 m. Only the assumed body-fat percentage changes. At this height the original normalisation adds zero. The figures are not empirical observations or recommended body-fat targets.",
+    "labels": [
+      "Assumed body fat",
+      "Fat-free mass",
+      "FFMI"
+    ],
+    "unit": "kg/m²"
+  },
+  "data": {
+    "kind": "table",
+    "origin": "calculation",
+    "formula": "FFM = 90 * (1 - body_fat/100); FFMI = FFM / 1.8**2",
+    "rows": [
+      [
+        "12%",
+        79.2,
+        24.44
+      ],
+      [
+        "15%",
+        76.5,
+        23.61
+      ],
+      [
+        "18%",
+        73.8,
+        22.78
+      ]
+    ],
+    "precision": 2
+  },
+  "references": [
+    {
+      "authors": "Kouri EM, Pope HG Jr, Katz DL, Oliva P.",
+      "year": 1995,
+      "title": "Fat-free mass index in users and nonusers of anabolic-androgenic steroids",
+      "journal": "Clinical Journal of Sport Medicine. 5(4):223–228.",
+      "url": "https://doi.org/10.1097/00042752-199510000-00003"
+    },
+    {
+      "authors": "Coletta F, Cesanelli L, Kamandulis S, Conte D.",
+      "year": 2025,
+      "title": "Comparative Analysis of Elbow Flexor Morphology, Physiology, and Performance Between Arm Wrestlers and Strength-Trained Athletes",
+      "journal": "Journal of Strength and Conditioning Research. 39(5):579–586.",
+      "url": "https://doi.org/10.1519/JSC.0000000000005071"
+    },
+    {
+      "authors": "Morton RW, et al.",
+      "year": 2018,
+      "title": "A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults",
+      "journal": "British Journal of Sports Medicine. 52:376–384.",
+      "url": "https://doi.org/10.1136/bjsports-2017-097608"
+    }
+  ]
+}

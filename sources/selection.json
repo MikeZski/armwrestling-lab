@@ -1,0 +1,56 @@
+{
+  "included": {
+    "RFD": "rfd-armwrestling",
+    "RFD science": "train-rfd",
+    "janis robi glupie rzeczy": "tendon-stiffness",
+    "keith baar": "keith-baar-isometrics",
+    "vitamine C": "collagen-vitamin-c",
+    "diet in armwrestling": "diet-armwrestling",
+    "overtraining": "overtraining",
+    "prawdziwa masa armwrestlerow": "body-mass-ffmi",
+    "progression": "measure-progress",
+    "side pressure": "side-pressure",
+    "what amkes an arwrestler great arwmrestler": "great-armwrestler",
+    "Enchanced games": "enhanced-games"
+  },
+  "excluded": [
+    {
+      "source_folder": "table time",
+      "reason": "Demonstration, exercise/setup instruction, or commentary without enough independently interpretable research content for this edition."
+    },
+    {
+      "source_folder": "why they quit",
+      "reason": "Demonstration, exercise/setup instruction, or commentary without enough independently interpretable research content for this edition."
+    },
+    {
+      "source_folder": "armwrestling handles",
+      "reason": "Demonstration, exercise/setup instruction, or commentary without enough independently interpretable research content for this edition."
+    },
+    {
+      "source_folder": "side rpessure ligament vs tendon",
+      "reason": "Demonstration, exercise/setup instruction, or commentary without enough independently interpretable research content for this edition."
+    },
+    {
+      "source_folder": "ból w nadgarstku",
+      "reason": "Demonstration, exercise/setup instruction, or commentary without enough independently interpretable research content for this edition."
+    },
+    {
+      "source_folder": "how to apply bfr",
+      "reason": "Demonstration, exercise/setup instruction, or commentary without enough independently interpretable research content for this edition."
+    },
+    {
+      "source_folder": "wiezadla w nadgarstku",
+      "reason": "Demonstration, exercise/setup instruction, or commentary without enough independently interpretable research content for this edition."
+    },
+    {
+      "source_folder": "devon larrat pronation",
+      "reason": "Demonstration, exercise/setup instruction, or commentary without enough independently interpretable research content for this edition."
+    },
+    {
+      "source_folder": "rugby ball",
+      "reason": "Demonstration, exercise/setup instruction, or commentary without enough independently interpretable research content for this edition."
+    }
+  ],
+  "input_archive": "youtube_EN_final_materials_2026-09-09.zip",
+  "archive_sha256": "47e88ac2b0381a24d1e191695da8016542ac2b2cfe7757bb03744b375681fa05"
+}

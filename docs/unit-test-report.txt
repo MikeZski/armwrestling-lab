@@ -1,0 +1,14 @@
+test_calculated_figures (test_site.SiteTests.test_calculated_figures) ... ok
+test_enabled_languages_complete (test_site.SiteTests.test_enabled_languages_complete) ... ok
+test_http_delivery_root_and_subpath (test_site.SiteTests.test_http_delivery_root_and_subpath) ... ok
+test_offline_build_does_not_publish_fake_domain (test_site.SiteTests.test_offline_build_does_not_publish_fake_domain) ... ok
+test_package_keeps_download_archives (test_site.SiteTests.test_package_keeps_download_archives) ... ok
+test_public_url_metadata_and_sitemap (test_site.SiteTests.test_public_url_metadata_and_sitemap) ... ok
+test_reports_are_real_pdfs_and_unchanged (test_site.SiteTests.test_reports_are_real_pdfs_and_unchanged) ... ok
+test_reproducible_build (test_site.SiteTests.test_reproducible_build) ... ok
+test_structure_under_repository_path (test_site.SiteTests.test_structure_under_repository_path) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 9.412s
+
+OK

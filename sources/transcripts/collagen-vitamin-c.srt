@@ -1,0 +1,775 @@
+1
+00:00:00,514 --> 00:00:20,125
+It was a pretty hard topic to research because of a few reasons, but I prepared a huge PDF, went through many studies, and I will try to give you the most valid answers to questions like: is vitamin C proven to help with collagen synthesis?
+
+2
+00:00:20,986 --> 00:00:28,498
+Is collagen in food proven to help with collagen synthesis?
+
+3
+00:00:29,218 --> 00:00:32,685
+Is collagen any better than any other source of protein?
+
+4
+00:00:33,927 --> 00:00:42,183
+And after we go through everything, I will tell you what I will do with my own diet and how I implement this knowledge.
+
+5
+00:00:44,026 --> 00:00:44,788
+So let's start.
+
+6
+00:00:46,030 --> 00:00:52,402
+Last time I recorded this video, it was thirty minutes long, so I'm going to skip a lot of things because
+
+7
+00:00:52,610 --> 00:00:54,032
+I think there is a pain limit.
+
+8
+00:00:54,553 --> 00:01:01,302
+Maybe even for me that would be too much, to watch thirty minutes talking about collagen itself.
+
+9
+00:01:01,322 --> 00:01:04,927
+So I will try to go a little bit faster for this.
+
+10
+00:01:06,028 --> 00:01:14,921
+Okay, so I made a short plan, and the first thing I want to talk with you about is the level of evidence in the studies, because that's the biggest problem.
+
+11
+00:01:15,021 --> 00:01:20,008
+So, for example, this PINP.
+
+12
+00:01:20,408 --> 00:01:21,650
+Okay, so this is
+
+13
+00:01:22,306 --> 00:01:42,322
+let's say, a byproduct of collagen synthesis, so we are measuring it and we know if collagen type one actually happened or not, which does not tell us if our tendon changed. And this is what interests us. That's why, unfortunately, we cannot take many studies really seriously, because they are showing
+
+14
+00:01:42,498 --> 00:02:10,546
+okay, maybe there is some improvement in the skin, maybe there was collagen synthesis. We don't know how much of the collagen was synthesized there, right? So it was broken down. It doesn't tell us. So I prepared five levels of evidence. First, if the amino acid is present in the blood, it tells you nothing aside from this. If it's present, it can be useful, and you will see how.
+
+15
+00:02:10,818 --> 00:02:13,081
+But in general, it doesn't tell you if it works.
+
+16
+00:02:14,162 --> 00:02:15,704
+The second one we already discussed.
+
+17
+00:02:16,946 --> 00:02:20,089
+Whole-body tracer, okay.
+
+18
+00:02:20,350 --> 00:02:24,655
+These three we are just skipping because they are not really important for us.
+
+19
+00:02:24,755 --> 00:02:32,124
+But levels four and five, aside from this one, that will help with one logical thing later on.
+
+20
+00:02:32,905 --> 00:02:36,690
+But level four and level five, it's what we actually want to
+
+21
+00:02:36,866 --> 00:02:39,369
+take a look at. Level five especially.
+
+22
+00:02:39,429 --> 00:02:46,457
+So here we have a biopsy that confirms that collagen synthesis actually happened.
+
+23
+00:02:47,598 --> 00:02:52,183
+But it's not net collagen synthesis.
+
+24
+00:02:52,203 --> 00:02:57,649
+So we don't know how much of this collagen was actually broken down.
+
+25
+00:02:58,310 --> 00:03:01,653
+So we don't know if the tissue grew or not.
+
+26
+00:03:02,334 --> 00:03:05,778
+We know that just new collagen synthesis happened.
+
+27
+00:03:05,954 --> 00:03:23,060
+But if you end up with ninety-nine point ninety-nine percent volume of your tendon and there was like five percent, of course this is too much, but five percent degraded and four percent synthesized, you still see four percent as synthesized.
+
+28
+00:03:23,080 --> 00:03:24,723
+That's why it's not the best.
+
+29
+00:03:24,963 --> 00:03:26,105
+The best is level five.
+
+30
+00:03:28,428 --> 00:03:34,898
+So I put all these studies into the perspective of
+
+31
+00:03:35,266 --> 00:03:46,056
+the level of evidence, and I excluded those that are less useful for us.
+
+32
+00:03:46,617 --> 00:03:53,263
+So at level four, we see that something starts to happen.
+
+33
+00:03:53,984 --> 00:04:02,292
+Actually, there is a difference, a positive difference, when vitamin C and collagen are combined.
+
+34
+00:04:02,592 --> 00:04:04,754
+There is something happening.
+
+35
+00:04:04,962 --> 00:04:13,555
+And let's take a look at level five, which shows us, for example, this study, which I really hate.
+
+36
+00:04:14,396 --> 00:04:15,337
+I'm going to tell you why.
+
+37
+00:04:16,199 --> 00:04:31,922
+It shows very, very good potential for growing everything with your tendons: stiffness, modulus, cross-sectional area, everything.
+
+38
+00:04:32,706 --> 00:04:39,634
+And in general, we see there is a positive trend among all the studies.
+
+39
+00:04:39,834 --> 00:04:43,458
+I'm not going to go through each one of them because it's too much.
+
+40
+00:04:43,538 --> 00:04:51,347
+I'm going to take this one, and maybe I will take this also, just to touch a little bit on the problems that we have here.
+
+41
+00:04:51,367 --> 00:05:00,658
+So, as of now, you see, okay, there is evidence that collagen helps with growing tendons, helps with stiffness,
+
+42
+00:05:00,994 --> 00:05:05,299
+and improves the mechanical parameters of the tendon in general.
+
+43
+00:05:05,359 --> 00:05:06,280
+So great, okay.
+
+44
+00:05:06,320 --> 00:05:12,528
+So now it's time to make you sad, because it's not what it seems.
+
+45
+00:05:12,568 --> 00:05:16,953
+There is a problem, and there is a huge problem.
+
+46
+00:05:16,993 --> 00:05:23,761
+And I'm taking this study as an example because it's the most valid one.
+
+47
+00:05:24,762 --> 00:05:28,306
+So the study itself is really,
+
+48
+00:05:28,482 --> 00:05:31,927
+really great. I'm going to show you.
+
+49
+00:05:32,247 --> 00:05:33,129
+Oh, so this is this one.
+
+50
+00:05:33,769 --> 00:05:37,234
+Okay, so placebo group and collagen group.
+
+51
+00:05:37,254 --> 00:05:43,904
+So as you see, growth in all these three categories is spectacular, right?
+
+52
+00:05:44,965 --> 00:05:47,669
+It grew like more than four times.
+
+53
+00:05:48,971 --> 00:05:49,832
+It's spectacular.
+
+54
+00:05:51,915 --> 00:05:56,882
+So now you see, like, okay, I'm just buying my collagen, right?
+
+55
+00:05:58,146 --> 00:06:00,189
+But the study was done completely wrong.
+
+56
+00:06:00,670 --> 00:06:03,154
+And unfortunately, all of them are like that.
+
+57
+00:06:03,915 --> 00:06:19,279
+So if you take a closer look, the guys who ate collagen were at about eighty-one grams of protein per day, which gives one point zero five grams per kilogram.
+
+58
+00:06:20,141 --> 00:06:26,130
+And the guys in the placebo group were at about one point one grams per kilogram.
+
+59
+00:06:28,354 --> 00:06:40,405
+And when they added thirty grams of collagen, they boosted daily protein intake by almost forty percent in only one group.
+
+60
+00:06:42,167 --> 00:06:43,969
+So everything is fine.
+
+61
+00:06:44,069 --> 00:06:54,258
+We are measuring what we have, but one group is getting a forty percent boost in protein intake, like whole daily intake.
+
+62
+00:06:55,119 --> 00:06:58,322
+And it's not taken under any consideration.
+
+63
+00:06:58,914 --> 00:07:07,422
+So how can we know that this adaptation happened because they were all on a low-protein diet? Because let's be honest, that's a low-protein diet.
+
+64
+00:07:07,702 --> 00:07:12,667
+That's okay for a person who is not doing any sport, like strength sport.
+
+65
+00:07:12,687 --> 00:07:18,893
+For anyone who is doing strength sport, these values would be way higher, because optimal is known to be one point six, right?
+
+66
+00:07:18,933 --> 00:07:19,974
+So it's way higher.
+
+67
+00:07:20,935 --> 00:07:28,242
+So these guys are getting forty percent more protein in general, and especially collagen, and now
+
+68
+00:07:28,418 --> 00:07:29,499
+they have better results.
+
+69
+00:07:30,320 --> 00:07:34,865
+How does it put all this study? It's completely useless, unfortunately.
+
+70
+00:07:35,386 --> 00:07:45,637
+And if we take a look at all of these studies, we see that the numbers are low protein doses.
+
+71
+00:07:45,877 --> 00:07:53,906
+And there are some that are higher in protein, but still one point four
+
+72
+00:07:54,338 --> 00:08:24,274
+in a female soccer academy, which are very small people, because women are smaller than men, especially when they are lean and playing soccer. So the protein intake, even if it was better, one point four, still was low compared to, for example, lifters. And what happened in this situation, when we matched one point four, so closer to the optimal intake?
+
+73
+00:08:25,314 --> 00:08:28,459
+We don't see any cross-sectional area changes.
+
+74
+00:08:29,220 --> 00:08:43,523
+We see some mechanical adaptation, but we don't see that the tendon actually grew better or that it's bigger than it was in the placebo group.
+
+75
+00:08:43,544 --> 00:08:52,498
+So that's again something that shows us, okay, here we have great hypertrophy of the tendon, but here, in another situation, not really.
+
+76
+00:08:54,178 --> 00:09:09,139
+And here, again, this is the huge problem. How do you even compare one point eight to one point three protein and expect some difference?
+
+77
+00:09:09,539 --> 00:09:22,898
+But anyway, if we start to talk about a better amount of protein, like one point three here, there is no collagen-specific tendon hypertrophy.
+
+78
+00:09:23,554 --> 00:09:30,442
+The higher we go with protein intake, the more we see that this difference is disappearing.
+
+79
+00:09:30,843 --> 00:09:33,046
+There might be some mechanical adaptation, though.
+
+80
+00:09:34,127 --> 00:09:39,494
+But still, as I'm saying, they do not eat as much as lifters do.
+
+81
+00:09:40,775 --> 00:09:41,776
+And they are small people.
+
+82
+00:09:41,816 --> 00:09:49,586
+And I'm going to explain to you why being small actually matters, because it's maybe not linear, like
+
+83
+00:09:49,730 --> 00:10:18,610
+if you are smaller, you eat less, and it's proportional. That might not be true, and it's because of this collagen amino acid chain that I will tell you about in a second. Maybe you will agree with me. So the studies actually, in my opinion, fail because of inconsistency. There is one, actually there was one study that was pretty good. It was this one.
+
+84
+00:10:19,266 --> 00:10:31,198
+They compared normal protein, collagen, vitamin C, and placebo, but they didn't publish the results.
+
+85
+00:10:32,660 --> 00:10:46,994
+And it's because this study was kind of sponsored, or in different words, it was testing a commercial product of one company.
+
+86
+00:10:47,426 --> 00:10:53,574
+So if they had results but didn't publish them, I mean, I think it speaks for itself.
+
+87
+00:10:54,915 --> 00:11:09,173
+Because imagine how huge a disaster it would be if whey isolate were better, or placebo were exactly the same as the product they tried to sell, or the difference were really small.
+
+88
+00:11:10,154 --> 00:11:16,242
+So this is, even if it's not published, giving us some information, but I'm not going to, you know,
+
+89
+00:11:16,386 --> 00:11:45,810
+use it in my final consideration of what we should or should not do. But yeah, we are lacking good studies. We are lacking good studies for our case, that is for sure. But there are some unique features about collagen that actually might explain a little bit why
+
+90
+00:11:46,946 --> 00:12:03,569
+even if it's not proven well and it might just be regular protein, there is also something that can tell us why this collagen might work in small people especially, or in low protein especially.
+
+91
+00:12:03,669 --> 00:12:06,453
+This is how collagen is made.
+
+92
+00:12:06,774 --> 00:12:15,666
+So glycine and proline are way higher than in any other protein that we have here.
+
+93
+00:12:16,130 --> 00:12:18,132
+I just put whey, chicken, pea, soy.
+
+94
+00:12:18,272 --> 00:12:23,658
+Okay, so we have classic sources of protein, from vegan to meat.
+
+95
+00:12:23,898 --> 00:12:31,967
+Like, most of us eat all of them, and some of us are just based on one of them particularly.
+
+96
+00:12:32,908 --> 00:12:38,915
+So, as you see, the glycine level is really, really high compared to any of them.
+
+97
+00:12:38,975 --> 00:12:42,699
+Proline is significantly higher, but glycine is really higher.
+
+98
+00:12:43,340 --> 00:12:45,522
+So if
+
+99
+00:12:45,602 --> 00:13:03,648
+we want to make our own collagen, maybe, maybe, our normal diet without collagen is not giving us enough glycine or proline, so supplementing collagen will help us with synthesizing.
+
+100
+00:13:03,688 --> 00:13:12,680
+Because obviously, I'm skipping this part to make it faster, you do not turn collagen eaten into the collagen you have.
+
+101
+00:13:12,740 --> 00:13:13,842
+And if you
+
+102
+00:13:14,018 --> 00:13:17,462
+take a look at this hydroxyproline,
+
+103
+00:13:17,742 --> 00:13:21,827
+this is something that you might say, okay, but it has hydroxyproline.
+
+104
+00:13:22,247 --> 00:13:32,719
+And if only collagen has hydroxyproline, and it needs it to make our own collagen that has hydroxyproline, it means that we need to eat collagen.
+
+105
+00:13:32,739 --> 00:13:39,246
+That's complete bullshit, because this hydroxyproline is made from proline.
+
+106
+00:13:39,706 --> 00:13:42,930
+So to synthesize collagen, you take
+
+107
+00:13:43,170 --> 00:13:52,799
+proline and convert some part of it to hydroxyproline. You are not using this hydroxyproline, so eating it doesn't really matter.
+
+108
+00:13:53,220 --> 00:13:59,105
+And one thing worth mentioning, I should do it before, is why even bother?
+
+109
+00:13:59,446 --> 00:14:04,410
+Why even bother trying to replace collagen?
+
+110
+00:14:04,430 --> 00:14:08,895
+Because it works, or it doesn't, there is some proof, okay, I'm going to blast collagen, why not?
+
+111
+00:14:09,275 --> 00:14:12,338
+Well, first of all, collagen is a very low-quality protein.
+
+112
+00:14:12,546 --> 00:14:16,272
+So as you see, leucine is at a very low level.
+
+113
+00:14:16,292 --> 00:14:31,456
+So if you would like to add or replace some protein with collagen in your diet, you better go up with total protein intake in your diet, because you will have worse quality protein.
+
+114
+00:14:31,536 --> 00:14:35,984
+It's almost three times lower in leucine than pea, right?
+
+115
+00:14:36,985 --> 00:14:38,888
+So that's one thing.
+
+116
+00:14:39,149 --> 00:14:40,050
+And the second thing,
+
+117
+00:14:40,354 --> 00:14:41,715
+it is hard to digest.
+
+118
+00:14:41,896 --> 00:14:47,421
+I mean, collagen is not really something that our digestive system likes.
+
+119
+00:14:47,621 --> 00:14:51,225
+So if you're going to eat a lot of this, you're just going to suffer.
+
+120
+00:14:51,365 --> 00:14:58,052
+I mean, not everyone, but there is a slight chance your digestive system will be more charged.
+
+121
+00:14:58,072 --> 00:15:04,759
+And the third thing: collagen, because of this collagen hype train we have right now, is expensive.
+
+122
+00:15:04,779 --> 00:15:07,922
+So that's the three reasons.
+
+123
+00:15:09,698 --> 00:15:18,709
+We know why I'm thinking about whether we should replace it or not, but let's go further.
+
+124
+00:15:19,810 --> 00:15:25,297
+Okay, so because of this, because of this, let's go to page number ten.
+
+125
+00:15:26,859 --> 00:15:36,050
+Okay, because of this, there is something that might actually be beneficial to using collagen, even if we're having
+
+126
+00:15:36,546 --> 00:15:45,300
+this source of collagen, the requirements of collagen are delivered with other proteins.
+
+127
+00:15:45,320 --> 00:16:03,730
+So after exercise, there was a study that compared whey protein and collagen. These are amounts compared to just whey protein, and this is the glycine drop.
+
+128
+00:16:03,810 --> 00:16:05,392
+Glycine availability dropped.
+
+129
+00:16:05,412 --> 00:16:10,557
+And that's why I said that this is this level number one evidence that is actually useful.
+
+130
+00:16:11,278 --> 00:16:14,821
+We see that after exercise, this level drops.
+
+131
+00:16:14,841 --> 00:16:19,927
+And if you add only five grams of collagen, this level doesn't drop.
+
+132
+00:16:20,267 --> 00:16:31,058
+So if availability of one brick needed to construct collagen is missing,
+
+133
+00:16:31,266 --> 00:16:45,985
+there might be a slowdown in this production, or it just might be the symptom of intensive production. But still, this is something worth registering and worth mentioning.
+
+134
+00:16:48,168 --> 00:16:59,122
+And already we see that five grams of... Because we have absolutely zero proof that availability, like higher availability, changes anything.
+
+135
+00:16:59,426 --> 00:17:01,289
+We have zero proof.
+
+136
+00:17:01,309 --> 00:17:07,398
+It can be like three hundred, and we don't know if that matters, because that's level one evidence.
+
+137
+00:17:07,839 --> 00:17:12,506
+But we know that five grams is enough to prevent a drop.
+
+138
+00:17:13,728 --> 00:17:14,549
+That's enough.
+
+139
+00:17:16,072 --> 00:17:26,508
+And actually, the drop is more interesting for us rather than building, you know, this stacking of plasma glycine one on top of another.
+
+140
+00:17:26,848 --> 00:17:28,050
+Okay, so now
+
+141
+00:17:28,450 --> 00:17:57,906
+we are going to page twenty, because you said, okay, so now I am buying my collagen because I have enough evidence. So hold on. This is a big problem, actually. Our body replaces from two to three grams of collagen per day on average, which means that amount
+
+142
+00:17:58,082 --> 00:18:23,378
+of daily collagen synthesis and replacement is possible to count. Obviously, we don't know where the ceiling is, what's the max. But why is it important? Because if we take a look at how much of this proline and glycine we need to make our own
+
+143
+00:18:23,778 --> 00:18:43,902
+two to three grams of collagen per day, we see that we actually don't need that much. We don't need to eat that much collagen.
+
+144
+00:18:44,303 --> 00:18:53,714
+Because look, we need only five grams of collagen to cover this two- to three-gram replacement as the only protein during a day.
+
+145
+00:18:54,018 --> 00:18:58,382
+I mean, you eat zero other protein, and five grams is enough.
+
+146
+00:18:58,803 --> 00:19:04,569
+It's seventeen grams of soy protein, eighteen grams of pea protein.
+
+147
+00:19:04,989 --> 00:19:11,476
+It's twenty-two grams of chicken, which means one hundred grams of chicken breast, for example.
+
+148
+00:19:12,577 --> 00:19:15,800
+Or thirty grams of whey, like whey protein.
+
+149
+00:19:16,260 --> 00:19:21,746
+So knowing how much you eat on average a day, you see
+
+150
+00:19:24,354 --> 00:19:26,016
+that it is not a significant amount.
+
+151
+00:19:27,077 --> 00:19:35,586
+And I'm going to show you, I'm going to show you... No, I'm going to tell you. I'm not going to show you.
+
+152
+00:19:35,686 --> 00:19:51,122
+For example, I calculated my own intake of glycine and proline in my diet, where I don't supplement collagen at all. I chose three days.
+
+153
+00:19:51,522 --> 00:20:02,775
+Glycine was seven hundred forty-three percent of what I need to build three grams of collagen.
+
+154
+00:20:03,836 --> 00:20:08,862
+Another day was six hundred fifty-seven, another day was seven hundred percent.
+
+155
+00:20:09,463 --> 00:20:14,368
+So on average, seven times more, without supplementing collagen.
+
+156
+00:20:15,209 --> 00:20:19,154
+And proline, I had from fourteen
+
+157
+00:20:19,458 --> 00:20:25,608
+to nineteen times more than I need to build three grams of collagen.
+
+158
+00:20:25,688 --> 00:20:27,872
+And this is my normal diet.
+
+159
+00:20:27,972 --> 00:20:44,338
+So of course, if someone is way smaller than me and eats way less protein, there might be a chance they eat, like, maybe one hundred percent, maybe two hundred percent of daily protein.
+
+160
+00:20:44,610 --> 00:20:52,839
+This collagen replacement amount that I've created for this video.
+
+161
+00:20:52,859 --> 00:20:55,703
+And maybe then they will benefit from this collagen.
+
+162
+00:20:55,863 --> 00:21:04,993
+But the question is: if I eat like fourteen times more or seven times more, will I have any extra benefit from the collagen?
+
+163
+00:21:08,277 --> 00:21:12,882
+And there are vegans coming in, which is already
+
+164
+00:21:13,442 --> 00:21:38,770
+a big problem, because actually there were studies, and the studies showed that you can have this PINP, so this is level two in evidence, higher in vegans than in omnivores, while they are not eating any collagen at all, any meat, any tissue, nothing, right?
+
+165
+00:21:39,970 --> 00:21:45,576
+And collagen is proven to be synthesized without the need to eat it.
+
+166
+00:21:46,477 --> 00:21:55,728
+All you need, like it's the old pattern, is enough vitamin C. And if you have training, that helps also.
+
+167
+00:21:55,788 --> 00:21:58,411
+So this is something we have.
+
+168
+00:21:58,531 --> 00:22:01,594
+So as you see, we have a lot of problems.
+
+169
+00:22:01,634 --> 00:22:02,996
+I'm going to show you the studies.
+
+170
+00:22:03,196 --> 00:22:05,358
+You can read the screenshots.
+
+171
+00:22:07,961 --> 00:22:08,722
+We have
+
+172
+00:22:08,802 --> 00:22:32,978
+some conflicting evidence. We have low-quality studies, we have vegans, we have calculations, but we don't know what the ceiling of collagen synthesis is. No one measured that. So what can we do with all this mess? Obviously, we can wait for better studies, because they will come. They have to come.
+
+173
+00:22:33,538 --> 00:22:37,864
+And they will come, and finally we'll have some good studies and good answers.
+
+174
+00:22:37,884 --> 00:22:46,237
+The problem is this collagen hype train is real, and they want to sell collagen.
+
+175
+00:22:46,457 --> 00:23:00,658
+So the studies might be designed in a way that, if you take a look at the surface, they show that collagen actually works, but then you discover that one group was thirty-seven percent
+
+176
+00:23:00,962 --> 00:23:03,685
+higher in daily protein intake than the other one.
+
+177
+00:23:06,308 --> 00:23:13,297
+That's why I'm going to be very careful with new studies about collagen, and I will wait for really good ones.
+
+178
+00:23:13,417 --> 00:23:17,001
+Unfortunately, one that was really good was not published.
+
+179
+00:23:18,282 --> 00:23:28,114
+But I think using logic and what we've seen, we can have some takeaway.
+
+180
+00:23:30,146 --> 00:23:59,826
+If you eat a high-protein diet and there is enough high-quality protein, there is a chance, like a huge chance, that if you load your tendons well and if you have enough vitamin C in your diet... And by enough vitamin C in your diet, you would have to understand that if you have this, I don't have it right now, but the smallest spoon to measure stuff with, one milliliter, so actually
+
+181
+00:24:00,066 --> 00:24:07,455
+the whole daily intake is not even going to be a quarter of that spoon if we are talking powder.
+
+182
+00:24:07,515 --> 00:24:10,758
+And obviously, you have your vitamin C in a lot of foods.
+
+183
+00:24:11,239 --> 00:24:18,067
+So you can supplement vitamin C, but just a little bit, because there is no reason why you would do it more.
+
+184
+00:24:19,429 --> 00:24:24,114
+Like, you don't have to eat it by the spoonful, because it won't give you any effect, because there is no
+
+185
+00:24:24,546 --> 00:24:50,642
+difference if you eat one gram, or half a gram, or fifty milligrams, actually. There is no dose-response relation. So just make sure that there is vitamin C in your diet. If you want to supplement it, supplement it, but in general, there is a slight chance you don't have enough vitamin C in your diet. So there is a huge chance that
+
+186
+00:24:51,074 --> 00:24:56,900
+without collagen, without extra vitamin C, if you have a healthy and good diet, you're good.
+
+187
+00:24:57,280 --> 00:25:05,208
+There is a huge chance that it works like that, but obviously we don't want to be good, we want to be the best, right?
+
+188
+00:25:05,789 --> 00:25:18,962
+So the only thing I can possibly think of that can be beneficial for us is to actually use this
+
+189
+00:25:20,482 --> 00:25:48,178
+study, okay? This study, and add these five grams of collagen before or straight after a heavy workout to be sure that we don't have this glycine drop. So we don't know if it will actually help. We know that it will prevent one of
+
+190
+00:25:49,122 --> 00:26:18,706
+the bricks needed to build collagen from being missing after exercise. So there is a chance that collagen synthesis or our tendons' mechanics and size will change in a positive way. It's not proven, but this is what I think is the most rational. So this is what I will do. I will get my collagen.
+
+191
+00:26:19,170 --> 00:26:29,063
+But I will eat that only four times a week, because four times a week, or three times a week, I actually train with weights.
+
+192
+00:26:29,203 --> 00:26:44,462
+And I will eat these five grams only before my exercises, and I will throw in fifty milligrams of vitamin C. So that's it.
+
+193
+00:26:45,243 --> 00:26:47,346
+You take from it whatever you want.
+
+194
+00:26:48,994 --> 00:26:49,792
+And bye.

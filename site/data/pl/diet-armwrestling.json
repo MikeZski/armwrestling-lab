@@ -1,0 +1,58 @@
+{
+  "article": "diet-armwrestling",
+  "language": "pl",
+  "figure": {
+    "title": "Punkt odniesienia nie jest twardym limitem",
+    "caption": "Morton i wsp. (2018): oszacowany punkt załamania zależności między białkiem a dodatkowym przyrostem beztłuszczowej masy podczas treningu. Estymata: 1,62 g/kg/dzień; 95% PU: 1,03–2,20. To niepewność modelu, nie zalecany zakres spożycia dla każdego czytelnika.",
+    "labels": [
+      "Oszacowany punkt załamania",
+      "95-procentowy przedział ufności"
+    ],
+    "unit": "g/kg/dzień"
+  },
+  "data": {
+    "kind": "interval",
+    "origin": "reported",
+    "source_url": "https://doi.org/10.1136/bjsports-2017-097608",
+    "headers": [
+      "outcome",
+      "estimate",
+      "lower_95",
+      "upper_95"
+    ],
+    "rows": [
+      [
+        0,
+        1.62,
+        1.03,
+        2.2
+      ]
+    ],
+    "min": 0,
+    "max": 2.5,
+    "precision": 2
+  },
+  "references": [
+    {
+      "authors": "Morton RW, et al.",
+      "year": 2018,
+      "title": "A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults",
+      "journal": "British Journal of Sports Medicine. 52:376–384.",
+      "url": "https://doi.org/10.1136/bjsports-2017-097608"
+    },
+    {
+      "authors": "Nulty CD, Phelan K, Erskine RM.",
+      "year": 2025,
+      "title": "Hydrolysed Collagen Supplementation Enhances Patellar Tendon Adaptations to 12 Weeks’ Resistance Training in Middle-Aged Men",
+      "journal": "European Journal of Sport Science. 25:e12281.",
+      "url": "https://doi.org/10.1002/ejsc.12281"
+    },
+    {
+      "authors": "Meeusen R, et al.",
+      "year": 2013,
+      "title": "Prevention, diagnosis, and treatment of the overtraining syndrome: joint consensus statement of the European College of Sport Science and the American College of Sports Medicine",
+      "journal": "Medicine & Science in Sports & Exercise. 45:186–205.",
+      "url": "https://doi.org/10.1249/MSS.0b013e318279a10a"
+    }
+  ]
+}

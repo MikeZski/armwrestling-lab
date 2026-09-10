@@ -1,0 +1,89 @@
+{
+  "article": "keith-baar-isometrics",
+  "language": "en",
+  "figure": {
+    "title": "Tendon adaptation is not just an increase in size",
+    "caption": "Lazarczuk et al. (2022): pooled standardised pre-to-post changes with 95% confidence intervals. Based on 61 articles overall, with different contributing groups for each outcome. SMD is unitless—not a percentage or an effect against a single control group.",
+    "labels": [
+      "Stiffness",
+      "Young’s modulus",
+      "Cross-sectional area"
+    ],
+    "unit": "SMD · 95% CI"
+  },
+  "data": {
+    "kind": "interval",
+    "origin": "reported",
+    "source": "tendon-isometrics",
+    "pages": [
+      3
+    ],
+    "source_url": "https://doi.org/10.1007/s40279-022-01695-y",
+    "headers": [
+      "outcome",
+      "estimate",
+      "lower_95",
+      "upper_95"
+    ],
+    "rows": [
+      [
+        0,
+        0.74,
+        0.62,
+        0.86
+      ],
+      [
+        1,
+        0.82,
+        0.58,
+        1.07
+      ],
+      [
+        2,
+        0.22,
+        0.12,
+        0.33
+      ]
+    ],
+    "min": 0,
+    "max": 1.2,
+    "precision": 2
+  },
+  "references": [
+    {
+      "authors": "Paxton JZ, Hagerty P, Andrick JJ, Baar K.",
+      "year": 2012,
+      "title": "Optimizing an Intermittent Stretch Paradigm Using ERK1/2 Phosphorylation Results in Increased Collagen Synthesis in Engineered Ligaments",
+      "journal": "Tissue Engineering Part A. 18:277–284.",
+      "url": "https://doi.org/10.1089/ten.tea.2011.0336"
+    },
+    {
+      "authors": "Lazarczuk SL, et al.",
+      "year": 2022,
+      "title": "Mechanical, Material and Morphological Adaptations of Healthy Lower Limb Tendons to Mechanical Loading: A Systematic Review and Meta-Analysis",
+      "journal": "Sports Medicine. 52:2405–2429.",
+      "url": "https://doi.org/10.1007/s40279-022-01695-y"
+    },
+    {
+      "authors": "Rio E, et al.",
+      "year": 2015,
+      "title": "Isometric exercise induces analgesia and reduces inhibition in patellar tendinopathy",
+      "journal": "British Journal of Sports Medicine. 49:1277–1283.",
+      "url": "https://doi.org/10.1136/bjsports-2014-094386"
+    },
+    {
+      "authors": "Clifford C, Challoumas D, Paul L, Syme G, Millar NL.",
+      "year": 2020,
+      "title": "Effectiveness of isometric exercise in the management of tendinopathy: a systematic review and meta-analysis of randomised trials",
+      "journal": "BMJ Open Sport & Exercise Medicine. 6:e000760.",
+      "url": "https://doi.org/10.1136/bmjsem-2020-000760"
+    },
+    {
+      "authors": "Oranchuk DJ, Storey AG, Nelson AR, Cronin JB.",
+      "year": 2019,
+      "title": "Isometric training and long-term adaptations: Effects of muscle length, intensity, and intent: A systematic review",
+      "journal": "Scandinavian Journal of Medicine & Science in Sports. 29:484–503.",
+      "url": "https://doi.org/10.1111/sms.13375"
+    }
+  ]
+}
